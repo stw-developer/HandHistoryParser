@@ -1,0 +1,4799 @@
+Delivered-To: sherhan.wicky@gmail.com
+Received: by 10.79.136.132 with SMTP id k126csp832667ivd;
+        Thu, 11 May 2017 05:28:05 -0700 (PDT)
+X-Received: by 10.28.174.131 with SMTP id x125mr757801wme.32.1494505685659;
+        Thu, 11 May 2017 05:28:05 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1494505685; cv=none;
+        d=google.com; s=arc-20160816;
+        b=VTg4RvKpTx9DPSnLzdmKZOwtQjB4x6O+N1B21dAZWTeyerlgRHCt4wnQNPi0Y8bbI+
+         2uqn20IxswSWAJaD7QVOgnVNX2YAGT//ONVKIdmW0RH6Q06IaLCbkKHZgbFouYeACff7
+         JJ+Kx8F8FI0vqM6Bi+zYrQkCtE4j1rQRtGzWVrcL+I9w2BohO3A/M4Vm9H6pVpwbd+iW
+         GKfSyRT/1g0FbGLzofQjpJiIvBvvHNZCY4A0SRxjfMhs7GwF+qvY4P0E7O/sIfbhlEYL
+         oQDHNTFnzG4/Xf4eRytoluU7OYHAlhJGoqkrQ3QYxxsB+rhEcNz4eAFPdXE4bT/l2W5y
+         +1Lg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:message-id:subject:to:from
+         :date:dkim-signature:arc-authentication-results;
+        bh=dBuiTiyIvqD5c4OjQeNjjoMZgqH3r7JkxTdO+U1mZR0=;
+        b=L+5eIKmiydvE4FXOd4tEXIS5r2jXdXnrDvRf+3OZceNwJe5X1me3yeAGXlEiPBh35m
+         K6pMFR9GP0T+x2veyT+lObT5+a7L6lFRxxZ8lY56u+XU4kdbp3Xl3uliAqUgf7oaAuhy
+         LlwiMflq+1LC50BMDE/shovQuu6eOaFzQ9gQU89XhmHp/ZW5xMPl+Y0PlQqzMnb1KqAy
+         Fpa+w1cyu0JXW9IR0fhq4iWOwFB8horjYwHIIXS8SzoHIrNXMFmc7IWEZAMt3IL3iv/3
+         +CkM0+zzh0q26nWwrBsARyJbpt5rD35i27MCouh31uJ9Lp4wqV2E9qD2nB6J1Y4+0omU
+         HPkA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=pokerstars.com
+Return-Path: <support@pokerstars.com>
+Received: from mx13.pokerstars.eu (mx13.pokerstars.eu. [77.87.179.125])
+        by mx.google.com with ESMTPS id e137si7210231wmg.138.2017.05.11.05.28.05
+        for <sherhan.wicky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 11 May 2017 05:28:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) client-ip=77.87.179.125;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=pokerstars.com
+Received: by mx13.pokerstars.eu (mailer, from userid 503)
+	id E3C741FC24BC; Thu, 11 May 2017 08:28:04 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pokerstars.com; h=date
+	:from:to:subject:message-id:mime-version:content-type
+	:content-transfer-encoding; s=s1024; bh=pIG+JhGFjzhAXajMvZiknVNv
+	eYk=; b=Y2k9Jz7ZmDflujKiLcYa29JQswtbZJ3fk3hhScP4/+NYHcyc9+1Wle5x
+	RIqRcMrHjsDvtn7hirFrsg44MNSnLg+iCg1FdiKxOirPjyORzxIrRlkcy/tp3JdL
+	U4keXcf8dFvoU2En3PY/GsQHJhRhcq1EqMB8kL/QEyHJ4X6rRgo=
+X-PS-ID: c2hlcmhhbi53aWNreUBnbWFpbC5jb20=
+Received: from pokerstars.com (IOM-20-81 [192.168.8.81])
+	by mx13.pokerstars.eu (mailer) with SMTP id CE9A61FC143A
+	for <sherhan.wicky@gmail.com>; Thu, 11 May 2017 08:28:04 -0400 (EDT)
+Date: Thu, 11 May 2017 08:28:04 -0400
+From: "PokerStars Support" <support@pokerstars.com>
+To: sherhan.wicky@gmail.com
+Subject: PokerStars Hand History Request - last 1 day of play
+Message-Id: <591458D4.D447CAEA2D325E@pokerstars.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Transcript for last 1 day of play requested by the_wickstar (sherhan.wi=
+cky@gmail.com)
+
+*********** # 1 **************
+PokerStars Hand #170262095688:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:27:34 CUST [2017/05/11 8:27:34 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Ars_Hash ($1.29 in chips)=20
+Seat 2: bigvaras ($1.60 in chips)=20
+Seat 3: JekaPoyniak ($2.05 in chips)=20
+Seat 4: artem7255 ($1 in chips)=20
+Seat 5: obama552 ($2.05 in chips)=20
+Seat 6: bymer06 ($2.26 in chips)=20
+Seat 8: the_wickstar ($1.38 in chips)=20
+Seat 9: dymarko ($2.12 in chips)=20
+JekaPoyniak: posts small blind $0.01
+artem7255: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s Qd]
+obama552: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: calls $0.02
+JekaPoyniak: raises $0.08 to $0.10
+the_wickstar leaves the table
+artem7255: folds=20
+bigvaras: folds=20
+Uncalled bet ($0.08) returned to JekaPoyniak
+JekaPoyniak collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop (didn't bet)
+Seat 2: bigvaras (button) folded before Flop
+Seat 3: JekaPoyniak (small blind) collected ($0.06)
+Seat 4: artem7255 (big blind) folded before Flop
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #170262087567:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:27:17 CUST [2017/05/11 8:27:17 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 2: JekaPoyniak ($2.03 in chips)=20
+Seat 3: Zigmundfruei ($1.61 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: Strelo4ekk ($2 in chips)=20
+Seat 7: peca1491 ($3.19 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+lma321 will be allowed to play after the button
+Bozzuka: posts small blind $0.01
+Strelo4ekk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s Td]
+BrazzersGr leaves the table
+peca1491: folds=20
+the_wickstar: folds=20
+peca1491 leaves the table
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+Bozzuka: raises $0.02 to $0.04
+Strelo4ekk: calls $0.02
+*** FLOP *** [6c Kd 8h]
+the_wickstar leaves the table
+Bozzuka: bets $0.06
+1271isaac joins the table at seat #7=20
+Strelo4ekk: folds=20
+Uncalled bet ($0.06) returned to Bozzuka
+Bozzuka collected $0.08 from pot
+Bozzuka: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.08 | Rake $0=20
+Board [6c Kd 8h]
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (button) folded before Flop (didn't bet)
+Seat 5: Bozzuka (small blind) collected ($0.08)
+Seat 6: Strelo4ekk (big blind) folded on the Flop
+Seat 7: peca1491 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #170262059465:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:26:19 CUST [2017/05/11 8:26:19 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Ars_Hash ($1.33 in chips)=20
+Seat 2: bigvaras ($1.76 in chips)=20
+Seat 3: JekaPoyniak ($2.07 in chips)=20
+Seat 5: obama552 ($2.05 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.38 in chips)=20
+Seat 9: dymarko ($2.12 in chips)=20
+bigvaras: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+artem7255: sits out=20
+PAMEGERA: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 7s]
+obama552: folds=20
+bymer06: raises $0.02 to $0.04
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.04
+bigvaras: calls $0.03
+JekaPoyniak: folds=20
+*** FLOP *** [Td 4h 7c]
+bigvaras: checks=20
+bymer06: checks=20
+Ars_Hash: checks=20
+*** TURN *** [Td 4h 7c] [Jc]
+bigvaras: bets $0.04
+bymer06: raises $0.08 to $0.12
+Ars_Hash: folds=20
+bigvaras: calls $0.08
+*** RIVER *** [Td 4h 7c Jc] [Jh]
+bigvaras: checks=20
+bymer06: bets $0.30
+bigvaras: folds=20
+Uncalled bet ($0.30) returned to bymer06
+bymer06 collected $0.37 from pot
+bymer06: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01=20
+Board [Td 4h 7c Jc Jh]
+Seat 1: Ars_Hash (button) folded on the Turn
+Seat 2: bigvaras (small blind) folded on the River
+Seat 3: JekaPoyniak (big blind) folded before Flop
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 collected ($0.37)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #170262053099:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:26:06 CUST [2017/05/11 8:26:06 ET]
+Table 'Antilia' 9-max Seat #2 is the button
+Seat 2: JekaPoyniak ($2.03 in chips)=20
+Seat 3: Zigmundfruei ($1.62 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 7: peca1491 ($1.68 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.53 in chips)=20
+Zigmundfruei: posts small blind $0.01
+svet23100: is sitting out=20
+svet23100 leaves the table
+Bozzuka: posts big blind $0.02
+Strelo4ekk: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d 7s]
+lma321 joins the table at seat #4=20
+peca1491: raises $0.06 to $0.08
+the_wickstar: folds=20
+BrazzersGr: calls $0.08
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+Bozzuka: calls $0.06
+*** FLOP *** [Qc 5d Th]
+Bozzuka: checks=20
+peca1491: bets $0.24
+BrazzersGr: raises $0.42 to $0.66
+Bozzuka: folds=20
+peca1491: calls $0.42
+*** TURN *** [Qc 5d Th] [9s]
+peca1491: bets $0.94 and is all-in
+BrazzersGr: calls $0.79 and is all-in
+Uncalled bet ($0.15) returned to peca1491
+*** RIVER *** [Qc 5d Th 9s] [5c]
+*** SHOW DOWN ***
+peca1491: shows [Jh Kd] (a straight, Nine to King)
+BrazzersGr: shows [Qd Td] (two pair, Queens and Tens)
+peca1491 collected $3.04 from pot
+*** SUMMARY ***
+Total pot $3.15 | Rake $0.11=20
+Board [Qc 5d Th 9s 5c]
+Seat 2: JekaPoyniak (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) folded before Flop
+Seat 5: Bozzuka (big blind) folded on the Flop
+Seat 7: peca1491 showed [Jh Kd] and won ($3.04) with a straight, Nine t=
+o King
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr showed [Qd Td] and lost with two pair, Queens and Te=
+ns
+
+
+*********** # 5 **************
+PokerStars Hand #170262026709:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:25:23 CUST [2017/05/11 8:25:23 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 2: JekaPoyniak ($2.04 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 7: peca1491 ($1.65 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.53 in chips)=20
+JekaPoyniak: posts small blind $0.01
+Zigmundfruei: posts big blind $0.02
+Strelo4ekk: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5h 7d]
+svet23100: folds=20
+Bozzuka: folds=20
+peca1491: raises $0.02 to $0.04
+the_wickstar: folds=20
+BrazzersGr: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+Uncalled bet ($0.02) returned to peca1491
+peca1491 collected $0.05 from pot
+peca1491: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: JekaPoyniak (small blind) folded before Flop
+Seat 3: Zigmundfruei (big blind) folded before Flop
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 7: peca1491 collected ($0.05)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr (button) folded before Flop (didn't bet)
+
+
+*********** # 6 **************
+PokerStars Hand #170262017064:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:25:03 CUST [2017/05/11 8:25:03 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 7: peca1491 ($1.65 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.51 in chips)=20
+BrazzersGr: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+Strelo4ekk: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Ac]
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+peca1491: folds=20
+the_wickstar: folds=20
+BrazzersGr: raises $0.03 to $0.05
+JekaPoyniak: folds=20
+Uncalled bet ($0.03) returned to BrazzersGr
+BrazzersGr collected $0.04 from pot
+BrazzersGr: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 2: JekaPoyniak (big blind) folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 7: peca1491 folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: BrazzersGr (small blind) collected ($0.04)
+
+
+*********** # 7 **************
+PokerStars Hand #170262016227:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:25:01 CUST [2017/05/11 8:25:01 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Ars_Hash ($1.34 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: JekaPoyniak ($2.07 in chips)=20
+Seat 5: obama552 ($2.05 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.38 in chips)=20
+Seat 9: dymarko ($2.04 in chips)=20
+Ars_Hash: posts small blind $0.01
+bigvaras: posts big blind $0.02
+artem7255: sits out=20
+PAMEGERA: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 5h]
+JekaPoyniak: folds=20
+obama552: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: raises $0.02 to $0.04
+Ars_Hash: folds=20
+bigvaras: calls $0.02
+*** FLOP *** [Kc 6h 3c]
+bigvaras: bets $0.02
+dymarko: calls $0.02
+*** TURN *** [Kc 6h 3c] [9c]
+bigvaras: bets $0.02
+dymarko: raises $0.20 to $0.22
+bigvaras: folds=20
+Uncalled bet ($0.20) returned to dymarko
+dymarko collected $0.16 from pot
+dymarko: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [Kc 6h 3c 9c]
+Seat 1: Ars_Hash (small blind) folded before Flop
+Seat 2: bigvaras (big blind) folded on the Turn
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) collected ($0.16)
+
+
+*********** # 8 **************
+PokerStars Hand #170262005677:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:24:40 CUST [2017/05/11 8:24:40 ET]
+Table 'Antilia' 9-max Seat #7 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 6: ahperikos ($0.99 in chips)=20
+Seat 7: peca1491 ($1.65 in chips)=20
+Seat 8: the_wickstar ($2.85 in chips)=20
+Seat 9: BrazzersGr ($1.50 in chips)=20
+the_wickstar: posts small blind $0.01
+BrazzersGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s 3s]
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+ahperikos leaves the table
+peca1491: folds=20
+Strelo4ekk joins the table at seat #6=20
+the_wickstar: folds=20
+Uncalled bet ($0.01) returned to BrazzersGr
+BrazzersGr collected $0.02 from pot
+BrazzersGr: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: peca1491 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: BrazzersGr (big blind) collected ($0.02)
+
+
+*********** # 9 **************
+PokerStars Hand #170261994475:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:24:17 CUST [2017/05/11 8:24:17 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Ars_Hash ($1.38 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: JekaPoyniak ($2.07 in chips)=20
+Seat 5: obama552 ($2.05 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.38 in chips)=20
+Seat 9: dymarko ($2.05 in chips)=20
+dymarko: posts small blind $0.01
+Ars_Hash: posts big blind $0.02
+artem7255: sits out=20
+PAMEGERA: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 7d]
+bigvaras: folds=20
+JekaPoyniak: folds=20
+obama552: folds=20
+bymer06: raises $0.02 to $0.04
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+*** FLOP *** [Kc 2s 9c]
+Ars_Hash: checks=20
+bymer06: checks=20
+*** TURN *** [Kc 2s 9c] [Kh]
+Ars_Hash: checks=20
+bymer06: bets $0.09
+Ars_Hash: folds=20
+Uncalled bet ($0.09) returned to bymer06
+bymer06 collected $0.09 from pot
+bymer06: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.09 | Rake $0=20
+Board [Kc 2s 9c Kh]
+Seat 1: Ars_Hash (big blind) folded on the Turn
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 collected ($0.09)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 10 **************
+PokerStars Hand #170261987584:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:24:03 CUST [2017/05/11 8:24:03 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 6: ahperikos ($0.96 in chips)=20
+Seat 7: peca1491 ($1.66 in chips)=20
+Seat 8: the_wickstar ($2.87 in chips)=20
+Seat 9: BrazzersGr ($1.50 in chips)=20
+peca1491: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7s Qd]
+BrazzersGr: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+peca1491: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.04) returned to ahperikos
+ahperikos collected $0.05 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos (button) collected ($0.05)
+Seat 7: peca1491 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #170261969855:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:23:27 CUST [2017/05/11 8:23:27 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 1: Ars_Hash ($1.40 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: JekaPoyniak ($2.07 in chips)=20
+Seat 5: obama552 ($2.05 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.39 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+PAMEGERA will be allowed to play after the button
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+apodive: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 2c]
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: folds=20
+obama552: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+apodive leaves the table
+artem7255 joins the table at seat #4=20
+dymarko: checks=20
+*** FLOP *** [6s Th 4c]
+dymarko: bets $0.04
+Ars_Hash: folds=20
+Uncalled bet ($0.04) returned to dymarko
+dymarko collected $0.05 from pot
+dymarko: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [6s Th 4c]
+Seat 1: Ars_Hash folded on the Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) collected ($0.05)
+
+
+*********** # 12 **************
+PokerStars Hand #170261964905:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:23:17 CUST [2017/05/11 8:23:17 ET]
+Table 'Antilia' 9-max Seat #5 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.10 in chips)=20
+Seat 6: ahperikos ($0.97 in chips)=20
+Seat 7: peca1491 ($1.68 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.50 in chips)=20
+ahperikos: posts small blind $0.01
+peca1491: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd Qc]
+the_wickstar: raises $0.06 to $0.08
+BrazzersGr: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+peca1491: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka (button) folded before Flop (didn't bet)
+Seat 6: ahperikos (small blind) folded before Flop
+Seat 7: peca1491 (big blind) folded before Flop
+Seat 8: the_wickstar collected ($0.05)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 13 **************
+PokerStars Hand #170261948061:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:22:43 CUST [2017/05/11 8:22:43 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 1: Ars_Hash ($1.42 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: JekaPoyniak ($2.07 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: is sitting out=20
+wilmago17 leaves the table
+the_wickstar: posts big blind $0.02
+apodive: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 7s]
+PAMEGERA joins the table at seat #7=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: folds=20
+obama552: raises $0.06 to $0.08
+bymer06: folds=20
+the_wickstar: folds=20
+Ars_Hash: folds=20
+Uncalled bet ($0.06) returned to obama552
+obama552 collected $0.07 from pot
+obama552: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 5: obama552 (button) collected ($0.07)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 14 **************
+PokerStars Hand #170261934735:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:22:16 CUST [2017/05/11 8:22:16 ET]
+Table 'Achaia' 9-max Seat #3 is the button
+Seat 1: Ars_Hash ($1.42 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: JekaPoyniak ($2.04 in chips)=20
+Seat 4: MARCOSJRJUN ($1.68 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+MARCOSJRJUN: posts small blind $0.01
+obama552: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 4c]
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: folds=20
+JekaPoyniak: raises $0.04 to $0.06
+MARCOSJRJUN: folds=20
+obama552: folds=20
+Uncalled bet ($0.04) returned to JekaPoyniak
+MARCOSJRJUN leaves the table
+JekaPoyniak collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak (button) collected ($0.05)
+Seat 4: MARCOSJRJUN (small blind) folded before Flop
+Seat 5: obama552 (big blind) folded before Flop
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #170261934316:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:22:15 CUST [2017/05/11 8:22:15 ET]
+Table 'Antilia' 9-max Seat #4 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.11 in chips)=20
+Seat 6: ahperikos ($1.05 in chips)=20
+Seat 7: peca1491 ($1.44 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.58 in chips)=20
+Bozzuka: posts small blind $0.01
+ahperikos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 4s]
+peca1491: raises $0.06 to $0.08
+the_wickstar: folds=20
+BrazzersGr: calls $0.08
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: calls $0.08
+Bozzuka: folds=20
+ahperikos: calls $0.06
+*** FLOP *** [2h Td Tc]
+ahperikos: checks=20
+peca1491: bets $0.64
+BrazzersGr: folds=20
+svet23100: folds=20
+ahperikos: folds=20
+Uncalled bet ($0.64) returned to peca1491
+peca1491 collected $0.32 from pot
+peca1491: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01=20
+Board [2h Td Tc]
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 (button) folded on the Flop
+Seat 5: Bozzuka (small blind) folded before Flop
+Seat 6: ahperikos (big blind) folded on the Flop
+Seat 7: peca1491 collected ($0.32)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded on the Flop
+
+
+*********** # 16 **************
+PokerStars Hand #170261902769:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:21:11 CUST [2017/05/11 8:21:11 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.64 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.05 in chips)=20
+Seat 7: peca1491 ($1.44 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.58 in chips)=20
+svet23100: posts small blind $0.01
+Bozzuka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 8s]
+ahperikos: folds=20
+peca1491: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: raises $0.04 to $0.06
+Bozzuka: calls $0.04
+*** FLOP *** [Js 3h Tc]
+svet23100: checks=20
+Bozzuka: bets $0.09
+svet23100: folds=20
+Uncalled bet ($0.09) returned to Bozzuka
+Bozzuka collected $0.12 from pot
+Bozzuka: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Board [Js 3h Tc]
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (button) folded before Flop (didn't bet)
+Seat 4: svet23100 (small blind) folded on the Flop
+Seat 5: Bozzuka (big blind) collected ($0.12)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: peca1491 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 17 **************
+PokerStars Hand #170261897857:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:21:01 CUST [2017/05/11 8:21:01 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Ars_Hash ($1.44 in chips)=20
+Seat 2: bigvaras ($1.94 in chips)=20
+Seat 3: JekaPoyniak ($2.05 in chips)=20
+Seat 4: MARCOSJRJUN ($1.56 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+JekaPoyniak: posts small blind $0.01
+MARCOSJRJUN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 8s]
+obama552 has timed out
+obama552: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: calls $0.02
+JekaPoyniak: folds=20
+MARCOSJRJUN: checks=20
+*** FLOP *** [Ad Ks 2c]
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+bigvaras: bets $0.04
+MARCOSJRJUN: calls $0.04
+Ars_Hash: folds=20
+*** TURN *** [Ad Ks 2c] [2d]
+MARCOSJRJUN: checks=20
+bigvaras: bets $0.04
+MARCOSJRJUN: calls $0.04
+*** RIVER *** [Ad Ks 2c 2d] [8c]
+MARCOSJRJUN: checks=20
+bigvaras: checks=20
+*** SHOW DOWN ***
+MARCOSJRJUN: shows [Js Kc] (two pair, Kings and Deuces)
+bigvaras: mucks hand=20
+MARCOSJRJUN collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01=20
+Board [Ad Ks 2c 2d 8c]
+Seat 1: Ars_Hash folded on the Flop
+Seat 2: bigvaras (button) mucked [5s 5c]
+Seat 3: JekaPoyniak (small blind) folded before Flop
+Seat 4: MARCOSJRJUN (big blind) showed [Js Kc] and won ($0.22) with two=
+ pair, Kings and Deuces
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #170261883311:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:20:32 CUST [2017/05/11 8:20:32 ET]
+Table 'Antilia' 9-max Seat #2 is the button
+Seat 1: verusik24 ($1.50 in chips)=20
+Seat 2: JekaPoyniak ($2.06 in chips)=20
+Seat 3: Zigmundfruei ($1.65 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.05 in chips)=20
+Seat 7: peca1491 ($1.44 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.58 in chips)=20
+Zigmundfruei: posts small blind $0.01
+svet23100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s 8c]
+Bozzuka: raises $0.04 to $0.06
+ahperikos: folds=20
+peca1491: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Uncalled bet ($0.04) returned to Bozzuka
+Bozzuka collected $0.05 from pot
+Bozzuka: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: JekaPoyniak (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) folded before Flop
+Seat 4: svet23100 (big blind) folded before Flop
+Seat 5: Bozzuka collected ($0.05)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: peca1491 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #170261872761:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:20:11 CUST [2017/05/11 8:20:11 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Ars_Hash ($1.46 in chips)=20
+Seat 2: bigvaras ($1.95 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.58 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+bigvaras: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 5h]
+MARCOSJRJUN: calls $0.02
+obama552: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: checks=20
+*** FLOP *** [Th Qd Jh]
+JekaPoyniak: checks=20
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+*** TURN *** [Th Qd Jh] [9d]
+JekaPoyniak: checks=20
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+*** RIVER *** [Th Qd Jh 9d] [7s]
+JekaPoyniak: bets $0.04
+MARCOSJRJUN: folds=20
+Ars_Hash: folds=20
+Uncalled bet ($0.04) returned to JekaPoyniak
+JekaPoyniak collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Board [Th Qd Jh 9d 7s]
+Seat 1: Ars_Hash (button) folded on the River
+Seat 2: bigvaras (small blind) folded before Flop
+Seat 3: JekaPoyniak (big blind) collected ($0.07)
+Seat 4: MARCOSJRJUN folded on the River
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #170261849067:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:19:22 CUST [2017/05/11 8:19:22 ET]
+Table 'Antilia' 9-max Seat #1 is the button
+Seat 1: verusik24 ($1.50 in chips)=20
+Seat 2: JekaPoyniak ($2.07 in chips)=20
+Seat 3: Zigmundfruei ($1.78 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.05 in chips)=20
+Seat 7: peca1491 ($1.29 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($1.60 in chips)=20
+JekaPoyniak: posts small blind $0.01
+Zigmundfruei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 4s]
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+peca1491: calls $0.02
+the_wickstar: folds=20
+BrazzersGr: calls $0.02
+verusik24: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: checks=20
+*** FLOP *** [Qd 5h 7d]
+Zigmundfruei: bets $0.04
+peca1491: calls $0.04
+BrazzersGr: folds=20
+*** TURN *** [Qd 5h 7d] [6c]
+Zigmundfruei: bets $0.07
+peca1491: calls $0.07
+*** RIVER *** [Qd 5h 7d 6c] [Ac]
+Zigmundfruei: checks=20
+peca1491: bets $1.16 and is all-in
+Zigmundfruei: folds=20
+Uncalled bet ($1.16) returned to peca1491
+peca1491 collected $0.28 from pot
+peca1491: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01=20
+Board [Qd 5h 7d 6c Ac]
+Seat 1: verusik24 (button) folded before Flop (didn't bet)
+Seat 2: JekaPoyniak (small blind) folded before Flop
+Seat 3: Zigmundfruei (big blind) folded on the River
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: peca1491 collected ($0.28)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded on the Flop
+
+
+*********** # 21 **************
+PokerStars Hand #170261831580:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:18:47 CUST [2017/05/11 8:18:47 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Ars_Hash ($1.52 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.58 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.02 in chips)=20
+Ars_Hash: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qc 4c]
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: folds=20
+bymer06: raises $0.02 to $0.04
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.03
+bigvaras: calls $0.02
+*** FLOP *** [2h Th 8d]
+Ars_Hash: checks=20
+bigvaras: bets $0.02
+bymer06: calls $0.02
+Ars_Hash: calls $0.02
+*** TURN *** [2h Th 8d] [9h]
+Ars_Hash: checks=20
+bigvaras: bets $0.02
+bymer06: raises $0.11 to $0.13
+Ars_Hash: folds=20
+bigvaras: calls $0.11
+*** RIVER *** [2h Th 8d 9h] [4h]
+bigvaras: bets $0.21
+bymer06: folds=20
+Uncalled bet ($0.21) returned to bigvaras
+bigvaras collected $0.42 from pot
+bigvaras: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02=20
+Board [2h Th 8d 9h 4h]
+Seat 1: Ars_Hash (small blind) folded on the Turn
+Seat 2: bigvaras (big blind) collected ($0.42)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded on the River
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #170261819194:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:18:21 CUST [2017/05/11 8:18:21 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Ars_Hash ($1.51 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.58 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.41 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+dymarko: posts small blind $0.01
+Ars_Hash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 8d]
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Uncalled bet ($0.01) returned to Ars_Hash
+Ars_Hash collected $0.02 from pot
+Ars_Hash: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: Ars_Hash (big blind) collected ($0.02)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 23 **************
+PokerStars Hand #170261813678:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:18:10 CUST [2017/05/11 8:18:10 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 1: verusik24 ($1.56 in chips)=20
+Seat 2: JekaPoyniak ($2.09 in chips)=20
+Seat 3: Zigmundfruei ($1.78 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 7: peca1491 ($1.29 in chips)=20
+Seat 8: the_wickstar ($2.84 in chips)=20
+Seat 9: BrazzersGr ($0.79 in chips)=20
+verusik24: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h 5d]
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+peca1491: folds=20
+the_wickstar: folds=20
+BrazzersGr: calls $0.06
+verusik24: calls $0.05
+JekaPoyniak: folds=20
+*** FLOP *** [8s 5h 6d]
+verusik24: checks=20
+ahperikos: bets $0.09
+BrazzersGr: calls $0.09
+verusik24: folds=20
+*** TURN *** [8s 5h 6d] [As]
+ahperikos: bets $0.25
+BrazzersGr: calls $0.25
+*** RIVER *** [8s 5h 6d As] [Ts]
+ahperikos: bets $0.34
+BrazzersGr: raises $0.05 to $0.39 and is all-in
+ahperikos: calls $0.05
+*** SHOW DOWN ***
+BrazzersGr: shows [9s Qs] (a flush, Ace high)
+ahperikos: shows [Ah 8h] (two pair, Aces and Eights)
+BrazzersGr collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.06=20
+Board [8s 5h 6d As Ts]
+Seat 1: verusik24 (small blind) folded on the Flop
+Seat 2: JekaPoyniak (big blind) folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos showed [Ah 8h] and lost with two pair, Aces and Eights
+Seat 7: peca1491 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr (button) showed [9s Qs] and won ($1.60) with a flush=
+, Ace high
+
+
+*********** # 24 **************
+PokerStars Hand #170261790292:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:17:22 CUST [2017/05/11 8:17:22 ET]
+Table 'Achaia' 9-max Seat #7 is the button
+Seat 1: Ars_Hash ($1.53 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.58 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.42 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 2s]
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: checks=20
+*** FLOP *** [Ks Jc As]
+dymarko: checks=20
+Ars_Hash: checks=20
+*** TURN *** [Ks Jc As] [7h]
+dymarko: checks=20
+Ars_Hash: checks=20
+*** RIVER *** [Ks Jc As 7h] [3d]
+dymarko: checks=20
+Ars_Hash: checks=20
+*** SHOW DOWN ***
+dymarko: shows [4s Jd] (a pair of Jacks)
+Ars_Hash: mucks hand=20
+dymarko collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [Ks Jc As 7h 3d]
+Seat 1: Ars_Hash mucked [Qd 3s]
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN folded before Flop (didn't bet)
+Seat 5: obama552 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) showed [4s Jd] and won ($0.05) with a pair =
+of Jacks
+
+
+*********** # 25 **************
+PokerStars Hand #170261773039:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:16:47 CUST [2017/05/11 8:16:47 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 1: verusik24 ($1.58 in chips)=20
+Seat 2: JekaPoyniak ($2.09 in chips)=20
+Seat 3: Zigmundfruei ($1.78 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 7: peca1491 ($1.61 in chips)=20
+Seat 8: the_wickstar ($2.50 in chips)=20
+Seat 9: BrazzersGr ($0.81 in chips)=20
+BrazzersGr: posts small blind $0.01
+verusik24: posts big blind $0.02
+peca1491: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 5d]
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+peca1491: checks=20
+the_wickstar: calls $0.02
+BrazzersGr: calls $0.01
+verusik24: checks=20
+*** FLOP *** [9c Ad 9h]
+BrazzersGr: checks=20
+verusik24: checks=20
+peca1491: checks=20
+the_wickstar: bets $0.02
+BrazzersGr: folds=20
+verusik24: folds=20
+peca1491: calls $0.02
+*** TURN *** [9c Ad 9h] [8d]
+peca1491: bets $0.28
+the_wickstar: calls $0.28
+*** RIVER *** [9c Ad 9h 8d] [2h]
+peca1491: checks=20
+the_wickstar: bets $0.20
+peca1491: folds=20
+Uncalled bet ($0.20) returned to the_wickstar
+the_wickstar collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02=20
+Board [9c Ad 9h 8d 2h]
+Seat 1: verusik24 (big blind) folded on the Flop
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: peca1491 folded on the River
+Seat 8: the_wickstar (button) collected ($0.66)
+Seat 9: BrazzersGr (small blind) folded on the Flop
+
+
+*********** # 26 **************
+PokerStars Hand #170261764409:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:16:29 CUST [2017/05/11 8:16:29 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 1: verusik24 ($1.58 in chips)=20
+Seat 2: JekaPoyniak ($2.09 in chips)=20
+Seat 3: Zigmundfruei ($1.78 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.81 in chips)=20
+Seat 8: the_wickstar ($2.51 in chips)=20
+Seat 9: BrazzersGr ($0.83 in chips)=20
+the_wickstar: posts small blind $0.01
+BrazzersGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 4s]
+peca1491 joins the table at seat #7=20
+verusik24: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+the_wickstar: folds=20
+BrazzersGr: folds=20
+Uncalled bet ($0.04) returned to ahperikos
+ahperikos collected $0.05 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos (button) collected ($0.05)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: BrazzersGr (big blind) folded before Flop
+
+
+*********** # 27 **************
+PokerStars Hand #170261753515:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:16:07 CUST [2017/05/11 8:16:07 ET]
+Table 'Antilia' 9-max Seat #5 is the button
+Seat 1: verusik24 ($1.58 in chips)=20
+Seat 2: JekaPoyniak ($2.09 in chips)=20
+Seat 3: Zigmundfruei ($1.78 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.02 in chips)=20
+Seat 6: ahperikos ($1.82 in chips)=20
+Seat 8: the_wickstar ($2.50 in chips)=20
+Seat 9: BrazzersGr ($0.83 in chips)=20
+ahperikos: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 3h]
+BrazzersGr: folds=20
+verusik24: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+Uncalled bet ($0.01) returned to the_wickstar
+the_wickstar collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka (button) folded before Flop (didn't bet)
+Seat 6: ahperikos (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) collected ($0.02)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #170261749907:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:15:59 CUST [2017/05/11 8:15:59 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 1: Ars_Hash ($1.26 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.60 in chips)=20
+Seat 5: obama552 ($2.03 in chips)=20
+Seat 6: bymer06 ($2.05 in chips)=20
+Seat 7: wilmago17 ($2.03 in chips)=20
+Seat 8: the_wickstar ($1.44 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+wilmago17: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3h Qs]
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: calls $0.02
+obama552: raises $0.08 to $0.10
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+Ars_Hash: calls $0.08
+MARCOSJRJUN: folds=20
+*** FLOP *** [3s 7h Jh]
+Ars_Hash: bets $0.02
+obama552: raises $0.12 to $0.14
+Ars_Hash: raises $0.12 to $0.26
+obama552: folds=20
+Uncalled bet ($0.12) returned to Ars_Hash
+Ars_Hash collected $0.51 from pot
+Ars_Hash: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02=20
+Board [3s 7h Jh]
+Seat 1: Ars_Hash collected ($0.51)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN folded before Flop
+Seat 5: obama552 folded on the Flop
+Seat 6: bymer06 (button) folded before Flop (didn't bet)
+Seat 7: wilmago17 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 29 **************
+PokerStars Hand #170261735020:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:15:29 CUST [2017/05/11 8:15:29 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 1: Ars_Hash ($1.26 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.60 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2.06 in chips)=20
+Seat 7: wilmago17 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.44 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s 7h]
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: raises $0.03 to $0.05
+bymer06: folds=20
+wilmago17: folds=20
+Uncalled bet ($0.03) returned to obama552
+obama552 collected $0.05 from pot
+obama552: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN folded before Flop (didn't bet)
+Seat 5: obama552 (button) collected ($0.05)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 7: wilmago17 (big blind) folded before Flop
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 30 **************
+PokerStars Hand #170261723581:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:15:06 CUST [2017/05/11 8:15:06 ET]
+Table 'Antilia' 9-max Seat #4 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 2: JekaPoyniak ($2.09 in chips)=20
+Seat 3: Zigmundfruei ($1.93 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.03 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 8: the_wickstar ($2.65 in chips)=20
+Seat 9: BrazzersGr ($0.83 in chips)=20
+Bozzuka: posts small blind $0.01
+ahperikos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c 8h]
+the_wickstar: raises $0.02 to $0.04
+BrazzersGr: folds=20
+verusik24: raises $0.11 to $0.15
+JekaPoyniak: folds=20
+Zigmundfruei: calls $0.15
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+the_wickstar: calls $0.11
+*** FLOP *** [4h 7c Ad]
+the_wickstar: checks=20
+verusik24: bets $0.23
+Zigmundfruei: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.23) returned to verusik24
+verusik24 collected $0.46 from pot
+verusik24: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02=20
+Board [4h 7c Ad]
+Seat 1: verusik24 collected ($0.46)
+Seat 2: JekaPoyniak folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded on the Flop
+Seat 4: svet23100 (button) folded before Flop (didn't bet)
+Seat 5: Bozzuka (small blind) folded before Flop
+Seat 6: ahperikos (big blind) folded before Flop
+Seat 8: the_wickstar folded on the Flop
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 31 **************
+PokerStars Hand #170261710972:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:14:40 CUST [2017/05/11 8:14:40 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 2: JekaPoyniak ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.93 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: BrazzersGr ($0.83 in chips)=20
+svet23100: posts small blind $0.01
+Bozzuka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 8c]
+ahperikos: folds=20
+the_wickstar: raises $0.04 to $0.06
+BrazzersGr: folds=20
+verusik24: folds=20
+JekaPoyniak: raises $0.12 to $0.18
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.12) returned to JekaPoyniak
+JekaPoyniak collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: JekaPoyniak collected ($0.15)
+Seat 3: Zigmundfruei (button) folded before Flop (didn't bet)
+Seat 4: svet23100 (small blind) folded before Flop
+Seat 5: Bozzuka (big blind) folded before Flop
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 32 **************
+PokerStars Hand #170261703596:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:14:25 CUST [2017/05/11 8:14:25 ET]
+Table 'Achaia' 9-max Seat #4 is the button
+Seat 1: Ars_Hash ($1.26 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.60 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.44 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+obama552: posts small blind $0.01
+bymer06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac 8s]
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: raises $0.04 to $0.06
+bymer06: calls $0.04
+*** FLOP *** [Jd 4h Ah]
+obama552: checks=20
+bymer06: bets $0.08
+obama552: folds=20
+Uncalled bet ($0.08) returned to bymer06
+bymer06 collected $0.12 from pot
+bymer06: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Board [Jd 4h Ah]
+Seat 1: Ars_Hash folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN (button) folded before Flop (didn't bet)
+Seat 5: obama552 (small blind) folded on the Flop
+Seat 6: bymer06 (big blind) collected ($0.12)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #170261682371:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:13:42 CUST [2017/05/11 8:13:42 ET]
+Table 'Antilia' 9-max Seat #2 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 2: JekaPoyniak ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.87 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 7: bigvaras ($0.69 in chips)=20
+Seat 8: the_wickstar ($2.75 in chips)=20
+Seat 9: BrazzersGr ($0.83 in chips)=20
+Zigmundfruei: posts small blind $0.01
+svet23100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Ah]
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: calls $0.02
+BrazzersGr: folds=20
+verusik24: folds=20
+bigvaras leaves the table
+JekaPoyniak: folds=20
+Zigmundfruei: raises $0.02 to $0.04
+svet23100: folds=20
+the_wickstar: calls $0.02
+*** FLOP *** [5c 7c 6d]
+Zigmundfruei: bets $0.05
+the_wickstar: folds=20
+Uncalled bet ($0.05) returned to Zigmundfruei
+Zigmundfruei collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Board [5c 7c 6d]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: JekaPoyniak (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) collected ($0.10)
+Seat 4: svet23100 (big blind) folded before Flop
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded on the Flop
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #170261659940:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:12:55 CUST [2017/05/11 8:12:55 ET]
+Table 'Achaia' 9-max Seat #3 is the button
+Seat 1: Ars_Hash ($1.41 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.61 in chips)=20
+Seat 5: obama552 ($2 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.23 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+MARCOSJRJUN: posts small blind $0.01
+obama552: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h 9c]
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: raises $0.04 to $0.06
+dymarko: folds=20
+Ars_Hash: calls $0.06
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+obama552: calls $0.04
+*** FLOP *** [8s 4h Ks]
+obama552: checks=20
+the_wickstar: bets $0.09
+Ars_Hash: calls $0.09
+obama552: folds=20
+*** TURN *** [8s 4h Ks] [7d]
+the_wickstar: checks=20
+Ars_Hash: checks=20
+*** RIVER *** [8s 4h Ks 7d] [Tc]
+the_wickstar: checks=20
+Ars_Hash: checks=20
+*** SHOW DOWN ***
+the_wickstar: shows [9h 9c] (a pair of Nines)
+Ars_Hash: mucks hand=20
+the_wickstar collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01=20
+Board [8s 4h Ks 7d Tc]
+Seat 1: Ars_Hash mucked [Jh Ah]
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: JekaPoyniak (button) folded before Flop (didn't bet)
+Seat 4: MARCOSJRJUN (small blind) folded before Flop
+Seat 5: obama552 (big blind) folded on the Flop
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar showed [9h 9c] and won ($0.36) with a pair of Nines
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #170261649410:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:12:34 CUST [2017/05/11 8:12:34 ET]
+Table 'Antilia' 9-max Seat #1 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 2: JekaPoyniak ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.91 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.84 in chips)=20
+Seat 7: bigvaras ($0.85 in chips)=20
+Seat 8: the_wickstar ($2.75 in chips)=20
+Seat 9: BrazzersGr ($0.63 in chips)=20
+JekaPoyniak: posts small blind $0.01
+Zigmundfruei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c As]
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: raises $0.02 to $0.04
+the_wickstar: folds=20
+BrazzersGr: calls $0.04
+verusik24: folds=20
+JekaPoyniak: folds=20
+Zigmundfruei: calls $0.02
+*** FLOP *** [9d Ts Td]
+Zigmundfruei: checks=20
+bigvaras: bets $0.04
+BrazzersGr: calls $0.04
+Zigmundfruei: folds=20
+*** TURN *** [9d Ts Td] [3d]
+bigvaras: bets $0.04
+BrazzersGr: calls $0.04
+*** RIVER *** [9d Ts Td 3d] [Kd]
+bigvaras: bets $0.04
+BrazzersGr: raises $0.18 to $0.22
+bigvaras: folds=20
+Uncalled bet ($0.18) returned to BrazzersGr
+BrazzersGr collected $0.36 from pot
+BrazzersGr: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01=20
+Board [9d Ts Td 3d Kd]
+Seat 1: verusik24 (button) folded before Flop (didn't bet)
+Seat 2: JekaPoyniak (small blind) folded before Flop
+Seat 3: Zigmundfruei (big blind) folded on the Flop
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded on the River
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr collected ($0.36)
+
+
+*********** # 36 **************
+PokerStars Hand #170261644077:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:12:23 CUST [2017/05/11 8:12:23 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Ars_Hash ($1.43 in chips)=20
+Seat 2: bigvaras ($1.72 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.58 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.05 in chips)=20
+Seat 8: the_wickstar ($1.23 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+JekaPoyniak: posts small blind $0.01
+MARCOSJRJUN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Kc]
+AbsEnteR88: folds=20
+AbsEnteR88 leaves the table
+obama552 joins the table at seat #5=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: checks=20
+*** FLOP *** [Js 8s 6h]
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+*** TURN *** [Js 8s 6h] [5d]
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+*** RIVER *** [Js 8s 6h 5d] [3h]
+MARCOSJRJUN: checks=20
+Ars_Hash: checks=20
+*** SHOW DOWN ***
+MARCOSJRJUN: shows [Jd Qd] (a pair of Jacks)
+Ars_Hash: mucks hand=20
+MARCOSJRJUN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [Js 8s 6h 5d 3h]
+Seat 1: Ars_Hash mucked [3c Ah]
+Seat 2: bigvaras (button) folded before Flop (didn't bet)
+Seat 3: JekaPoyniak (small blind) folded before Flop
+Seat 4: MARCOSJRJUN (big blind) showed [Jd Qd] and won ($0.05) with a p=
+air of Jacks
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 37 **************
+PokerStars Hand #170261637442:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:12:09 CUST [2017/05/11 8:12:09 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 1: verusik24 ($1.28 in chips)=20
+Seat 2: JekaPoyniak ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.91 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.81 in chips)=20
+Seat 7: bigvaras ($0.85 in chips)=20
+Seat 8: the_wickstar ($2.75 in chips)=20
+Seat 9: BrazzersGr ($0.63 in chips)=20
+verusik24: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d Kh]
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+JekaPoyniak: folds=20
+Uncalled bet ($0.04) returned to ahperikos
+ahperikos collected $0.05 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 (small blind) folded before Flop
+Seat 2: JekaPoyniak (big blind) folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos collected ($0.05)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr (button) folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #170261633358:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:12:01 CUST [2017/05/11 8:12:01 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Ars_Hash ($1.43 in chips)=20
+Seat 2: bigvaras ($1.73 in chips)=20
+Seat 3: JekaPoyniak ($2 in chips)=20
+Seat 4: MARCOSJRJUN ($1.60 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.23 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bigvaras: posts small blind $0.01
+JekaPoyniak: posts big blind $0.02
+MARCOSJRJUN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 3s]
+MARCOSJRJUN: checks=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.04 to $0.06
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: folds=20
+JekaPoyniak: folds=20
+MARCOSJRJUN: folds=20
+Uncalled bet ($0.04) returned to wilmago17
+wilmago17 collected $0.07 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: Ars_Hash (button) folded before Flop (didn't bet)
+Seat 2: bigvaras (small blind) folded before Flop
+Seat 3: JekaPoyniak (big blind) folded before Flop
+Seat 4: MARCOSJRJUN folded before Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.07)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 39 **************
+PokerStars Hand #170261627783:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:11:49 CUST [2017/05/11 8:11:49 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 3: Zigmundfruei ($1.91 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.81 in chips)=20
+Seat 7: bigvaras ($0.85 in chips)=20
+Seat 8: the_wickstar ($2.75 in chips)=20
+Seat 9: BrazzersGr ($0.64 in chips)=20
+BrazzersGr: posts small blind $0.01
+verusik24: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4h 2d]
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+Uncalled bet ($0.01) returned to verusik24
+verusik24 collected $0.02 from pot
+verusik24: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: verusik24 (big blind) collected ($0.02)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: BrazzersGr (small blind) folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #170261612013:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:11:17 CUST [2017/05/11 8:11:17 ET]
+Table 'Antilia' 9-max Seat #7 is the button
+Seat 1: verusik24 ($1.27 in chips)=20
+Seat 3: Zigmundfruei ($1.91 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.81 in chips)=20
+Seat 7: bigvaras ($0.82 in chips)=20
+Seat 8: the_wickstar ($2.76 in chips)=20
+Seat 9: BrazzersGr ($0.66 in chips)=20
+the_wickstar: posts small blind $0.01
+BrazzersGr: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kh Js]
+verusik24: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: raises $0.02 to $0.04
+the_wickstar: folds=20
+BrazzersGr: folds=20
+Uncalled bet ($0.02) returned to bigvaras
+bigvaras collected $0.05 from pot
+bigvaras: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras (button) collected ($0.05)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: BrazzersGr (big blind) folded before Flop
+
+
+*********** # 41 **************
+PokerStars Hand #170261596763:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:10:45 CUST [2017/05/11 8:10:45 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Ars_Hash ($0.62 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.09 in chips)=20
+Seat 8: the_wickstar ($1.31 in chips)=20
+Seat 9: dymarko ($2.04 in chips)=20
+Ars_Hash: posts small blind $0.01
+bigvaras: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Ad]
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.06 to $0.08
+the_wickstar: calls $0.08
+dymarko: calls $0.08
+Ars_Hash: calls $0.07
+bigvaras: calls $0.06
+*** FLOP *** [4h Jc Ks]
+Ars_Hash: checks=20
+bigvaras: checks=20
+wilmago17: bets $0.20
+MARCOSJRJUN joins the table at seat #4=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.20
+bigvaras: folds=20
+*** TURN *** [4h Jc Ks] [4d]
+Ars_Hash: checks=20
+wilmago17: bets $0.46
+Ars_Hash: calls $0.34 and is all-in
+Uncalled bet ($0.12) returned to wilmago17
+*** RIVER *** [4h Jc Ks 4d] [Tc]
+*** SHOW DOWN ***
+Ars_Hash: shows [Kd Js] (two pair, Kings and Jacks)
+wilmago17: shows [Kh Ah] (two pair, Kings and Fours)
+Ars_Hash collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.05=20
+Board [4h Jc Ks 4d Tc]
+Seat 1: Ars_Hash (small blind) showed [Kd Js] and won ($1.43) with two =
+pair, Kings and Jacks
+Seat 2: bigvaras (big blind) folded on the Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 showed [Kh Ah] and lost with two pair, Kings and Fours
+Seat 8: the_wickstar folded on the Flop
+Seat 9: dymarko (button) folded on the Flop
+
+
+*********** # 42 **************
+PokerStars Hand #170261586074:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:10:23 CUST [2017/05/11 8:10:23 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Ars_Hash ($0.68 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.31 in chips)=20
+Seat 9: dymarko ($2.05 in chips)=20
+dymarko: posts small blind $0.01
+Ars_Hash: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac 2s]
+bigvaras: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.04 to $0.06
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.04
+*** FLOP *** [2d Kc Tc]
+Ars_Hash: checks=20
+wilmago17: bets $0.08
+Ars_Hash: folds=20
+Uncalled bet ($0.08) returned to wilmago17
+wilmago17 collected $0.13 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [2d Kc Tc]
+Seat 1: Ars_Hash (big blind) folded on the Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.13)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 43 **************
+PokerStars Hand #170261584423:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:10:20 CUST [2017/05/11 8:10:20 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 3: Zigmundfruei ($1.01 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2.05 in chips)=20
+Seat 6: ahperikos ($1.81 in chips)=20
+Seat 7: bigvaras ($0.83 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.66 in chips)=20
+bigvaras: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h Tc]
+BrazzersGr: folds=20
+verusik24: raises $0.04 to $0.06
+Zigmundfruei: calls $0.06
+svet23100: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+*** FLOP *** [Jh 2s 3h]
+verusik24: bets $0.09
+Zigmundfruei: calls $0.09
+*** TURN *** [Jh 2s 3h] [Ks]
+verusik24: bets $0.16
+Zigmundfruei: calls $0.16
+*** RIVER *** [Jh 2s 3h Ks] [9h]
+verusik24: bets $0.63
+Zigmundfruei: calls $0.63
+*** SHOW DOWN ***
+verusik24: shows [Jd 9d] (two pair, Jacks and Nines)
+Zigmundfruei: shows [Kh Js] (two pair, Kings and Jacks)
+Zigmundfruei collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.07=20
+Board [Jh 2s 3h Ks 9h]
+Seat 1: verusik24 showed [Jd 9d] and lost with two pair, Jacks and Nines
+Seat 3: Zigmundfruei showed [Kh Js] and won ($1.84) with two pair, King=
+s and Jacks
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos (button) folded before Flop (didn't bet)
+Seat 7: bigvaras (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 44 **************
+PokerStars Hand #170261564898:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:09:39 CUST [2017/05/11 8:09:39 ET]
+Table 'Antilia' 9-max Seat #5 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 3: Zigmundfruei ($1.01 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.82 in chips)=20
+Seat 7: bigvaras ($0.87 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.66 in chips)=20
+ahperikos: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Tc]
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: raises $0.02 to $0.04
+ahperikos: folds=20
+bigvaras: calls $0.02
+*** FLOP *** [Kc Jh Ad]
+bigvaras: checks=20
+Bozzuka: bets $0.07
+JekaPoyniak joins the table at seat #2=20
+bigvaras: folds=20
+Uncalled bet ($0.07) returned to Bozzuka
+Bozzuka collected $0.09 from pot
+Bozzuka: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.09 | Rake $0=20
+Board [Kc Jh Ad]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 folded before Flop (didn't bet)
+Seat 5: Bozzuka (button) collected ($0.09)
+Seat 6: ahperikos (small blind) folded before Flop
+Seat 7: bigvaras (big blind) folded on the Flop
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 45 **************
+PokerStars Hand #170261560648:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:09:30 CUST [2017/05/11 8:09:30 ET]
+Table 'Achaia' 9-max Seat #7 is the button
+Seat 1: Ars_Hash ($0.68 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 5: AbsEnteR88 ($2.50 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.02 in chips)=20
+Seat 8: the_wickstar ($1.32 in chips)=20
+Seat 9: dymarko ($2.07 in chips)=20
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [3h 9c]
+Ars_Hash: folds=20
+bigvaras: folds=20
+AbsEnteR88: raises $0.04 to $0.06
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Uncalled bet ($0.04) returned to AbsEnteR88
+AbsEnteR88 collected $0.05 from pot
+AbsEnteR88: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 collected ($0.05)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) folded before Flop
+
+
+*********** # 46 **************
+PokerStars Hand #170261545255:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:08:58 CUST [2017/05/11 8:08:58 ET]
+Table 'Antilia' 9-max Seat #4 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 3: Zigmundfruei ($1.01 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.78 in chips)=20
+Seat 7: bigvaras ($0.87 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.66 in chips)=20
+Bozzuka: posts small blind $0.01
+ahperikos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 5c]
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: raises $0.02 to $0.04
+ahperikos: calls $0.02
+*** FLOP *** [8c 6d Qd]
+Bozzuka: checks=20
+ahperikos: checks=20
+*** TURN *** [8c 6d Qd] [4d]
+Bozzuka: checks=20
+ahperikos: checks=20
+*** RIVER *** [8c 6d Qd 4d] [As]
+Bozzuka: checks=20
+ahperikos: bets $0.04
+Bozzuka: folds=20
+Uncalled bet ($0.04) returned to ahperikos
+ahperikos collected $0.08 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.08 | Rake $0=20
+Board [8c 6d Qd 4d As]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: svet23100 (button) folded before Flop (didn't bet)
+Seat 5: Bozzuka (small blind) folded on the River
+Seat 6: ahperikos (big blind) collected ($0.08)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 47 **************
+PokerStars Hand #170261539787:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:08:47 CUST [2017/05/11 8:08:47 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 1: Ars_Hash ($0.72 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 4: uilcm ($2.50 in chips)=20
+Seat 5: AbsEnteR88 ($2.50 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.03 in chips)=20
+Seat 8: the_wickstar ($1.34 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+wilmago17: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h 9d]
+dymarko: raises $0.02 to $0.04
+Ars_Hash: calls $0.04
+bigvaras: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+uilcm leaves the table
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+*** FLOP *** [4h 3c 4d]
+dymarko: bets $0.06
+Ars_Hash: folds=20
+Uncalled bet ($0.06) returned to dymarko
+dymarko collected $0.11 from pot
+dymarko: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Board [4h 3c 4d]
+Seat 1: Ars_Hash folded on the Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 (button) folded before Flop (didn't bet)
+Seat 7: wilmago17 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko collected ($0.11)
+
+
+*********** # 48 **************
+PokerStars Hand #170261530290:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:08:27 CUST [2017/05/11 8:08:27 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 3: Zigmundfruei ($1.01 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.78 in chips)=20
+Seat 7: bigvaras ($0.84 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.66 in chips)=20
+svet23100: posts small blind $0.01
+Bozzuka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c 3h]
+ahperikos: folds=20
+bigvaras: raises $0.04 to $0.06
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Bozzuka: folds=20
+Uncalled bet ($0.04) returned to bigvaras
+bigvaras collected $0.05 from pot
+bigvaras: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (button) folded before Flop (didn't bet)
+Seat 4: svet23100 (small blind) folded before Flop
+Seat 5: Bozzuka (big blind) folded before Flop
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras collected ($0.05)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr folded before Flop (didn't bet)
+
+
+*********** # 49 **************
+PokerStars Hand #170261523099:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:08:12 CUST [2017/05/11 8:08:12 ET]
+Table 'Antilia' 9-max Seat #1 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 3: Zigmundfruei ($1.02 in chips)=20
+Seat 4: svet23100 ($2 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.78 in chips)=20
+Seat 7: bigvaras ($0.84 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.63 in chips)=20
+Zigmundfruei: posts small blind $0.01
+svet23100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Js 5d]
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: raises $0.03 to $0.05
+verusik24: folds=20
+Zigmundfruei: folds=20
+svet23100: folds=20
+Uncalled bet ($0.03) returned to BrazzersGr
+BrazzersGr collected $0.05 from pot
+BrazzersGr: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) folded before Flop
+Seat 4: svet23100 (big blind) folded before Flop
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr collected ($0.05)
+
+
+*********** # 50 **************
+PokerStars Hand #170261522264:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:08:10 CUST [2017/05/11 8:08:10 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 1: Ars_Hash ($0.74 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 4: uilcm ($2.50 in chips)=20
+Seat 5: AbsEnteR88 ($2.50 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.34 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 3c]
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: checks=20
+*** FLOP *** [Tc Ks 9d]
+wilmago17: checks=20
+Ars_Hash: checks=20
+*** TURN *** [Tc Ks 9d] [6h]
+wilmago17: bets $0.03
+Ars_Hash: folds=20
+Uncalled bet ($0.03) returned to wilmago17
+wilmago17 collected $0.05 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [Tc Ks 9d 6h]
+Seat 1: Ars_Hash folded on the Turn
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (button) folded before Flop (didn't bet)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 7: wilmago17 (big blind) collected ($0.05)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 51 **************
+PokerStars Hand #170261511041:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:07:47 CUST [2017/05/11 8:07:47 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 1: verusik24 ($2.22 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.75 in chips)=20
+Seat 7: bigvaras ($0.84 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.63 in chips)=20
+verusik24: posts small blind $0.01
+Sytya88: is sitting out=20
+Zigmundfruei: posts big blind $0.02
+Sytya88 leaves the table
+svet23100: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c 8d]
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: folds=20
+verusik24: folds=20
+Zigmundfruei: folds=20
+Uncalled bet ($0.04) returned to ahperikos
+ahperikos collected $0.05 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 (small blind) folded before Flop
+Seat 3: Zigmundfruei (big blind) folded before Flop
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos collected ($0.05)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: BrazzersGr (button) folded before Flop (didn't bet)
+
+
+*********** # 52 **************
+PokerStars Hand #170261501310:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:07:26 CUST [2017/05/11 8:07:26 ET]
+Table 'Achaia' 9-max Seat #4 is the button
+Seat 1: Ars_Hash ($0.71 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 4: uilcm ($2.50 in chips)=20
+Seat 5: AbsEnteR88 ($2.51 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.34 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+AbsEnteR88: posts small blind $0.01
+bymer06: posts big blind $0.02
+JekaPoyniak: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s 9h]
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: checks=20
+*** FLOP *** [3h Th Kd]
+bymer06: checks=20
+Ars_Hash: checks=20
+*** TURN *** [3h Th Kd] [6c]
+bymer06: checks=20
+Ars_Hash: bets $0.02
+bymer06: folds=20
+Uncalled bet ($0.02) returned to Ars_Hash
+Ars_Hash collected $0.05 from pot
+Ars_Hash: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [3h Th Kd 6c]
+Seat 1: Ars_Hash collected ($0.05)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 4: uilcm (button) folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (small blind) folded before Flop
+Seat 6: bymer06 (big blind) folded on the Turn
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #170261490255:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:07:03 CUST [2017/05/11 8:07:03 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 1: verusik24 ($2.24 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.59 in chips)=20
+Seat 7: bigvaras ($0.84 in chips)=20
+Seat 8: the_wickstar ($2.78 in chips)=20
+Seat 9: BrazzersGr ($0.78 in chips)=20
+BrazzersGr: posts small blind $0.01
+verusik24: posts big blind $0.02
+svet23100: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d Jh]
+Sytya88: folds=20
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+ahperikos: raises $0.04 to $0.06
+bigvaras: folds=20
+the_wickstar: folds=20
+BrazzersGr: calls $0.05
+verusik24: folds=20
+*** FLOP *** [7s 8c Ks]
+BrazzersGr: checks=20
+ahperikos: checks=20
+*** TURN *** [7s 8c Ks] [2h]
+BrazzersGr: bets $0.09
+ahperikos: calls $0.09
+*** RIVER *** [7s 8c Ks 2h] [Qc]
+BrazzersGr: checks=20
+ahperikos: bets $0.15
+BrazzersGr: folds=20
+Uncalled bet ($0.15) returned to ahperikos
+ahperikos collected $0.31 from pot
+ahperikos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01=20
+Board [7s 8c Ks 2h Qc]
+Seat 1: verusik24 (big blind) folded before Flop
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos collected ($0.31)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: BrazzersGr (small blind) folded on the River
+
+
+*********** # 54 **************
+PokerStars Hand #170261473751:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:06:29 CUST [2017/05/11 8:06:29 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Ars_Hash ($0.68 in chips)=20
+Seat 2: bigvaras ($1.81 in chips)=20
+Seat 4: uilcm ($2.51 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.34 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+JekaPoyniak will be allowed to play after the button
+uilcm: posts small blind $0.01
+AbsEnteR88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s Ts]
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: calls $0.02
+bigvaras: folds=20
+uilcm: folds=20
+AbsEnteR88: checks=20
+*** FLOP *** [9c 6d 3s]
+AbsEnteR88: checks=20
+Ars_Hash: checks=20
+*** TURN *** [9c 6d 3s] [2d]
+AbsEnteR88: checks=20
+Ars_Hash: checks=20
+*** RIVER *** [9c 6d 3s 2d] [Jh]
+AbsEnteR88: checks=20
+Ars_Hash: checks=20
+*** SHOW DOWN ***
+AbsEnteR88: shows [Kc 5h] (high card King)
+Ars_Hash: shows [8d 3c] (a pair of Threes)
+Ars_Hash collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [9c 6d 3s 2d Jh]
+Seat 1: Ars_Hash showed [8d 3c] and won ($0.05) with a pair of Threes
+Seat 2: bigvaras (button) folded before Flop (didn't bet)
+Seat 4: uilcm (small blind) folded before Flop
+Seat 5: AbsEnteR88 (big blind) showed [Kc 5h] and lost with high card K=
+ing
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #170261456710:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:05:53 CUST [2017/05/11 8:05:53 ET]
+Table 'Antilia' 9-max Seat #7 is the button
+Seat 1: verusik24 ($2.24 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.59 in chips)=20
+Seat 7: bigvaras ($0.88 in chips)=20
+Seat 8: the_wickstar ($2.72 in chips)=20
+Seat 9: BrazzersGr ($0.80 in chips)=20
+the_wickstar: posts small blind $0.01
+BrazzersGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh Tc]
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: calls $0.02
+the_wickstar: calls $0.01
+BrazzersGr: checks=20
+*** FLOP *** [Jc 9c 5s]
+the_wickstar: checks=20
+BrazzersGr: checks=20
+bigvaras: bets $0.02
+the_wickstar: calls $0.02
+BrazzersGr: folds=20
+*** TURN *** [Jc 9c 5s] [7s]
+the_wickstar: checks=20
+bigvaras: checks=20
+*** RIVER *** [Jc 9c 5s 7s] [Th]
+GooDilein leaves the table
+svet23100 joins the table at seat #4=20
+the_wickstar: bets $0.05
+bigvaras: folds=20
+Uncalled bet ($0.05) returned to the_wickstar
+the_wickstar collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Board [Jc 9c 5s 7s Th]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras (button) folded on the River
+Seat 8: the_wickstar (small blind) collected ($0.10)
+Seat 9: BrazzersGr (big blind) folded on the Flop
+
+
+*********** # 56 **************
+PokerStars Hand #170261443789:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:05:27 CUST [2017/05/11 8:05:27 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 1: verusik24 ($2.24 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.59 in chips)=20
+Seat 7: bigvaras ($0.89 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+bigvaras: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s 2c]
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+Uncalled bet ($0.01) returned to the_wickstar
+BrazzersGr joins the table at seat #9=20
+the_wickstar collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 5: Bozzuka folded before Flop (didn't bet)
+Seat 6: ahperikos (button) folded before Flop (didn't bet)
+Seat 7: bigvaras (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) collected ($0.02)
+
+
+*********** # 57 **************
+PokerStars Hand #170261436175:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:05:11 CUST [2017/05/11 8:05:11 ET]
+Table 'Antilia' 9-max Seat #5 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.60 in chips)=20
+Seat 7: bigvaras ($0.91 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+ahperikos: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d Ts]
+the_wickstar: folds=20
+verusik24: raises $0.04 to $0.06
+Sytya88: folds=20
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+Uncalled bet ($0.04) returned to verusik24
+verusik24 collected $0.05 from pot
+verusik24: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 collected ($0.05)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 5: Bozzuka (button) folded before Flop (didn't bet)
+Seat 6: ahperikos (small blind) folded before Flop
+Seat 7: bigvaras (big blind) folded before Flop
+Seat 8: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 58 **************
+PokerStars Hand #170261432911:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:05:04 CUST [2017/05/11 8:05:04 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Ars_Hash ($0.75 in chips)=20
+Seat 2: bigvaras ($1.82 in chips)=20
+Seat 4: uilcm ($2.42 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.36 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bigvaras: posts small blind $0.01
+uilcm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad 7d]
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: calls $0.02
+dymarko: folds=20
+Ars_Hash: calls $0.02
+burneci joins the table at seat #3=20
+bigvaras: folds=20
+uilcm: checks=20
+*** FLOP *** [5s 3d 2s]
+uilcm: checks=20
+burneci leaves the table
+the_wickstar: checks=20
+Ars_Hash: checks=20
+*** TURN *** [5s 3d 2s] [3h]
+JekaPoyniak joins the table at seat #3=20
+uilcm: bets $0.05
+the_wickstar: folds=20
+Ars_Hash: calls $0.05
+*** RIVER *** [5s 3d 2s 3h] [2h]
+uilcm: bets $2.35 and is all-in
+Ars_Hash: folds=20
+Uncalled bet ($2.35) returned to uilcm
+uilcm collected $0.16 from pot
+uilcm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [5s 3d 2s 3h 2h]
+Seat 1: Ars_Hash (button) folded on the River
+Seat 2: bigvaras (small blind) folded before Flop
+Seat 4: uilcm (big blind) collected ($0.16)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded on the Turn
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 59 **************
+PokerStars Hand #170261417144:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:04:32 CUST [2017/05/11 8:04:32 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.04 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 7: bigvaras ($0.80 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: Gorunchik ($2.52 in chips)=20
+Bozzuka: posts small blind $0.01
+ahperikos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d Ac]
+bigvaras: calls $0.02
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+Gorunchik leaves the table
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+ahperikos: checks=20
+*** FLOP *** [9c Qd Kd]
+ahperikos: checks=20
+bigvaras: checks=20
+*** TURN *** [9c Qd Kd] [4c]
+ahperikos: checks=20
+bigvaras: bets $0.02
+ahperikos: calls $0.02
+*** RIVER *** [9c Qd Kd 4c] [3c]
+ahperikos: bets $0.07
+bigvaras: calls $0.07
+*** SHOW DOWN ***
+ahperikos: shows [4h 2h] (a pair of Fours)
+bigvaras: shows [Jd Js] (a pair of Jacks)
+bigvaras collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01=20
+Board [9c Qd Kd 4c 3c]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (button) folded before Flop (didn't bet)
+Seat 5: Bozzuka (small blind) folded before Flop
+Seat 6: ahperikos (big blind) showed [4h 2h] and lost with a pair of Fo=
+urs
+Seat 7: bigvaras showed [Jd Js] and won ($0.22) with a pair of Jacks
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #170261395905:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:03:48 CUST [2017/05/11 8:03:48 ET]
+Table 'Antilia' 9-max Seat #2 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.05 in chips)=20
+Seat 5: Bozzuka ($2 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 7: bigvaras ($0.80 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: Gorunchik ($2.49 in chips)=20
+Zigmundfruei: posts small blind $0.01
+GooDilein: is sitting out=20
+Bozzuka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 3h]
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: raises $0.04 to $0.06
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+Bozzuka: folds=20
+Uncalled bet ($0.04) returned to Gorunchik
+Gorunchik collected $0.05 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) folded before Flop
+Seat 5: Bozzuka (big blind) folded before Flop
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik collected ($0.05)
+
+
+*********** # 61 **************
+PokerStars Hand #170261391348:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:03:38 CUST [2017/05/11 8:03:38 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Ars_Hash ($0.76 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.98 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.39 in chips)=20
+Seat 8: the_wickstar ($1.36 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+Ars_Hash: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts 4h]
+smdfkncnt: folds=20
+uilcm: raises $0.04 to $0.06
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.14 to $0.20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+bigvaras: folds=20
+uilcm: calls $0.14
+*** FLOP *** [7h 2s Qc]
+uilcm: checks=20
+wilmago17: bets $0.22
+uilcm: calls $0.22
+*** TURN *** [7h 2s Qc] [2h]
+uilcm: checks=20
+wilmago17: checks=20
+*** RIVER *** [7h 2s Qc 2h] [8h]
+smdfkncnt leaves the table
+uilcm: checks=20
+wilmago17: checks=20
+*** SHOW DOWN ***
+uilcm: shows [9d 9c] (two pair, Nines and Deuces)
+wilmago17: mucks hand=20
+uilcm collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03=20
+Board [7h 2s Qc 2h 8h]
+Seat 1: Ars_Hash (small blind) folded before Flop
+Seat 2: bigvaras (big blind) folded before Flop
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm showed [9d 9c] and won ($0.84) with two pair, Nines and D=
+euces
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 mucked [Kd Ad]
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #170261385108:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:03:25 CUST [2017/05/11 8:03:25 ET]
+Table 'Antilia' 9-max Seat #1 is the button
+Seat 1: verusik24 ($2.21 in chips)=20
+Seat 2: Sytya88 ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($1.55 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 7: bigvaras ($0.80 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: Gorunchik ($2.49 in chips)=20
+Sytya88: posts small blind $0.01
+Zigmundfruei: posts big blind $0.02
+Bozzuka: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 2c]
+GooDilein: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: raises $0.06 to $0.08
+Zigmundfruei: folds=20
+Uncalled bet ($0.06) returned to Sytya88
+Sytya88 collected $0.04 from pot
+Sytya88: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: verusik24 (button) folded before Flop (didn't bet)
+Seat 2: Sytya88 (small blind) collected ($0.04)
+Seat 3: Zigmundfruei (big blind) folded before Flop
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 63 **************
+PokerStars Hand #170261371081:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:02:55 CUST [2017/05/11 8:02:55 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 1: verusik24 ($2.22 in chips)=20
+Seat 2: Sytya88 ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($1.52 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 7: bigvaras ($0.80 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: Gorunchik ($2.49 in chips)=20
+verusik24: posts small blind $0.01
+Sytya88: posts big blind $0.02
+Bozzuka: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d Jd]
+Zigmundfruei: folds=20
+GooDilein: raises $0.06 to $0.08
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+Uncalled bet ($0.06) returned to GooDilein
+GooDilein collected $0.05 from pot
+GooDilein: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: verusik24 (small blind) folded before Flop
+Seat 2: Sytya88 (big blind) folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein collected ($0.05)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik (button) folded before Flop (didn't bet)
+
+
+*********** # 64 **************
+PokerStars Hand #170261367396:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:02:47 CUST [2017/05/11 8:02:47 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Ars_Hash ($0.78 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.98 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.36 in chips)=20
+Seat 8: the_wickstar ($1.36 in chips)=20
+Seat 9: dymarko ($2.01 in chips)=20
+dymarko: posts small blind $0.01
+Ars_Hash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 8s]
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.03 to $0.05
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+Uncalled bet ($0.03) returned to wilmago17
+wilmago17 collected $0.05 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Ars_Hash (big blind) folded before Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.05)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 65 **************
+PokerStars Hand #170261356258:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:02:23 CUST [2017/05/11 8:02:23 ET]
+Table 'Achaia' 9-max Seat #7 is the button
+Seat 1: Ars_Hash ($0.80 in chips)=20
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.93 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.36 in chips)=20
+Seat 8: the_wickstar ($1.37 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+Ars_Hash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 3s]
+Ars_Hash: checks=20
+bigvaras: folds=20
+smdfkncnt: raises $0.04 to $0.06
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Ars_Hash: folds=20
+Uncalled bet ($0.04) returned to smdfkncnt
+smdfkncnt collected $0.07 from pot
+smdfkncnt: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: Ars_Hash folded before Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt collected ($0.07)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) folded before Flop
+
+
+*********** # 66 **************
+PokerStars Hand #170261353934:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:02:18 CUST [2017/05/11 8:02:18 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 1: verusik24 ($2.24 in chips)=20
+Seat 2: Sytya88 ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($0.77 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 8: the_wickstar ($2.71 in chips)=20
+Seat 9: Gorunchik ($2.50 in chips)=20
+Gorunchik: posts small blind $0.01
+verusik24: posts big blind $0.02
+Bozzuka: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d Ks]
+Sytya88: raises $0.06 to $0.08
+Zigmundfruei: folds=20
+GooDilein: raises $0.69 to $0.77 and is all-in
+ahperikos: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: calls $0.69
+*** FLOP *** [7c 7d 9c]
+*** TURN *** [7c 7d 9c] [Tc]
+*** RIVER *** [7c 7d 9c Tc] [2d]
+*** SHOW DOWN ***
+Sytya88: shows [Qd Qs] (two pair, Queens and Sevens)
+GooDilein: shows [Ac Kc] (a flush, Ace high)
+GooDilein collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05=20
+Board [7c 7d 9c Tc 2d]
+Seat 1: verusik24 (big blind) folded before Flop
+Seat 2: Sytya88 showed [Qd Qs] and lost with two pair, Queens and Sevens
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein showed [Ac Kc] and won ($1.52) with a flush, Ace high
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: Gorunchik (small blind) folded before Flop
+
+
+*********** # 67 **************
+PokerStars Hand #170261333887:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:01:35 CUST [2017/05/11 8:01:35 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.93 in chips)=20
+Seat 4: uilcm ($2.03 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.22 in chips)=20
+Seat 8: the_wickstar ($1.39 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+wilmago17: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jh Kh]
+dymarko: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: raises $0.04 to $0.06
+Ars_Hash joins the table at seat #1=20
+AbsEnteR88: folds=20
+bymer06: calls $0.06
+wilmago17: raises $0.20 to $0.26
+the_wickstar: folds=20
+uilcm: folds=20
+bymer06: folds=20
+Uncalled bet ($0.20) returned to wilmago17
+wilmago17 collected $0.20 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.20 | Rake $0=20
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 (button) folded before Flop
+Seat 7: wilmago17 (small blind) collected ($0.20)
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #170261323123:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:01:12 CUST [2017/05/11 8:01:12 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 1: verusik24 ($2.30 in chips)=20
+Seat 2: Sytya88 ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($0.77 in chips)=20
+Seat 6: ahperikos ($1.71 in chips)=20
+Seat 7: bigvaras ($0.80 in chips)=20
+Seat 8: the_wickstar ($2.77 in chips)=20
+Seat 9: Gorunchik ($1.64 in chips)=20
+bigvaras: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d 4c]
+Gorunchik: raises $0.04 to $0.06
+verusik24: calls $0.06
+Sytya88: folds=20
+Zigmundfruei: folds=20
+GooDilein: folds=20
+ahperikos: folds=20
+bigvaras: calls $0.05
+Bozzuka joins the table at seat #5=20
+the_wickstar: calls $0.04
+*** FLOP *** [5c 7c Ah]
+bigvaras: checks=20
+the_wickstar: checks=20
+Gorunchik: bets $0.16
+verusik24: folds=20
+bigvaras: calls $0.16
+the_wickstar: folds=20
+*** TURN *** [5c 7c Ah] [Td]
+bigvaras: checks=20
+Gorunchik: bets $0.58
+bigvaras: calls $0.58 and is all-in
+*** RIVER *** [5c 7c Ah Td] [4s]
+*** SHOW DOWN ***
+bigvaras: shows [Jc Tc] (a pair of Tens)
+Gorunchik: shows [9h As] (a pair of Aces)
+Gorunchik collected $1.66 from pot
+*** SUMMARY ***
+Total pot $1.72 | Rake $0.06=20
+Board [5c 7c Ah Td 4s]
+Seat 1: verusik24 folded on the Flop
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 6: ahperikos (button) folded before Flop (didn't bet)
+Seat 7: bigvaras (small blind) showed [Jc Tc] and lost with a pair of T=
+ens
+Seat 8: the_wickstar (big blind) folded on the Flop
+Seat 9: Gorunchik showed [9h As] and won ($1.66) with a pair of Aces
+
+
+*********** # 69 **************
+PokerStars Hand #170261319922:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:01:05 CUST [2017/05/11 8:01:05 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.93 in chips)=20
+Seat 4: uilcm ($2.03 in chips)=20
+Seat 5: AbsEnteR88 ($2.53 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.39 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8d As]
+the_wickstar: folds=20
+dymarko: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+Uncalled bet ($0.01) returned to wilmago17
+wilmago17 collected $0.02 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (button) folded before Flop (didn't bet)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 7: wilmago17 (big blind) collected ($0.02)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #170261303608:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:00:28 CUST [2017/05/11 8:00:28 ET]
+Table 'Achaia' 9-max Seat #4 is the button
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.93 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.54 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.39 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+AbsEnteR88: posts small blind $0.01
+bymer06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 6c]
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: raises $0.03 to $0.05
+AbsEnteR88: folds=20
+bymer06: folds=20
+Uncalled bet ($0.03) returned to uilcm
+uilcm collected $0.05 from pot
+uilcm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm (button) collected ($0.05)
+Seat 5: AbsEnteR88 (small blind) folded before Flop
+Seat 6: bymer06 (big blind) folded before Flop
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 71 **************
+PokerStars Hand #170261297933:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 22:00:15 CUST [2017/05/11 8:00:15 ET]
+Table 'Antilia' 9-max Seat #5 is the button
+Seat 1: verusik24 ($2.30 in chips)=20
+Seat 2: Sytya88 ($2 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($0.77 in chips)=20
+Seat 5: MADEPE01 ($1.58 in chips)=20
+Seat 6: ahperikos ($1.72 in chips)=20
+Seat 7: bigvaras ($1.18 in chips)=20
+Seat 8: the_wickstar ($2.41 in chips)=20
+Seat 9: Gorunchik ($1.64 in chips)=20
+ahperikos: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts Ad]
+the_wickstar: raises $0.02 to $0.04
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+GooDilein: folds=20
+MADEPE01: folds=20
+MADEPE01 leaves the table
+ahperikos: folds=20
+bigvaras: raises $0.02 to $0.06
+the_wickstar: calls $0.02
+*** FLOP *** [2c 4h Ah]
+bigvaras: bets $0.07
+the_wickstar: calls $0.07
+*** TURN *** [2c 4h Ah] [6h]
+bigvaras: checks=20
+the_wickstar: bets $0.13
+bigvaras: calls $0.13
+*** RIVER *** [2c 4h Ah 6h] [Ac]
+bigvaras: bets $0.12
+the_wickstar: calls $0.12
+*** SHOW DOWN ***
+bigvaras: shows [Jd Jh] (two pair, Aces and Jacks)
+the_wickstar: shows [Ts Ad] (three of a kind, Aces)
+the_wickstar collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03=20
+Board [2c 4h Ah 6h Ac]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 5: MADEPE01 (button) folded before Flop (didn't bet)
+Seat 6: ahperikos (small blind) folded before Flop
+Seat 7: bigvaras (big blind) showed [Jd Jh] and lost with two pair, Ace=
+s and Jacks
+Seat 8: the_wickstar showed [Ts Ad] and won ($0.74) with three of a kin=
+d, Aces
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 72 **************
+PokerStars Hand #170261290677:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:59:58 CUST [2017/05/11 7:59:58 ET]
+Table 'Achaia' 9-max Seat #3 is the button
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.93 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.36 in chips)=20
+Seat 9: dymarko ($2.03 in chips)=20
+uilcm: posts small blind $0.01
+AbsEnteR88: posts big blind $0.02
+bestfo: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 4c]
+bymer06: folds=20
+bestfo leaves the table
+wilmago17: folds=20
+the_wickstar: raises $0.02 to $0.04
+dymarko: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+Uncalled bet ($0.02) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt (button) folded before Flop (didn't bet)
+Seat 4: uilcm (small blind) folded before Flop
+Seat 5: AbsEnteR88 (big blind) folded before Flop
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar collected ($0.05)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 73 **************
+PokerStars Hand #170261284935:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:59:45 CUST [2017/05/11 7:59:45 ET]
+Table 'Antilia' 9-max Seat #4 is the button
+Seat 1: verusik24 ($2.30 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.07 in chips)=20
+Seat 4: GooDilein ($0.77 in chips)=20
+Seat 5: MADEPE01 ($2.13 in chips)=20
+Seat 6: ahperikos ($1.74 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($2.41 in chips)=20
+Seat 9: Gorunchik ($1.64 in chips)=20
+MADEPE01: posts small blind $0.01
+ahperikos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c 9d]
+bigvaras: calls $0.02
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: raises $0.08 to $0.10
+Zigmundfruei: folds=20
+GooDilein: folds=20
+MADEPE01: raises $0.22 to $0.32
+ahperikos: folds=20
+bigvaras: raises $0.23 to $0.55 and is all-in
+Sytya88: folds=20
+MADEPE01: calls $0.23
+*** FLOP *** [9s Js 3c]
+*** TURN *** [9s Js 3c] [7h]
+*** RIVER *** [9s Js 3c 7h] [5s]
+*** SHOW DOWN ***
+MADEPE01: shows [Kd As] (high card Ace)
+bigvaras: shows [Ks Kc] (a pair of Kings)
+bigvaras collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.04=20
+Board [9s Js 3c 7h 5s]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein (button) folded before Flop (didn't bet)
+Seat 5: MADEPE01 (small blind) showed [Kd As] and lost with high card A=
+ce
+Seat 6: ahperikos (big blind) folded before Flop
+Seat 7: bigvaras showed [Ks Kc] and won ($1.18) with a pair of Kings
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 74 **************
+PokerStars Hand #170261270354:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:59:10 CUST [2017/05/11 7:59:10 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 2: bigvaras ($1.84 in chips)=20
+Seat 3: smdfkncnt ($1.94 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.36 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+smdfkncnt: posts small blind $0.01
+uilcm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jh 2d]
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: raises $0.02 to $0.04
+bigvaras: folds=20
+smdfkncnt: folds=20
+bestfo joins the table at seat #1=20
+uilcm: folds=20
+Uncalled bet ($0.02) returned to dymarko
+dymarko collected $0.05 from pot
+dymarko: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: bigvaras (button) folded before Flop (didn't bet)
+Seat 3: smdfkncnt (small blind) folded before Flop
+Seat 4: uilcm (big blind) folded before Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko collected ($0.05)
+
+
+*********** # 75 **************
+PokerStars Hand #170261269943:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:59:09 CUST [2017/05/11 7:59:09 ET]
+Table 'Antilia' 9-max Seat #3 is the button
+Seat 1: verusik24 ($2.30 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1 in chips)=20
+Seat 4: GooDilein ($0.78 in chips)=20
+Seat 5: MADEPE01 ($2.19 in chips)=20
+Seat 6: ahperikos ($1.74 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($2.41 in chips)=20
+Seat 9: Gorunchik ($1.64 in chips)=20
+GooDilein: posts small blind $0.01
+MADEPE01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9s 3s]
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: raises $0.04 to $0.06
+GooDilein: folds=20
+MADEPE01: calls $0.04
+*** FLOP *** [Tc Jc 8d]
+MADEPE01: checks=20
+Zigmundfruei: bets $0.07
+MADEPE01: folds=20
+Uncalled bet ($0.07) returned to Zigmundfruei
+Zigmundfruei collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [Tc Jc 8d]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (button) collected ($0.13)
+Seat 4: GooDilein (small blind) folded before Flop
+Seat 5: MADEPE01 (big blind) folded on the Flop
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 76 **************
+PokerStars Hand #170261246814:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:58:15 CUST [2017/05/11 7:58:15 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Gorunchik ($2.37 in chips)=20
+Seat 2: bigvaras ($1.88 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bigvaras: posts small blind $0.01
+smdfkncnt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac Qs]
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: raises $0.02 to $0.04
+dymarko: folds=20
+Gorunchik: folds=20
+Gorunchik leaves the table
+bigvaras: calls $0.03
+smdfkncnt: folds=20
+*** FLOP *** [As 9s Tc]
+bigvaras: checks=20
+the_wickstar: bets $0.05
+bigvaras: folds=20
+Uncalled bet ($0.05) returned to the_wickstar
+the_wickstar collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Board [As 9s Tc]
+Seat 1: Gorunchik (button) folded before Flop (didn't bet)
+Seat 2: bigvaras (small blind) folded on the Flop
+Seat 3: smdfkncnt (big blind) folded before Flop
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar collected ($0.10)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 77 **************
+PokerStars Hand #170261243050:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:58:07 CUST [2017/05/11 7:58:07 ET]
+Table 'Antilia' 9-max Seat #2 is the button
+Seat 1: verusik24 ($2.22 in chips)=20
+Seat 2: Sytya88 ($2.02 in chips)=20
+Seat 3: Zigmundfruei ($1.06 in chips)=20
+Seat 4: GooDilein ($0.80 in chips)=20
+Seat 5: MADEPE01 ($2.19 in chips)=20
+Seat 6: ahperikos ($1.74 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($2.41 in chips)=20
+Seat 9: Gorunchik ($1.64 in chips)=20
+Zigmundfruei: posts small blind $0.01
+GooDilein: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 7d]
+MADEPE01: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: raises $0.04 to $0.06
+Sytya88: folds=20
+Zigmundfruei: calls $0.05
+GooDilein: folds=20
+*** FLOP *** [3s 7h 9s]
+Zigmundfruei: checks=20
+verusik24: bets $0.09
+Zigmundfruei: folds=20
+Uncalled bet ($0.09) returned to verusik24
+verusik24 collected $0.14 from pot
+verusik24: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.14 | Rake $0=20
+Board [3s 7h 9s]
+Seat 1: verusik24 collected ($0.14)
+Seat 2: Sytya88 (button) folded before Flop (didn't bet)
+Seat 3: Zigmundfruei (small blind) folded on the Flop
+Seat 4: GooDilein (big blind) folded before Flop
+Seat 5: MADEPE01 folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #170261236997:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:57:52 CUST [2017/05/11 7:57:52 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Gorunchik ($2.38 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.21 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+Gorunchik: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Ah]
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+Uncalled bet ($0.01) returned to bigvaras
+bigvaras collected $0.02 from pot
+bigvaras: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: Gorunchik (small blind) folded before Flop
+Seat 2: bigvaras (big blind) collected ($0.02)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) folded before Flop (didn't bet)
+
+
+*********** # 79 **************
+PokerStars Hand #170261226049:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:57:26 CUST [2017/05/11 7:57:26 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Gorunchik ($2.40 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+dymarko: posts small blind $0.01
+Gorunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 4h]
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.04 to $0.06
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+Uncalled bet ($0.04) returned to wilmago17
+wilmago17 collected $0.05 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik (big blind) folded before Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.05)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 80 **************
+PokerStars Hand #170261217215:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:57:05 CUST [2017/05/11 7:57:05 ET]
+Table 'Antilia' 9-max Seat #1 is the button
+Seat 1: verusik24 ($2.22 in chips)=20
+Seat 2: Sytya88 ($2.03 in chips)=20
+Seat 3: Zigmundfruei ($0.72 in chips)=20
+Seat 4: GooDilein ($0.80 in chips)=20
+Seat 5: MADEPE01 ($2.19 in chips)=20
+Seat 6: ahperikos ($1.26 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($2.41 in chips)=20
+Seat 9: Gorunchik ($2 in chips)=20
+Sytya88: posts small blind $0.01
+Zigmundfruei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Ks]
+GooDilein: folds=20
+MADEPE01: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: raises $0.04 to $0.06
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: raises $0.04 to $0.10
+Gorunchik: calls $0.04
+*** FLOP *** [Jh 8c 4s]
+Zigmundfruei: checks=20
+Gorunchik: checks=20
+*** TURN *** [Jh 8c 4s] [Td]
+Zigmundfruei: bets $0.08
+Gorunchik: calls $0.08
+*** RIVER *** [Jh 8c 4s Td] [Js]
+Zigmundfruei: bets $0.18
+Gorunchik: calls $0.18
+*** SHOW DOWN ***
+Zigmundfruei: shows [Qh Qd] (two pair, Queens and Jacks)
+Gorunchik: mucks hand=20
+Zigmundfruei collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03=20
+Board [Jh 8c 4s Td Js]
+Seat 1: verusik24 (button) folded before Flop (didn't bet)
+Seat 2: Sytya88 (small blind) folded before Flop
+Seat 3: Zigmundfruei (big blind) showed [Qh Qd] and won ($0.70) with tw=
+o pair, Queens and Jacks
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 5: MADEPE01 folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: Gorunchik mucked [4d Ah]
+
+
+*********** # 81 **************
+PokerStars Hand #170261208879:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:56:45 CUST [2017/05/11 7:56:45 ET]
+Table 'Achaia' 9-max Seat #7 is the button
+Seat 1: Gorunchik ($2.40 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.28 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qs Qh]
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: raises $0.04 to $0.06
+dymarko: folds=20
+Uncalled bet ($0.04) returned to the_wickstar
+the_wickstar collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) collected ($0.04)
+Seat 9: dymarko (big blind) folded before Flop
+
+
+*********** # 82 **************
+PokerStars Hand #170261200261:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:56:25 CUST [2017/05/11 7:56:25 ET]
+Table 'Antilia' 9-max Seat #9 is the button
+Seat 1: verusik24 ($2.23 in chips)=20
+Seat 2: Sytya88 ($2.05 in chips)=20
+Seat 3: Zigmundfruei ($0.72 in chips)=20
+Seat 4: GooDilein ($0.80 in chips)=20
+Seat 5: MADEPE01 ($2.19 in chips)=20
+Seat 6: ahperikos ($1.68 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($1.99 in chips)=20
+Seat 9: Gorunchik ($2 in chips)=20
+verusik24: posts small blind $0.01
+Sytya88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Ah]
+Zigmundfruei: folds=20
+GooDilein: folds=20
+MADEPE01: folds=20
+ahperikos: raises $0.04 to $0.06
+bigvaras: folds=20
+the_wickstar: raises $0.04 to $0.10
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+ahperikos: calls $0.04
+*** FLOP *** [4h 9s 4s]
+ahperikos: checks=20
+the_wickstar: checks=20
+*** TURN *** [4h 9s 4s] [4d]
+ahperikos: bets $0.11
+the_wickstar: calls $0.11
+*** RIVER *** [4h 9s 4s 4d] [Jh]
+ahperikos: bets $0.21
+the_wickstar: calls $0.21
+*** SHOW DOWN ***
+ahperikos: shows [6c 6d] (a full house, Fours full of Sixes)
+the_wickstar: shows [Jd Ah] (a full house, Fours full of Jacks)
+the_wickstar collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03=20
+Board [4h 9s 4s 4d Jh]
+Seat 1: verusik24 (small blind) folded before Flop
+Seat 2: Sytya88 (big blind) folded before Flop
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 5: MADEPE01 folded before Flop (didn't bet)
+Seat 6: ahperikos showed [6c 6d] and lost with a full house, Fours full=
+ of Sixes
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar showed [Jd Ah] and won ($0.84) with a full house, =
+Fours full of Jacks
+Seat 9: Gorunchik (button) folded before Flop (didn't bet)
+
+
+*********** # 83 **************
+PokerStars Hand #170261194260:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:56:11 CUST [2017/05/11 7:56:11 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 1: Gorunchik ($2.40 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2.16 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+wilmago17: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 8d]
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.04 to $0.06
+the_wickstar: folds=20
+Uncalled bet ($0.04) returned to wilmago17
+wilmago17 collected $0.04 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 (button) folded before Flop (didn't bet)
+Seat 7: wilmago17 (small blind) collected ($0.04)
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 84 **************
+PokerStars Hand #170261179164:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:55:35 CUST [2017/05/11 7:55:35 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 1: Gorunchik ($2.23 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2.01 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ks 9d]
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: raises $0.06 to $0.08
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: raises $0.06 to $0.14
+wilmago17: folds=20
+Gorunchik: calls $0.06
+*** FLOP *** [8c Qs 7s]
+bymer06: bets $0.02
+Gorunchik: raises $0.16 to $0.18
+bymer06: folds=20
+Uncalled bet ($0.16) returned to Gorunchik
+Gorunchik collected $0.33 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01=20
+Board [8c Qs 7s]
+Seat 1: Gorunchik collected ($0.33)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (button) folded before Flop (didn't bet)
+Seat 6: bymer06 (small blind) folded on the Flop
+Seat 7: wilmago17 (big blind) folded before Flop
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 85 **************
+PokerStars Hand #170261170989:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:55:15 CUST [2017/05/11 7:55:15 ET]
+Table 'Antilia' 9-max Seat #8 is the button
+Seat 1: verusik24 ($2.25 in chips)=20
+Seat 2: Sytya88 ($2.05 in chips)=20
+Seat 3: Zigmundfruei ($0.89 in chips)=20
+Seat 4: GooDilein ($0.80 in chips)=20
+Seat 5: MADEPE01 ($2 in chips)=20
+Seat 6: ahperikos ($1.68 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($1.99 in chips)=20
+Seat 9: Gorunchik ($2.01 in chips)=20
+Gorunchik: posts small blind $0.01
+verusik24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d 5h]
+Sytya88: folds=20
+Zigmundfruei: calls $0.02
+GooDilein: folds=20
+MADEPE01: raises $0.07 to $0.09
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Gorunchik: folds=20
+verusik24: folds=20
+Zigmundfruei: calls $0.07
+*** FLOP *** [Jh 2c Ts]
+Zigmundfruei: bets $0.08
+MADEPE01: calls $0.08
+*** TURN *** [Jh 2c Ts] [5c]
+Zigmundfruei: checks=20
+MADEPE01: checks=20
+*** RIVER *** [Jh 2c Ts 5c] [Kd]
+Zigmundfruei: checks=20
+MADEPE01: checks=20
+*** SHOW DOWN ***
+Zigmundfruei: shows [As 7s] (high card Ace)
+MADEPE01: shows [8c 8h] (a pair of Eights)
+MADEPE01 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01=20
+Board [Jh 2c Ts 5c Kd]
+Seat 1: verusik24 (big blind) folded before Flop
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei showed [As 7s] and lost with high card Ace
+Seat 4: GooDilein folded before Flop (didn't bet)
+Seat 5: MADEPE01 showed [8c 8h] and won ($0.36) with a pair of Eights
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: Gorunchik (small blind) folded before Flop
+
+
+*********** # 86 **************
+PokerStars Hand #170261167935:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:55:08 CUST [2017/05/11 7:55:08 ET]
+Table 'Achaia' 9-max Seat #4 is the button
+Seat 1: Gorunchik ($2.20 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.57 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+AbsEnteR88: posts small blind $0.01
+bymer06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 2d]
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: raises $0.04 to $0.06
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+Uncalled bet ($0.04) returned to Gorunchik
+Gorunchik collected $0.05 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik collected ($0.05)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm (button) folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (small blind) folded before Flop
+Seat 6: bymer06 (big blind) folded before Flop
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 87 **************
+PokerStars Hand #170261160902:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:54:53 CUST [2017/05/11 7:54:53 ET]
+Table 'Antilia' 9-max Seat #7 is the button
+Seat 1: verusik24 ($2.25 in chips)=20
+Seat 2: Sytya88 ($2.05 in chips)=20
+Seat 3: Zigmundfruei ($0.89 in chips)=20
+Seat 5: MADEPE01 ($2 in chips)=20
+Seat 6: ahperikos ($1.68 in chips)=20
+Seat 7: bigvaras ($0.55 in chips)=20
+Seat 8: the_wickstar ($2 in chips)=20
+Seat 9: Gorunchik ($2 in chips)=20
+the_wickstar: posts small blind $0.01
+Gorunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [As 4d]
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+MADEPE01: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.01) returned to Gorunchik
+Gorunchik collected $0.02 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 5: MADEPE01 folded before Flop (didn't bet)
+Seat 6: ahperikos folded before Flop (didn't bet)
+Seat 7: bigvaras (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: Gorunchik (big blind) collected ($0.02)
+
+
+*********** # 88 **************
+PokerStars Hand #170261153313:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:54:36 CUST [2017/05/11 7:54:36 ET]
+Table 'Achaia' 9-max Seat #3 is the button
+Seat 1: Gorunchik ($2.20 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.96 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+uilcm: posts small blind $0.01
+AbsEnteR88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s 2d]
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+Uncalled bet ($0.01) returned to AbsEnteR88
+AbsEnteR88 collected $0.02 from pot
+AbsEnteR88: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt (button) folded before Flop (didn't bet)
+Seat 4: uilcm (small blind) folded before Flop
+Seat 5: AbsEnteR88 (big blind) collected ($0.02)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 89 **************
+PokerStars Hand #170261139101:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:54:05 CUST [2017/05/11 7:54:05 ET]
+Table 'Antilia' 9-max Seat #6 is the button
+Seat 1: verusik24 ($2.25 in chips)=20
+Seat 2: Sytya88 ($2.05 in chips)=20
+Seat 3: Zigmundfruei ($0.89 in chips)=20
+Seat 4: GooDilein ($0.96 in chips)=20
+Seat 5: MADEPE01 ($2 in chips)=20
+Seat 6: ahperikos ($1.68 in chips)=20
+Seat 7: bigvaras ($0.56 in chips)=20
+Seat 8: the_wickstar ($1.10 in chips)=20
+Seat 9: Gorunchik ($2 in chips)=20
+bigvaras: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c 8h]
+Gorunchik: folds=20
+verusik24: folds=20
+Sytya88: folds=20
+Zigmundfruei: folds=20
+GooDilein: raises $0.06 to $0.08
+MADEPE01: folds=20
+ahperikos: folds=20
+bigvaras: folds=20
+the_wickstar: calls $0.06
+*** FLOP *** [8d As Th]
+the_wickstar: checks=20
+GooDilein: bets $0.88 and is all-in
+the_wickstar: calls $0.88
+*** TURN *** [8d As Th] [9s]
+*** RIVER *** [8d As Th 9s] [5h]
+*** SHOW DOWN ***
+the_wickstar: shows [8c 8h] (three of a kind, Eights)
+GooDilein: shows [Qs Ac] (a pair of Aces)
+the_wickstar collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07=20
+Board [8d As Th 9s 5h]
+Seat 1: verusik24 folded before Flop (didn't bet)
+Seat 2: Sytya88 folded before Flop (didn't bet)
+Seat 3: Zigmundfruei folded before Flop (didn't bet)
+Seat 4: GooDilein showed [Qs Ac] and lost with a pair of Aces
+Seat 5: MADEPE01 folded before Flop (didn't bet)
+Seat 6: ahperikos (button) folded before Flop (didn't bet)
+Seat 7: bigvaras (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) showed [8c 8h] and won ($1.86) with th=
+ree of a kind, Eights
+Seat 9: Gorunchik folded before Flop (didn't bet)
+
+
+*********** # 90 **************
+PokerStars Hand #170261131443:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:53:49 CUST [2017/05/11 7:53:49 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Gorunchik ($2.13 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.97 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2.18 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+smdfkncnt: posts small blind $0.01
+uilcm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Qc]
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: raises $0.02 to $0.04
+Gorunchik: calls $0.04
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+*** FLOP *** [4s Jd Kh]
+dymarko: checks=20
+Gorunchik: bets $0.08
+dymarko: folds=20
+Uncalled bet ($0.08) returned to Gorunchik
+Gorunchik collected $0.11 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Board [4s Jd Kh]
+Seat 1: Gorunchik collected ($0.11)
+Seat 2: bigvaras (button) folded before Flop (didn't bet)
+Seat 3: smdfkncnt (small blind) folded before Flop
+Seat 4: uilcm (big blind) folded before Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded on the Flop
+
+
+*********** # 91 **************
+PokerStars Hand #170261118284:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:53:21 CUST [2017/05/11 7:53:21 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Gorunchik ($2.13 in chips)=20
+Seat 2: bigvaras ($1.88 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2.15 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bigvaras: posts small blind $0.01
+smdfkncnt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c Qs]
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: raises $0.06 to $0.08
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+Uncalled bet ($0.06) returned to wilmago17
+wilmago17 collected $0.05 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik (button) folded before Flop (didn't bet)
+Seat 2: bigvaras (small blind) folded before Flop
+Seat 3: smdfkncnt (big blind) folded before Flop
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.05)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 92 **************
+PokerStars Hand #170261098168:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:52:38 CUST [2017/05/11 7:52:38 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Gorunchik ($2.11 in chips)=20
+Seat 2: bigvaras ($1.90 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.56 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2.15 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+Gorunchik: posts small blind $0.01
+bigvaras: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 3c]
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: raises $0.04 to $0.06
+bigvaras: folds=20
+Uncalled bet ($0.04) returned to Gorunchik
+Gorunchik collected $0.04 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gorunchik (small blind) collected ($0.04)
+Seat 2: bigvaras (big blind) folded before Flop
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #170261066865:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:51:31 CUST [2017/05/11 7:51:31 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Gorunchik ($2.13 in chips)=20
+Seat 2: bigvaras ($1.90 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.62 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.30 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+dymarko: posts small blind $0.01
+Gorunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 6d]
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: raises $0.04 to $0.06
+AbsEnteR88: calls $0.06
+bymer06: folds=20
+wilmago17: raises $0.20 to $0.26
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+Uncalled bet ($0.20) returned to wilmago17
+wilmago17 collected $0.21 from pot
+wilmago17: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.21 | Rake $0=20
+Seat 1: Gorunchik (big blind) folded before Flop
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop
+Seat 5: AbsEnteR88 folded before Flop
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 collected ($0.21)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded before Flop
+
+
+*********** # 94 **************
+PokerStars Hand #170261053885:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:51:03 CUST [2017/05/11 7:51:03 ET]
+Table 'Achaia' 9-max Seat #7 is the button
+Seat 1: Gorunchik ($2.10 in chips)=20
+Seat 2: bigvaras ($1.90 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.62 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.31 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc 2d]
+Gorunchik: raises $0.04 to $0.06
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Uncalled bet ($0.04) returned to Gorunchik
+Gorunchik collected $0.05 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik collected ($0.05)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 7: wilmago17 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) folded before Flop
+
+
+*********** # 95 **************
+PokerStars Hand #170261041894:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:50:37 CUST [2017/05/11 7:50:37 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 1: Gorunchik ($2.10 in chips)=20
+Seat 2: bigvaras ($1.90 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2 in chips)=20
+Seat 5: AbsEnteR88 ($2.62 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.33 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+wilmago17: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 6h]
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: raises $0.02 to $0.04
+wilmago17: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.02) returned to bymer06
+bymer06 collected $0.05 from pot
+bymer06: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 (button) collected ($0.05)
+Seat 7: wilmago17 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 96 **************
+PokerStars Hand #170261016779:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:49:42 CUST [2017/05/11 7:49:42 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 1: Gorunchik ($2.10 in chips)=20
+Seat 2: bigvaras ($1.90 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2.11 in chips)=20
+Seat 5: AbsEnteR88 ($2.62 in chips)=20
+Seat 6: bymer06 ($2.01 in chips)=20
+Seat 7: wilmago17 ($2 in chips)=20
+Seat 8: the_wickstar ($1.18 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bymer06: posts small blind $0.01
+wilmago17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Js Jd]
+the_wickstar: raises $0.04 to $0.06
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: calls $0.06
+AbsEnteR88: folds=20
+bymer06: folds=20
+wilmago17: folds=20
+*** FLOP *** [7h Qc 6h]
+the_wickstar: bets $0.07
+uilcm: calls $0.07
+*** TURN *** [7h Qc 6h] [Jh]
+the_wickstar: bets $0.14
+uilcm: folds=20
+Uncalled bet ($0.14) returned to the_wickstar
+the_wickstar collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01=20
+Board [7h Qc 6h Jh]
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded on the Turn
+Seat 5: AbsEnteR88 (button) folded before Flop (didn't bet)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 7: wilmago17 (big blind) folded before Flop
+Seat 8: the_wickstar collected ($0.28)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 97 **************
+PokerStars Hand #170260997168:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:49:00 CUST [2017/05/11 7:49:00 ET]
+Table 'Achaia' 9-max Seat #4 is the button
+Seat 1: Gorunchik ($2.10 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2.11 in chips)=20
+Seat 5: AbsEnteR88 ($2.63 in chips)=20
+Seat 6: bymer06 ($2.03 in chips)=20
+Seat 8: the_wickstar ($1.18 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+AbsEnteR88: posts small blind $0.01
+bymer06: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d Qs]
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: calls $0.02
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: checks=20
+*** FLOP *** [Kc 8h Tc]
+bymer06: checks=20
+bigvaras: bets $0.02
+bymer06: folds=20
+Uncalled bet ($0.02) returned to bigvaras
+bigvaras collected $0.05 from pot
+bigvaras: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [Kc 8h Tc]
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras collected ($0.05)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm (button) folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (small blind) folded before Flop
+Seat 6: bymer06 (big blind) folded on the Flop
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 98 **************
+PokerStars Hand #170260981323:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:48:26 CUST [2017/05/11 7:48:26 ET]
+Table 'Achaia' 9-max Seat #3 is the button
+Seat 1: Gorunchik ($2.10 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($1.99 in chips)=20
+Seat 4: uilcm ($2.12 in chips)=20
+Seat 5: AbsEnteR88 ($2.65 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.18 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+uilcm: posts small blind $0.01
+AbsEnteR88: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 3s]
+bymer06: raises $0.04 to $0.06
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+Uncalled bet ($0.04) returned to bymer06
+bymer06 collected $0.05 from pot
+bymer06: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik folded before Flop (didn't bet)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt (button) folded before Flop (didn't bet)
+Seat 4: uilcm (small blind) folded before Flop
+Seat 5: AbsEnteR88 (big blind) folded before Flop
+Seat 6: bymer06 collected ($0.05)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 99 **************
+PokerStars Hand #170260958413:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:47:37 CUST [2017/05/11 7:47:37 ET]
+Table 'Achaia' 9-max Seat #2 is the button
+Seat 1: Gorunchik ($2.03 in chips)=20
+Seat 2: bigvaras ($1.87 in chips)=20
+Seat 3: smdfkncnt ($2 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.65 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.18 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+smdfkncnt: posts small blind $0.01
+uilcm: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h 7c]
+AbsEnteR88: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: raises $0.02 to $0.04
+Gorunchik: raises $0.08 to $0.12
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+dymarko: folds=20
+Uncalled bet ($0.08) returned to Gorunchik
+Gorunchik collected $0.11 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Seat 1: Gorunchik collected ($0.11)
+Seat 2: bigvaras (button) folded before Flop (didn't bet)
+Seat 3: smdfkncnt (small blind) folded before Flop
+Seat 4: uilcm (big blind) folded before Flop
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko folded before Flop
+
+
+*********** # 100 **************
+PokerStars Hand #170260920734:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:46:14 CUST [2017/05/11 7:46:14 ET]
+Table 'Achaia' 9-max Seat #1 is the button
+Seat 1: Gorunchik ($2.03 in chips)=20
+Seat 2: bigvaras ($1.97 in chips)=20
+Seat 3: smdfkncnt ($0.91 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.65 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.07 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bigvaras: posts small blind $0.01
+smdfkncnt: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6c 7c]
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+the_wickstar: calls $0.02
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: calls $0.01
+smdfkncnt: checks=20
+*** FLOP *** [As Ts 9d]
+bigvaras: checks=20
+smdfkncnt: checks=20
+the_wickstar: bets $0.04
+bigvaras: calls $0.04
+smdfkncnt: folds=20
+*** TURN *** [As Ts 9d] [2d]
+bigvaras: checks=20
+the_wickstar: checks=20
+*** RIVER *** [As Ts 9d 2d] [Qh]
+bigvaras: bets $0.04
+the_wickstar: raises $0.10 to $0.14
+bigvaras: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01=20
+Board [As Ts 9d 2d Qh]
+Seat 1: Gorunchik (button) folded before Flop (didn't bet)
+Seat 2: bigvaras (small blind) folded on the River
+Seat 3: smdfkncnt (big blind) folded on the Flop
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar collected ($0.21)
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+*********** # 101 **************
+PokerStars Hand #170260907009:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:45:44 CUST [2017/05/11 7:45:44 ET]
+Table 'Achaia' 9-max Seat #9 is the button
+Seat 1: Gorunchik ($2.04 in chips)=20
+Seat 2: bigvaras ($1.99 in chips)=20
+Seat 3: smdfkncnt ($0.88 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.65 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.07 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+Gorunchik: posts small blind $0.01
+bigvaras: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5h Jc]
+smdfkncnt: raises $0.04 to $0.06
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Gorunchik: folds=20
+bigvaras: folds=20
+Uncalled bet ($0.04) returned to smdfkncnt
+smdfkncnt collected $0.05 from pot
+smdfkncnt: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Gorunchik (small blind) folded before Flop
+Seat 2: bigvaras (big blind) folded before Flop
+Seat 3: smdfkncnt collected ($0.05)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar folded before Flop (didn't bet)
+Seat 9: dymarko (button) folded before Flop (didn't bet)
+
+
+*********** # 102 **************
+PokerStars Hand #170260890247:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:45:07 CUST [2017/05/11 7:45:07 ET]
+Table 'Achaia' 9-max Seat #8 is the button
+Seat 1: Gorunchik ($2 in chips)=20
+Seat 2: bigvaras ($1.99 in chips)=20
+Seat 3: smdfkncnt ($0.88 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.65 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.07 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+dymarko: posts small blind $0.01
+Gorunchik: posts big blind $0.02
+wilmago17: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qs 9s]
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: folds=20
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: raises $0.02 to $0.04
+Gorunchik: calls $0.02
+*** FLOP *** [Js Kd 4d]
+dymarko: checks=20
+Gorunchik: checks=20
+*** TURN *** [Js Kd 4d] [5s]
+dymarko: checks=20
+Gorunchik: bets $0.04
+dymarko: folds=20
+Uncalled bet ($0.04) returned to Gorunchik
+Gorunchik collected $0.08 from pot
+Gorunchik: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.08 | Rake $0=20
+Board [Js Kd 4d 5s]
+Seat 1: Gorunchik (big blind) collected ($0.08)
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 folded before Flop (didn't bet)
+Seat 6: bymer06 folded before Flop (didn't bet)
+Seat 8: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: dymarko (small blind) folded on the Turn
+
+
+*********** # 103 **************
+PokerStars Hand #170260875087:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:44:34 CUST [2017/05/11 7:44:34 ET]
+Table 'Achaia' 9-max Seat #6 is the button
+Seat 2: bigvaras ($1.99 in chips)=20
+Seat 3: smdfkncnt ($0.88 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.62 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.08 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+wilmago17 will be allowed to play after the button
+the_wickstar: posts small blind $0.01
+dymarko: posts big blind $0.02
+Gorunchik: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s Qh]
+bigvaras: folds=20
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: raises $0.04 to $0.06
+bymer06: folds=20
+the_wickstar: folds=20
+dymarko: folds=20
+Uncalled bet ($0.04) returned to AbsEnteR88
+AbsEnteR88 collected $0.05 from pot
+AbsEnteR88: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: bigvaras folded before Flop (didn't bet)
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 collected ($0.05)
+Seat 6: bymer06 (button) folded before Flop (didn't bet)
+Seat 8: the_wickstar (small blind) folded before Flop
+Seat 9: dymarko (big blind) folded before Flop
+
+
+*********** # 104 **************
+PokerStars Hand #170260851695:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/11 21:43:43 CUST [2017/05/11 7:43:43 ET]
+Table 'Achaia' 9-max Seat #5 is the button
+Seat 2: bigvaras ($2.11 in chips)=20
+Seat 3: smdfkncnt ($0.88 in chips)=20
+Seat 4: uilcm ($2.14 in chips)=20
+Seat 5: AbsEnteR88 ($2.48 in chips)=20
+Seat 6: bymer06 ($2 in chips)=20
+Seat 8: the_wickstar ($1.10 in chips)=20
+Seat 9: dymarko ($2 in chips)=20
+bymer06: posts small blind $0.01
+ICBM2009 was removed from the table for failing to post
+the_wickstar: posts big blind $0.02
+Gorunchik: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc Ah]
+dymarko: folds=20
+wilmago17 joins the table at seat #7=20
+bigvaras: raises $0.02 to $0.04
+smdfkncnt: folds=20
+uilcm: folds=20
+AbsEnteR88: raises $0.08 to $0.12
+bymer06: folds=20
+the_wickstar: folds=20
+bigvaras: calls $0.08
+*** FLOP *** [Jh 2d 4h]
+bigvaras: checks=20
+AbsEnteR88: bets $0.16
+bigvaras: folds=20
+Uncalled bet ($0.16) returned to AbsEnteR88
+AbsEnteR88 collected $0.26 from pot
+AbsEnteR88: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [Jh 2d 4h]
+Seat 2: bigvaras folded on the Flop
+Seat 3: smdfkncnt folded before Flop (didn't bet)
+Seat 4: uilcm folded before Flop (didn't bet)
+Seat 5: AbsEnteR88 (button) collected ($0.26)
+Seat 6: bymer06 (small blind) folded before Flop
+Seat 8: the_wickstar (big blind) folded before Flop
+Seat 9: dymarko folded before Flop (didn't bet)
+
+
+
+If you have any questions, please contact us at "PokerStars Support" <s=
+upport@pokerstars.com>
+
+

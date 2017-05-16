@@ -1,0 +1,4629 @@
+Delivered-To: sherhan.wicky@gmail.com
+Received: by 10.79.162.140 with SMTP id k12csp89382ivh;
+        Tue, 18 Apr 2017 18:20:07 -0700 (PDT)
+X-Received: by 10.28.175.211 with SMTP id y202mr503084wme.105.1492564807666;
+        Tue, 18 Apr 2017 18:20:07 -0700 (PDT)
+Return-Path: <support@pokerstars.com>
+Received: from mx13.pokerstars.eu (mx13.pokerstars.eu. [77.87.179.125])
+        by mx.google.com with ESMTPS id k106si1094752wrc.316.2017.04.18.18.20.07
+        for <sherhan.wicky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 18 Apr 2017 18:20:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) client-ip=77.87.179.125;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com
+Received: by mx13.pokerstars.eu (mailer, from userid 4004) id E3DD314C49E9; Tue, 18 Apr 2017 21:20:06 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pokerstars.com; h=date :from:to:subject:message-id:mime-version:content-type :content-transfer-encoding; s=s1024; bh=j2KLWxlBHMsWKXdIWEg2DeR4 SmY=; b=k7HATQbSpLaImt+3JkpkdLxI+OfvxqTqQQAuIIwLywedIUdSRu8zzCf1 NhDqSjI9FGKow32Ikz2BzVJREUvwxsXQBIi/opHChQH935baL75r9yR6fWcQEiW7 X8zHOALCnT4LyQPSGC3q68q7i0Xa1JnWtfZBqezGdNAdzAdU3UI=
+X-PS-ID: c2hlcmhhbi53aWNreUBnbWFpbC5jb20=
+Received: from pokerstars.com (unknown [192.168.8.81]) by mx13.pokerstars.eu (mailer) with SMTP id CD17014C48FA for <sherhan.wicky@gmail.com>; Tue, 18 Apr 2017 21:20:06 -0400 (EDT)
+Date: Tue, 18 Apr 2017 21:20:06 -0400
+From: PokerStars Support <support@pokerstars.com>
+To: sherhan.wicky@gmail.com
+Subject: PokerStars Hand History Request - your last 100 hands
+Message-Id: <58F6BB46.6098CAF9AD7960@pokerstars.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Transcript for your last 100 hands requested by the_wickstar (sherhan.wicky=
+@gmail.com)
+
+*********** # 1 **************
+PokerStars Hand #169206045250:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:58:39 CUST [2017/04/18 5:58:39 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($5.50 in chips)=20
+Seat 2: rounder_rf ($5.16 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($5.95 in chips)=20
+Seat 5: 4ert966 ($5.06 in chips)=20
+Seat 6: the_wickstar ($2.03 in chips)=20
+RaptNurs: posts small blind $0.02
+4ert966: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jh 4c]
+the_wickstar: folds=20
+69sirov69: folds=20
+the_wickstar leaves the table
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.10 to $0.15
+JohnnyNp1 joins the table at seat #6=20
+4ert966: raises $0.30 to $0.45
+RaptNurs: folds=20
+Uncalled bet ($0.30) returned to 4ert966
+4ert966 collected $0.30 from pot
+4ert966: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.30 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 5: 4ert966 (big blind) collected ($0.30)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #169206036429:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:58:15 CUST [2017/04/18 5:58:15 ET]
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 1: 69sirov69 ($5.50 in chips)=20
+Seat 2: rounder_rf ($5.09 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6 in chips)=20
+Seat 5: 4ert966 ($5.06 in chips)=20
+Seat 6: the_wickstar ($2.03 in chips)=20
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 4d]
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+rounder_rf: raises $0.05 to $0.10
+Milva83: folds=20
+RaptNurs: folds=20
+Uncalled bet ($0.05) returned to rounder_rf
+rounder_rf collected $0.12 from pot
+rounder_rf: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf (button) collected ($0.12)
+Seat 3: Milva83 (small blind) folded before Flop
+Seat 4: RaptNurs (big blind) folded before Flop
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #169206023382:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:57:39 CUST [2017/04/18 5:57:39 ET]
+Table 'Adelaide' 9-max Seat #4 is the button
+Seat 1: Gissbon ($6.50 in chips)=20
+Seat 2: RaPnYtiu23 ($4.56 in chips)=20
+Seat 3: Strelo4ekk ($4.71 in chips)=20
+Seat 4: Yeiko8mm ($1.54 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.50 in chips)=20
+Seat 8: MarkClyde ($5.59 in chips)=20
+Seat 9: Pescador_D ($5.17 in chips)=20
+Stingg: posts small blind $0.02
+Cocucbka*Pro: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 3d]
+the_wickstar: folds=20
+MarkClyde: raises $0.05 to $0.10
+the_wickstar leaves the table
+Pescador_D: folds=20
+zespionagez joins the table at seat #7=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+Uncalled bet ($0.05) returned to MarkClyde
+MarkClyde collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: Cocucbka*Pro (big blind) folded before Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde collected ($0.12)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #169206015621:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:57:18 CUST [2017/04/18 5:57:18 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($5.50 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6 in chips)=20
+Seat 5: 4ert966 ($5.06 in chips)=20
+Seat 6: the_wickstar ($2.03 in chips)=20
+rounder_rf: posts small blind $0.02
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 3s]
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+rounder_rf: raises $0.05 to $0.10
+Milva83: calls $0.05
+*** FLOP *** [Qs 6s 4s]
+rounder_rf: bets $0.14
+Milva83: folds=20
+Uncalled bet ($0.14) returned to rounder_rf
+rounder_rf collected $0.19 from pot
+rounder_rf: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01=20
+Board [Qs 6s 4s]
+Seat 1: 69sirov69 (button) folded before Flop (didn't bet)
+Seat 2: rounder_rf (small blind) collected ($0.19)
+Seat 3: Milva83 (big blind) folded on the Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #169206008453:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:56:58 CUST [2017/04/18 5:56:58 ET]
+Table 'Adelaide' 9-max Seat #3 is the button
+Seat 1: Gissbon ($6.50 in chips)=20
+Seat 2: RaPnYtiu23 ($4.56 in chips)=20
+Seat 3: Strelo4ekk ($4.71 in chips)=20
+Seat 4: Yeiko8mm ($1.56 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.50 in chips)=20
+Seat 8: MarkClyde ($5.52 in chips)=20
+Seat 9: Pescador_D ($5.17 in chips)=20
+Yeiko8mm: posts small blind $0.02
+Stingg: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c Js]
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: raises $0.12 to $0.17
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Uncalled bet ($0.12) returned to MarkClyde
+MarkClyde collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk (button) folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (small blind) folded before Flop
+Seat 5: Stingg (big blind) folded before Flop
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde collected ($0.12)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 6 **************
+PokerStars Hand #169206001806:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:56:39 CUST [2017/04/18 5:56:39 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.52 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6 in chips)=20
+Seat 5: 4ert966 ($5.06 in chips)=20
+Seat 6: the_wickstar ($1.96 in chips)=20
+69sirov69: posts small blind $0.02
+rounder_rf: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c As]
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: calls $0.05
+69sirov69: folds=20
+rounder_rf: checks=20
+*** FLOP *** [6d 3d Ac]
+rounder_rf: checks=20
+the_wickstar: bets $0.12
+rounder_rf: folds=20
+Uncalled bet ($0.12) returned to the_wickstar
+the_wickstar collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Board [6d 3d Ac]
+Seat 1: 69sirov69 (small blind) folded before Flop
+Seat 2: rounder_rf (big blind) folded on the Flop
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.12)
+
+
+*********** # 7 **************
+PokerStars Hand #169205993497:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:56:17 CUST [2017/04/18 5:56:17 ET]
+Table 'Adelaide' 9-max Seat #2 is the button
+Seat 1: Gissbon ($6.50 in chips)=20
+Seat 2: RaPnYtiu23 ($4.56 in chips)=20
+Seat 3: Strelo4ekk ($4.38 in chips)=20
+Seat 4: Yeiko8mm ($1.61 in chips)=20
+Seat 5: Stingg ($5.07 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.50 in chips)=20
+Seat 8: MarkClyde ($5.67 in chips)=20
+Seat 9: Pescador_D ($5.17 in chips)=20
+Strelo4ekk: posts small blind $0.02
+Yeiko8mm: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d 3h]
+Stingg: raises $0.10 to $0.15
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: calls $0.15
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: calls $0.13
+Yeiko8mm: folds=20
+*** FLOP *** [As 8s 6h]
+Strelo4ekk: bets $0.32
+Stingg: folds=20
+MarkClyde: folds=20
+Uncalled bet ($0.32) returned to Strelo4ekk
+Strelo4ekk collected $0.48 from pot
+Strelo4ekk: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02=20
+Board [As 8s 6h]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 (button) folded before Flop (didn't bet)
+Seat 3: Strelo4ekk (small blind) collected ($0.48)
+Seat 4: Yeiko8mm (big blind) folded before Flop
+Seat 5: Stingg folded on the Flop
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde folded on the Flop
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #169205990814:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:56:09 CUST [2017/04/18 5:56:09 ET]
+Table 'Mathesis' 6-max Seat #5 is the button
+Seat 1: 69sirov69 ($5.57 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6 in chips)=20
+Seat 5: 4ert966 ($5.06 in chips)=20
+Seat 6: the_wickstar ($1.91 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Td Ks]
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: calls $0.03
+69sirov69: checks=20
+*** FLOP *** [7d Kc 9c]
+the_wickstar: bets $0.10
+69sirov69: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Board [7d Kc 9c]
+Seat 1: 69sirov69 (big blind) folded on the Flop
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) collected ($0.10)
+
+
+*********** # 9 **************
+PokerStars Hand #169205981163:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:55:43 CUST [2017/04/18 5:55:43 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.57 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6.11 in chips)=20
+Seat 5: 4ert966 ($5.08 in chips)=20
+Seat 6: the_wickstar ($1.78 in chips)=20
+4ert966: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac Ks]
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.06 to $0.11
+4ert966: folds=20
+the_wickstar: raises $1.67 to $1.78 and is all-in
+RaptNurs: folds=20
+Uncalled bet ($1.67) returned to the_wickstar
+the_wickstar collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs (button) folded before Flop
+Seat 5: 4ert966 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) collected ($0.24)
+
+
+*********** # 10 **************
+PokerStars Hand #169205972416:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:55:18 CUST [2017/04/18 5:55:18 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($5.57 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6.13 in chips)=20
+Seat 5: 4ert966 ($5.13 in chips)=20
+Seat 6: the_wickstar ($1.71 in chips)=20
+RaptNurs: posts small blind $0.02
+4ert966: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h 9s]
+the_wickstar: raises $0.15 to $0.20
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+Uncalled bet ($0.15) returned to the_wickstar
+the_wickstar collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 5: 4ert966 (big blind) folded before Flop
+Seat 6: the_wickstar collected ($0.12)
+
+
+*********** # 11 **************
+PokerStars Hand #169205966237:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:55:02 CUST [2017/04/18 5:55:02 ET]
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 1: 69sirov69 ($5.50 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6.18 in chips)=20
+Seat 5: 4ert966 ($5.13 in chips)=20
+Seat 6: the_wickstar ($1.71 in chips)=20
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 5s]
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: raises $0.10 to $0.15
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: folds=20
+Uncalled bet ($0.10) returned to 69sirov69
+69sirov69 collected $0.12 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 collected ($0.12)
+Seat 2: rounder_rf (button) folded before Flop (didn't bet)
+Seat 3: Milva83 (small blind) folded before Flop
+Seat 4: RaptNurs (big blind) folded before Flop
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 12 **************
+PokerStars Hand #169205961580:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:54:51 CUST [2017/04/18 5:54:51 ET]
+Table 'Adelaide' 9-max Seat #1 is the button
+Seat 1: Gissbon ($6.65 in chips)=20
+Seat 2: RaPnYtiu23 ($4.66 in chips)=20
+Seat 3: Strelo4ekk ($4.43 in chips)=20
+Seat 4: Yeiko8mm ($1.76 in chips)=20
+Seat 5: Stingg ($5.07 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.50 in chips)=20
+Seat 8: MarkClyde ($5.67 in chips)=20
+Seat 9: Pescador_D ($4.74 in chips)=20
+RaPnYtiu23: posts small blind $0.02
+Strelo4ekk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s Jc]
+Yeiko8mm: calls $0.05
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: folds=20
+Pescador_D: raises $0.05 to $0.10
+Gissbon: calls $0.10
+RaPnYtiu23: calls $0.08
+Strelo4ekk: folds=20
+Yeiko8mm: calls $0.05
+*** FLOP *** [6s Ac Qd]
+RaPnYtiu23: checks=20
+Yeiko8mm: bets $0.05
+Pescador_D: calls $0.05
+Gissbon: calls $0.05
+RaPnYtiu23: folds=20
+*** TURN *** [6s Ac Qd] [5c]
+Yeiko8mm: checks=20
+Pescador_D: bets $0.25
+Gissbon: folds=20
+Yeiko8mm: folds=20
+Uncalled bet ($0.25) returned to Pescador_D
+Pescador_D collected $0.58 from pot
+Pescador_D: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02=20
+Board [6s Ac Qd 5c]
+Seat 1: Gissbon (button) folded on the Turn
+Seat 2: RaPnYtiu23 (small blind) folded on the Flop
+Seat 3: Strelo4ekk (big blind) folded before Flop
+Seat 4: Yeiko8mm folded on the Turn
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde folded before Flop (didn't bet)
+Seat 9: Pescador_D collected ($0.58)
+
+
+*********** # 13 **************
+PokerStars Hand #169205955314:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:54:35 CUST [2017/04/18 5:54:35 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($5.50 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6.18 in chips)=20
+Seat 5: 4ert966 ($5.13 in chips)=20
+Seat 6: the_wickstar ($1.64 in chips)=20
+rounder_rf: posts small blind $0.02
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Kd]
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: raises $0.10 to $0.15
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 (button) folded before Flop (didn't bet)
+Seat 2: rounder_rf (small blind) folded before Flop
+Seat 3: Milva83 (big blind) folded before Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.12)
+
+
+*********** # 14 **************
+PokerStars Hand #169205935815:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:53:47 CUST [2017/04/18 5:53:47 ET]
+Table 'Adelaide' 9-max Seat #9 is the button
+Seat 1: Gissbon ($6.67 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.63 in chips)=20
+Seat 4: Yeiko8mm ($1.32 in chips)=20
+Seat 5: Stingg ($5.07 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.70 in chips)=20
+Seat 8: MarkClyde ($5.67 in chips)=20
+Seat 9: Pescador_D ($4.74 in chips)=20
+Gissbon: posts small blind $0.02
+RaPnYtiu23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 8d]
+Strelo4ekk: raises $0.15 to $0.20
+Yeiko8mm: calls $0.20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: calls $0.20
+MarkClyde: folds=20
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+*** FLOP *** [7c 2d Qc]
+Strelo4ekk: checks=20
+Yeiko8mm: bets $0.32
+the_wickstar: folds=20
+Strelo4ekk: folds=20
+Uncalled bet ($0.32) returned to Yeiko8mm
+Yeiko8mm collected $0.64 from pot
+Yeiko8mm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03=20
+Board [7c 2d Qc]
+Seat 1: Gissbon (small blind) folded before Flop
+Seat 2: RaPnYtiu23 (big blind) folded before Flop
+Seat 3: Strelo4ekk folded on the Flop
+Seat 4: Yeiko8mm collected ($0.64)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded on the Flop
+Seat 8: MarkClyde folded before Flop (didn't bet)
+Seat 9: Pescador_D (button) folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #169205931532:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:53:36 CUST [2017/04/18 5:53:36 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.52 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5 in chips)=20
+Seat 4: RaptNurs ($6.18 in chips)=20
+Seat 5: 4ert966 ($5.13 in chips)=20
+Seat 6: the_wickstar ($1.26 in chips)=20
+69sirov69: posts small blind $0.02
+rounder_rf: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c 6h]
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: calls $0.05
+69sirov69: folds=20
+rounder_rf: checks=20
+*** FLOP *** [6s 2s 3d]
+rounder_rf: bets $0.10
+the_wickstar: calls $0.10
+*** TURN *** [6s 2s 3d] [7h]
+rounder_rf: bets $0.24
+the_wickstar: raises $0.87 to $1.11 and is all-in
+rounder_rf: folds=20
+Uncalled bet ($0.87) returned to the_wickstar
+the_wickstar collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03=20
+Board [6s 2s 3d 7h]
+Seat 1: 69sirov69 (small blind) folded before Flop
+Seat 2: rounder_rf (big blind) folded on the Turn
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.77)
+
+
+*********** # 16 **************
+PokerStars Hand #169205926354:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:53:23 CUST [2017/04/18 5:53:23 ET]
+Table 'Adelaide' 9-max Seat #8 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.63 in chips)=20
+Seat 4: Yeiko8mm ($1.32 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.70 in chips)=20
+Seat 8: MarkClyde ($5.67 in chips)=20
+Seat 9: Pescador_D ($4.76 in chips)=20
+Pescador_D: posts small blind $0.02
+Gissbon: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 7s]
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: raises $0.10 to $0.15
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: folds=20
+Pescador_D: folds=20
+Gissbon: folds=20
+Uncalled bet ($0.10) returned to Stingg
+Stingg collected $0.12 from pot
+Stingg: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon (big blind) folded before Flop
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg collected ($0.12)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde (button) folded before Flop (didn't bet)
+Seat 9: Pescador_D (small blind) folded before Flop
+
+
+*********** # 17 **************
+PokerStars Hand #169205907368:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:52:36 CUST [2017/04/18 5:52:36 ET]
+Table 'Adelaide' 9-max Seat #7 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.63 in chips)=20
+Seat 4: Yeiko8mm ($1.32 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: MarkClyde ($5.69 in chips)=20
+Seat 9: Pescador_D ($5.31 in chips)=20
+MarkClyde: posts small blind $0.02
+Pescador_D: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Qc]
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: calls $0.05
+MarkClyde: folds=20
+Pescador_D: raises $0.10 to $0.15
+the_wickstar: calls $0.10
+*** FLOP *** [Kh 5h 8s]
+Pescador_D: bets $0.20
+the_wickstar: raises $0.20 to $0.40
+Pescador_D: calls $0.20
+*** TURN *** [Kh 5h 8s] [Ts]
+Pescador_D: checks=20
+the_wickstar: bets $1.07
+Pescador_D: folds=20
+Uncalled bet ($1.07) returned to the_wickstar
+the_wickstar collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05=20
+Board [Kh 5h 8s Ts]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) collected ($1.07)
+Seat 8: MarkClyde (small blind) folded before Flop
+Seat 9: Pescador_D (big blind) folded on the Turn
+
+
+*********** # 18 **************
+PokerStars Hand #169205904745:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:52:29 CUST [2017/04/18 5:52:29 ET]
+Table 'Mathesis' 6-max Seat #5 is the button
+Seat 1: 69sirov69 ($5.57 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.32 in chips)=20
+Seat 4: RaptNurs ($6.18 in chips)=20
+Seat 5: 4ert966 ($4.47 in chips)=20
+Seat 6: the_wickstar ($1.28 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc 6h]
+rounder_rf: folds=20
+Milva83: raises $0.10 to $0.15
+RaptNurs: folds=20
+4ert966: calls $0.15
+the_wickstar: folds=20
+69sirov69: folds=20
+*** FLOP *** [Ts Ah 3c]
+Milva83: checks=20
+4ert966: checks=20
+*** TURN *** [Ts Ah 3c] [7d]
+Milva83: bets $0.20
+4ert966: calls $0.20
+*** RIVER *** [Ts Ah 3c 7d] [Qd]
+Milva83: checks=20
+4ert966: bets $0.30
+Milva83: calls $0.30
+*** SHOW DOWN ***
+4ert966: shows [Ac 9c] (a pair of Aces)
+Milva83: mucks hand=20
+4ert966 collected $1.31 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.06=20
+Board [Ts Ah 3c 7d Qd]
+Seat 1: 69sirov69 (big blind) folded before Flop
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 mucked [Kd Qh]
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 (button) showed [Ac 9c] and won ($1.31) with a pair of Aces
+Seat 6: the_wickstar (small blind) folded before Flop
+
+
+*********** # 19 **************
+PokerStars Hand #169205897433:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:52:11 CUST [2017/04/18 5:52:11 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.57 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($6.18 in chips)=20
+Seat 5: 4ert966 ($4.49 in chips)=20
+Seat 6: the_wickstar ($1.33 in chips)=20
+4ert966: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 2h]
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: raises $0.10 to $0.15
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.10) returned to Milva83
+Milva83 collected $0.12 from pot
+Milva83: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 collected ($0.12)
+Seat 4: RaptNurs (button) folded before Flop (didn't bet)
+Seat 5: 4ert966 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) folded before Flop
+
+
+*********** # 20 **************
+PokerStars Hand #169205889265:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:51:50 CUST [2017/04/18 5:51:50 ET]
+Table 'Adelaide' 9-max Seat #6 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.63 in chips)=20
+Seat 4: Yeiko8mm ($1.42 in chips)=20
+Seat 5: Stingg ($5.05 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.20 in chips)=20
+Seat 8: MarkClyde ($5.48 in chips)=20
+Seat 9: Pescador_D ($5.31 in chips)=20
+the_wickstar: posts small blind $0.02
+MarkClyde: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [3h 2c]
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: raises $0.05 to $0.10
+Stingg: calls $0.10
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: calls $0.05
+*** FLOP *** [6c 2h Js]
+MarkClyde: checks=20
+Yeiko8mm: checks=20
+Stingg: checks=20
+*** TURN *** [6c 2h Js] [4s]
+MarkClyde: bets $0.31
+Yeiko8mm: folds=20
+Stingg: folds=20
+Uncalled bet ($0.31) returned to MarkClyde
+MarkClyde collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01=20
+Board [6c 2h Js 4s]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded on the Turn
+Seat 5: Stingg folded on the Turn
+Seat 6: Cocucbka*Pro (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: MarkClyde (big blind) collected ($0.31)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #169205873888:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:51:13 CUST [2017/04/18 5:51:13 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($6.07 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.67 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.33 in chips)=20
+RaptNurs: posts small blind $0.02
+4ert966: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s Qh]
+the_wickstar: folds=20
+69sirov69: raises $0.10 to $0.15
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.35 to $0.50
+4ert966: folds=20
+69sirov69: calls $0.35
+*** FLOP *** [6h 3c 4h]
+RaptNurs: checks=20
+69sirov69: checks=20
+*** TURN *** [6h 3c 4h] [8h]
+RaptNurs: bets $0.65
+69sirov69: folds=20
+Uncalled bet ($0.65) returned to RaptNurs
+RaptNurs collected $1.01 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04=20
+Board [6h 3c 4h 8h]
+Seat 1: 69sirov69 folded on the Turn
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) collected ($1.01)
+Seat 5: 4ert966 (big blind) folded before Flop
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #169205864035:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:50:48 CUST [2017/04/18 5:50:48 ET]
+Table 'Adelaide' 9-max Seat #5 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.73 in chips)=20
+Seat 4: Yeiko8mm ($1.12 in chips)=20
+Seat 5: Stingg ($5.05 in chips)=20
+Seat 6: Cocucbka*Pro ($5.02 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.58 in chips)=20
+Seat 9: Pescador_D ($5.31 in chips)=20
+Cocucbka*Pro: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h Kd]
+MarkClyde: raises $0.05 to $0.10
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: calls $0.10
+Yeiko8mm: calls $0.10
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: calls $0.05
+*** FLOP *** [Ac Td Jc]
+the_wickstar: checks=20
+MarkClyde: checks=20
+Strelo4ekk: checks=20
+Yeiko8mm: bets $0.40
+the_wickstar: folds=20
+MarkClyde: folds=20
+Strelo4ekk: folds=20
+Uncalled bet ($0.40) returned to Yeiko8mm
+Yeiko8mm collected $0.40 from pot
+Yeiko8mm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02=20
+Board [Ac Td Jc]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded on the Flop
+Seat 4: Yeiko8mm collected ($0.40)
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) folded on the Flop
+Seat 8: MarkClyde folded on the Flop
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 23 **************
+PokerStars Hand #169205853663:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:50:23 CUST [2017/04/18 5:50:23 ET]
+Table 'Adelaide' 9-max Seat #4 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.73 in chips)=20
+Seat 4: Yeiko8mm ($1.22 in chips)=20
+Seat 5: Stingg ($5.07 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.42 in chips)=20
+Seat 9: Pescador_D ($5.31 in chips)=20
+Stingg: posts small blind $0.02
+Cocucbka*Pro: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s Qc]
+the_wickstar: folds=20
+MarkClyde: raises $0.05 to $0.10
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: calls $0.10
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+*** FLOP *** [Ks 8s Kd]
+MarkClyde: bets $0.26
+Yeiko8mm: folds=20
+Uncalled bet ($0.26) returned to MarkClyde
+MarkClyde collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [Ks 8s Kd]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (button) folded on the Flop
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: Cocucbka*Pro (big blind) folded before Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde collected ($0.26)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #169205853064:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:50:21 CUST [2017/04/18 5:50:21 ET]
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 1: 69sirov69 ($6.07 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.20 in chips)=20
+Seat 4: RaptNurs ($5.72 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.33 in chips)=20
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 4h]
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: raises $0.07 to $0.12
+RaptNurs: folds=20
+Uncalled bet ($0.07) returned to Milva83
+Milva83 collected $0.10 from pot
+Milva83: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf (button) folded before Flop (didn't bet)
+Seat 3: Milva83 (small blind) collected ($0.10)
+Seat 4: RaptNurs (big blind) folded before Flop
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #169205844036:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:49:59 CUST [2017/04/18 5:49:59 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($6.07 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.72 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.26 in chips)=20
+rounder_rf: posts small blind $0.02
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 9h]
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: raises $0.10 to $0.15
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 (button) folded before Flop (didn't bet)
+Seat 2: rounder_rf (small blind) folded before Flop
+Seat 3: Milva83 (big blind) folded before Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.12)
+
+
+*********** # 26 **************
+PokerStars Hand #169205841781:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:49:53 CUST [2017/04/18 5:49:53 ET]
+Table 'Adelaide' 9-max Seat #3 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.71 in chips)=20
+Seat 3: Strelo4ekk ($4.73 in chips)=20
+Seat 4: Yeiko8mm ($1.24 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.35 in chips)=20
+Seat 9: Pescador_D ($5.31 in chips)=20
+Yeiko8mm: posts small blind $0.02
+Stingg: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc 4h]
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: raises $0.05 to $0.10
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Uncalled bet ($0.05) returned to MarkClyde
+MarkClyde collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk (button) folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (small blind) folded before Flop
+Seat 5: Stingg (big blind) folded before Flop
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde collected ($0.12)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #169205832099:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:49:29 CUST [2017/04/18 5:49:29 ET]
+Table 'Adelaide' 9-max Seat #2 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.54 in chips)=20
+Seat 3: Strelo4ekk ($4.75 in chips)=20
+Seat 4: Yeiko8mm ($1.29 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.35 in chips)=20
+Seat 9: Pescador_D ($5.41 in chips)=20
+Strelo4ekk: posts small blind $0.02
+Yeiko8mm: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 5s]
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: folds=20
+Pescador_D: raises $0.05 to $0.10
+Gissbon: folds=20
+RaPnYtiu23: raises $0.27 to $0.37
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Pescador_D: folds=20
+Uncalled bet ($0.27) returned to RaPnYtiu23
+RaPnYtiu23 collected $0.27 from pot
+RaPnYtiu23: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.27 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 (button) collected ($0.27)
+Seat 3: Strelo4ekk (small blind) folded before Flop
+Seat 4: Yeiko8mm (big blind) folded before Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde folded before Flop (didn't bet)
+Seat 9: Pescador_D folded before Flop
+
+
+*********** # 28 **************
+PokerStars Hand #169205824787:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:49:10 CUST [2017/04/18 5:49:10 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($6.12 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.72 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.17 in chips)=20
+69sirov69: posts small blind $0.02
+rounder_rf: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh 3c]
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: calls $0.05
+69sirov69: calls $0.03
+rounder_rf: checks=20
+*** FLOP *** [Td 2h 8c]
+69sirov69: checks=20
+rounder_rf: checks=20
+the_wickstar: bets $0.14
+69sirov69: folds=20
+rounder_rf: folds=20
+Uncalled bet ($0.14) returned to the_wickstar
+the_wickstar collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01=20
+Board [Td 2h 8c]
+Seat 1: 69sirov69 (small blind) folded on the Flop
+Seat 2: rounder_rf (big blind) folded on the Flop
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.14)
+
+
+*********** # 29 **************
+PokerStars Hand #169205818779:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:48:55 CUST [2017/04/18 5:48:55 ET]
+Table 'Adelaide' 9-max Seat #1 is the button
+Seat 1: Gissbon ($6.72 in chips)=20
+Seat 2: RaPnYtiu23 ($4.56 in chips)=20
+Seat 3: Strelo4ekk ($4.80 in chips)=20
+Seat 4: Yeiko8mm ($1.39 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.19 in chips)=20
+Seat 9: Pescador_D ($5.41 in chips)=20
+RaPnYtiu23: posts small blind $0.02
+Strelo4ekk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h Qs]
+Yeiko8mm: raises $0.05 to $0.10
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: calls $0.10
+Pescador_D: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+*** FLOP *** [9h 7d Jd]
+Yeiko8mm: checks=20
+MarkClyde: bets $0.26
+Yeiko8mm: folds=20
+Uncalled bet ($0.26) returned to MarkClyde
+MarkClyde collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [9h 7d Jd]
+Seat 1: Gissbon (button) folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 (small blind) folded before Flop
+Seat 3: Strelo4ekk (big blind) folded before Flop
+Seat 4: Yeiko8mm folded on the Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde collected ($0.26)
+Seat 9: Pescador_D folded before Flop (didn't bet)
+
+
+*********** # 30 **************
+PokerStars Hand #169205816824:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:48:51 CUST [2017/04/18 5:48:51 ET]
+Table 'Mathesis' 6-max Seat #5 is the button
+Seat 1: 69sirov69 ($6.17 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.65 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.19 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Jc]
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.09 to $0.14
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+Uncalled bet ($0.09) returned to RaptNurs
+RaptNurs collected $0.12 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 (big blind) folded before Flop
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs collected ($0.12)
+Seat 5: 4ert966 (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) folded before Flop
+
+
+*********** # 31 **************
+PokerStars Hand #169205808760:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:48:31 CUST [2017/04/18 5:48:31 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($6.17 in chips)=20
+Seat 2: rounder_rf ($5.10 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.43 in chips)=20
+Seat 5: 4ert966 ($4.56 in chips)=20
+Seat 6: the_wickstar ($1.24 in chips)=20
+4ert966: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc 7c]
+69sirov69: folds=20
+rounder_rf: raises $0.10 to $0.15
+Milva83: folds=20
+RaptNurs: raises $0.30 to $0.45
+4ert966: folds=20
+the_wickstar: folds=20
+rounder_rf: folds=20
+Uncalled bet ($0.30) returned to RaptNurs
+RaptNurs collected $0.37 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.37 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs (button) collected ($0.37)
+Seat 5: 4ert966 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) folded before Flop
+
+
+*********** # 32 **************
+PokerStars Hand #169205800749:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:48:11 CUST [2017/04/18 5:48:11 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($6.17 in chips)=20
+Seat 2: rounder_rf ($5.10 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.45 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.24 in chips)=20
+RaptNurs: posts small blind $0.02
+4ert966: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 2d]
+the_wickstar: folds=20
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: folds=20
+RaptNurs: folds=20
+Uncalled bet ($0.03) returned to 4ert966
+4ert966 collected $0.04 from pot
+4ert966: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf folded before Flop (didn't bet)
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 5: 4ert966 (big blind) collected ($0.04)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #169205800231:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:48:10 CUST [2017/04/18 5:48:10 ET]
+Table 'Adelaide' 9-max Seat #9 is the button
+Seat 1: Gissbon ($6.74 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($4.85 in chips)=20
+Seat 4: Yeiko8mm ($1.39 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 8: MarkClyde ($5.26 in chips)=20
+Seat 9: Pescador_D ($5.22 in chips)=20
+Gissbon: posts small blind $0.02
+RaPnYtiu23: posts big blind $0.05
+MarkClyde: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 8s]
+Strelo4ekk: calls $0.05
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: checks=20
+Pescador_D: raises $0.20 to $0.25
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm is disconnected=20
+MarkClyde: folds=20
+Uncalled bet ($0.20) returned to Pescador_D
+Pescador_D collected $0.24 from pot
+Pescador_D: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.24 | Rake $0=20
+Seat 1: Gissbon (small blind) folded before Flop
+Seat 2: RaPnYtiu23 (big blind) folded before Flop
+Seat 3: Strelo4ekk folded before Flop
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde folded before Flop
+Seat 9: Pescador_D (button) collected ($0.24)
+
+
+*********** # 34 **************
+PokerStars Hand #169205791415:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:47:48 CUST [2017/04/18 5:47:48 ET]
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 1: 69sirov69 ($6.17 in chips)=20
+Seat 2: rounder_rf ($5.10 in chips)=20
+Seat 3: Milva83 ($5.20 in chips)=20
+Seat 4: RaptNurs ($5.50 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.24 in chips)=20
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 3c]
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+rounder_rf: folds=20
+Milva83: raises $0.07 to $0.12
+RaptNurs: folds=20
+Uncalled bet ($0.07) returned to Milva83
+Milva83 collected $0.10 from pot
+Milva83: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: rounder_rf (button) folded before Flop (didn't bet)
+Seat 3: Milva83 (small blind) collected ($0.10)
+Seat 4: RaptNurs (big blind) folded before Flop
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #169205790166:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:47:45 CUST [2017/04/18 5:47:45 ET]
+Table 'Adelaide' 9-max Seat #7 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5 in chips)=20
+Seat 4: Yeiko8mm ($1.39 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.30 in chips)=20
+Seat 9: Pescador_D ($5.02 in chips)=20
+MarkClyde will be allowed to play after the button
+Pescador_D: posts small blind $0.02
+Gissbon: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s 6s]
+RaPnYtiu23: folds=20
+Strelo4ekk: raises $0.10 to $0.15
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+Pescador_D: raises $0.15 to $0.30
+Gissbon: folds=20
+Strelo4ekk: folds=20
+Uncalled bet ($0.15) returned to Pescador_D
+Pescador_D collected $0.35 from pot
+Pescador_D: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.35 | Rake $0=20
+Seat 1: Gissbon (big blind) folded before Flop
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: Pescador_D (small blind) collected ($0.35)
+
+
+*********** # 36 **************
+PokerStars Hand #169205783168:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:47:27 CUST [2017/04/18 5:47:27 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($6.17 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.50 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.29 in chips)=20
+rounder_rf: posts small blind $0.02
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ks 8c]
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: calls $0.05
+69sirov69: folds=20
+rounder_rf: raises $0.15 to $0.20
+Milva83: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.15) returned to rounder_rf
+rounder_rf collected $0.15 from pot
+rounder_rf: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.15 | Rake $0=20
+Seat 1: 69sirov69 (button) folded before Flop (didn't bet)
+Seat 2: rounder_rf (small blind) collected ($0.15)
+Seat 3: Milva83 (big blind) folded before Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop
+
+
+*********** # 37 **************
+PokerStars Hand #169205779467:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:47:18 CUST [2017/04/18 5:47:18 ET]
+Table 'Adelaide' 9-max Seat #6 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5 in chips)=20
+Seat 4: Yeiko8mm ($1.39 in chips)=20
+Seat 5: Stingg ($5.12 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.32 in chips)=20
+Seat 9: Pescador_D ($5 in chips)=20
+the_wickstar: posts small blind $0.02
+Pescador_D: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 4h]
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.03) returned to Pescador_D
+Pescador_D collected $0.04 from pot
+Pescador_D: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 9: Pescador_D (big blind) collected ($0.04)
+
+
+*********** # 38 **************
+PokerStars Hand #169205766894:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:46:47 CUST [2017/04/18 5:46:47 ET]
+Table 'Adelaide' 9-max Seat #5 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5 in chips)=20
+Seat 4: Yeiko8mm ($1.44 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.09 in chips)=20
+Seat 7: the_wickstar ($2.37 in chips)=20
+Cocucbka*Pro: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+Pescador_D: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 4c]
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: calls $0.05
+Stingg: raises $0.17 to $0.22
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+Yeiko8mm: folds=20
+Uncalled bet ($0.17) returned to Stingg
+Stingg collected $0.17 from pot
+Stingg: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop
+Seat 5: Stingg (button) collected ($0.17)
+Seat 6: Cocucbka*Pro (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) folded before Flop
+
+
+*********** # 39 **************
+PokerStars Hand #169205765290:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:46:43 CUST [2017/04/18 5:46:43 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.67 in chips)=20
+Seat 2: rounder_rf ($5 in chips)=20
+Seat 3: Milva83 ($5.25 in chips)=20
+Seat 4: RaptNurs ($5.50 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.78 in chips)=20
+69sirov69: posts small blind $0.02
+rounder_rf: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c 6c]
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: raises $0.10 to $0.15
+69sirov69: calls $0.13
+rounder_rf: folds=20
+*** FLOP *** [7s Jc 3s]
+69sirov69: checks=20
+the_wickstar: bets $0.34
+69sirov69: calls $0.34
+*** TURN *** [7s Jc 3s] [2c]
+69sirov69: checks=20
+the_wickstar: checks=20
+*** RIVER *** [7s Jc 3s 2c] [Th]
+69sirov69: bets $0.50
+the_wickstar: folds=20
+Uncalled bet ($0.50) returned to 69sirov69
+69sirov69 collected $0.99 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04=20
+Board [7s Jc 3s 2c Th]
+Seat 1: 69sirov69 (small blind) collected ($0.99)
+Seat 2: rounder_rf (big blind) folded before Flop
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) folded on the River
+
+
+*********** # 40 **************
+PokerStars Hand #169205762489:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:46:36 CUST [2017/04/18 5:46:36 ET]
+Table 'Adelaide' 9-max Seat #4 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5 in chips)=20
+Seat 4: Yeiko8mm ($1.44 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.37 in chips)=20
+Stingg: posts small blind $0.02
+Cocucbka*Pro: posts big blind $0.05
+Pescador_D: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s 3c]
+the_wickstar: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Uncalled bet ($0.03) returned to Cocucbka*Pro
+Cocucbka*Pro collected $0.04 from pot
+Cocucbka*Pro: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: Cocucbka*Pro (big blind) collected ($0.04)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 41 **************
+PokerStars Hand #169205752080:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:46:10 CUST [2017/04/18 5:46:10 ET]
+Table 'Mathesis' 6-max Seat #5 is the button
+Seat 1: 69sirov69 ($5.72 in chips)=20
+Seat 3: Milva83 ($5.05 in chips)=20
+Seat 4: RaptNurs ($5.65 in chips)=20
+Seat 5: 4ert966 ($4.54 in chips)=20
+Seat 6: the_wickstar ($1.80 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+rounder_rf: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h 4d]
+Milva83: raises $0.10 to $0.15
+RaptNurs: calls $0.15
+4ert966: folds=20
+the_wickstar: folds=20
+69sirov69: folds=20
+*** FLOP *** [3c Qd Ac]
+Milva83: bets $0.23
+RaptNurs: folds=20
+Uncalled bet ($0.23) returned to Milva83
+Milva83 collected $0.35 from pot
+Milva83: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02=20
+Board [3c Qd Ac]
+Seat 1: 69sirov69 (big blind) folded before Flop
+Seat 3: Milva83 collected ($0.35)
+Seat 4: RaptNurs folded on the Flop
+Seat 5: 4ert966 (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) folded before Flop
+
+
+*********** # 42 **************
+PokerStars Hand #169205747089:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:45:58 CUST [2017/04/18 5:45:58 ET]
+Table 'Adelaide' 9-max Seat #3 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5 in chips)=20
+Seat 4: Yeiko8mm ($1.22 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.56 in chips)=20
+Yeiko8mm: posts small blind $0.02
+Stingg: posts big blind $0.05
+Pescador_D: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc Kd]
+Cocucbka*Pro: folds=20
+the_wickstar: calls $0.05
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: calls $0.03
+Stingg: checks=20
+*** FLOP *** [5c Qd 8h]
+Yeiko8mm: bets $0.14
+Stingg: folds=20
+the_wickstar: calls $0.14
+*** TURN *** [5c Qd 8h] [6c]
+Yeiko8mm: bets $0.21
+the_wickstar: folds=20
+Uncalled bet ($0.21) returned to Yeiko8mm
+Yeiko8mm collected $0.41 from pot
+Yeiko8mm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02=20
+Board [5c Qd 8h 6c]
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk (button) folded before Flop (didn't bet)
+Seat 4: Yeiko8mm (small blind) collected ($0.41)
+Seat 5: Stingg (big blind) folded on the Flop
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded on the Turn
+
+
+*********** # 43 **************
+PokerStars Hand #169205743873:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:45:50 CUST [2017/04/18 5:45:50 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.65 in chips)=20
+Seat 3: Milva83 ($5.05 in chips)=20
+Seat 4: RaptNurs ($5.65 in chips)=20
+Seat 5: 4ert966 ($4.56 in chips)=20
+Seat 6: the_wickstar ($1.85 in chips)=20
+4ert966: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+rounder_rf: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 5d]
+69sirov69: raises $0.10 to $0.15
+Milva83: folds=20
+RaptNurs: folds=20
+4ert966: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.10) returned to 69sirov69
+69sirov69 collected $0.12 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: 69sirov69 collected ($0.12)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs (button) folded before Flop (didn't bet)
+Seat 5: 4ert966 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) folded before Flop
+
+
+*********** # 44 **************
+PokerStars Hand #169205739616:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:45:39 CUST [2017/04/18 5:45:39 ET]
+Table 'Adelaide' 9-max Seat #2 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.61 in chips)=20
+Seat 3: Strelo4ekk ($5.02 in chips)=20
+Seat 4: Yeiko8mm ($1.20 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.56 in chips)=20
+Strelo4ekk: posts small blind $0.02
+Yeiko8mm: posts big blind $0.05
+Pescador_D: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s 4h]
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Uncalled bet ($0.03) returned to Yeiko8mm
+Yeiko8mm collected $0.04 from pot
+Yeiko8mm: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 (button) folded before Flop (didn't bet)
+Seat 3: Strelo4ekk (small blind) folded before Flop
+Seat 4: Yeiko8mm (big blind) collected ($0.04)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 45 **************
+PokerStars Hand #169205727412:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:45:09 CUST [2017/04/18 5:45:09 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($5.65 in chips)=20
+Seat 3: Milva83 ($5.05 in chips)=20
+Seat 4: RaptNurs ($5.80 in chips)=20
+Seat 5: 4ert966 ($4.41 in chips)=20
+Seat 6: the_wickstar ($1.85 in chips)=20
+RaptNurs: posts small blind $0.02
+4ert966: posts big blind $0.05
+rounder_rf: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 5d]
+the_wickstar: folds=20
+69sirov69: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.10 to $0.15
+4ert966: raises $0.30 to $0.45
+RaptNurs: folds=20
+Uncalled bet ($0.30) returned to 4ert966
+4ert966 collected $0.30 from pot
+4ert966: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.30 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 5: 4ert966 (big blind) collected ($0.30)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 46 **************
+PokerStars Hand #169205708919:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:44:24 CUST [2017/04/18 5:44:24 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($5.54 in chips)=20
+Seat 3: Milva83 ($5.07 in chips)=20
+Seat 4: RaptNurs ($5.85 in chips)=20
+Seat 5: 4ert966 ($4.41 in chips)=20
+Seat 6: the_wickstar ($1.90 in chips)=20
+rounder_rf will be allowed to play after the button
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ah 4s]
+4ert966: folds=20
+the_wickstar: calls $0.05
+69sirov69: calls $0.05
+Milva83: folds=20
+RaptNurs: checks=20
+*** FLOP *** [Kc Kd Qh]
+RaptNurs: checks=20
+the_wickstar: checks=20
+69sirov69: bets $0.10
+RaptNurs: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.10) returned to 69sirov69
+69sirov69 collected $0.16 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [Kc Kd Qh]
+Seat 1: 69sirov69 (button) collected ($0.16)
+Seat 3: Milva83 (small blind) folded before Flop
+Seat 4: RaptNurs (big blind) folded on the Flop
+Seat 5: 4ert966 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded on the Flop
+
+
+*********** # 47 **************
+PokerStars Hand #169205707661:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:44:21 CUST [2017/04/18 5:44:21 ET]
+Table 'Adelaide' 9-max Seat #1 is the button
+Seat 1: Gissbon ($6.79 in chips)=20
+Seat 2: RaPnYtiu23 ($4.95 in chips)=20
+Seat 3: Strelo4ekk ($5.07 in chips)=20
+Seat 4: Yeiko8mm ($1.20 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.20 in chips)=20
+Seat 8: MarkClyde ($5.26 in chips)=20
+RaPnYtiu23: posts small blind $0.02
+Strelo4ekk: posts big blind $0.05
+Pescador_D: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4h 4d]
+Yeiko8mm has timed out
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: raises $0.05 to $0.10
+MarkClyde: folds=20
+Gissbon: folds=20
+RaPnYtiu23: calls $0.08
+Strelo4ekk: folds=20
+*** FLOP *** [6h 3c 8h]
+RaPnYtiu23: checks=20
+the_wickstar: bets $0.24
+RaPnYtiu23: calls $0.24
+*** TURN *** [6h 3c 8h] [9d]
+RaPnYtiu23: checks=20
+the_wickstar: checks=20
+*** RIVER *** [6h 3c 8h 9d] [Ac]
+RaPnYtiu23: checks=20
+the_wickstar: bets $0.70
+RaPnYtiu23: folds=20
+Uncalled bet ($0.70) returned to the_wickstar
+the_wickstar collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03=20
+Board [6h 3c 8h 9d Ac]
+Seat 1: Gissbon (button) folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 (small blind) folded on the River
+Seat 3: Strelo4ekk (big blind) folded before Flop
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar collected ($0.70)
+Seat 8: MarkClyde folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #169205698804:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:43:59 CUST [2017/04/18 5:43:59 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.37 in chips)=20
+Seat 3: Milva83 ($5.12 in chips)=20
+Seat 4: RaptNurs ($5.85 in chips)=20
+Seat 5: 4ert966 ($4.48 in chips)=20
+Seat 6: the_wickstar ($1.95 in chips)=20
+69sirov69: posts small blind $0.02
+Sineie: is sitting out=20
+Milva83: posts big blind $0.05
+Sineie leaves the table
+4ert966: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d 8d]
+RaptNurs: folds=20
+4ert966: checks=20
+the_wickstar: calls $0.05
+69sirov69: raises $0.22 to $0.27
+rounder_rf joins the table at seat #2=20
+Milva83: folds=20
+4ert966: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.22) returned to 69sirov69
+69sirov69 collected $0.22 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.22 | Rake $0=20
+Seat 1: 69sirov69 (small blind) collected ($0.22)
+Seat 3: Milva83 (big blind) folded before Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 5: 4ert966 folded before Flop
+Seat 6: the_wickstar (button) folded before Flop
+
+
+*********** # 49 **************
+PokerStars Hand #169205697558:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:43:56 CUST [2017/04/18 5:43:56 ET]
+Table 'Adelaide' 9-max Seat #8 is the button
+Seat 1: Gissbon ($6.81 in chips)=20
+Seat 2: RaPnYtiu23 ($5 in chips)=20
+Seat 3: Strelo4ekk ($5.07 in chips)=20
+Seat 4: Yeiko8mm ($1.13 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.07 in chips)=20
+Seat 7: the_wickstar ($2.20 in chips)=20
+Seat 8: MarkClyde ($5.26 in chips)=20
+Pescador_D will be allowed to play after the button
+Gissbon: posts small blind $0.02
+RaPnYtiu23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 5c]
+Strelo4ekk: folds=20
+Yeiko8mm: raises $0.05 to $0.10
+Stingg: folds=20
+Cocucbka*Pro: folds=20
+the_wickstar: folds=20
+MarkClyde: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Uncalled bet ($0.05) returned to Yeiko8mm
+Yeiko8mm collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon (small blind) folded before Flop
+Seat 2: RaPnYtiu23 (big blind) folded before Flop
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm collected ($0.12)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: MarkClyde (button) folded before Flop (didn't bet)
+
+
+*********** # 50 **************
+PokerStars Hand #169205689085:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:43:35 CUST [2017/04/18 5:43:35 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.48 in chips)=20
+Seat 2: Sineie ($5 in chips)=20
+Seat 3: Milva83 ($5.12 in chips)=20
+Seat 4: RaptNurs ($5.73 in chips)=20
+Seat 6: the_wickstar ($1.97 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [8d 4h]
+Sineie: folds=20
+Milva83: folds=20
+RaptNurs: raises $0.06 to $0.11
+the_wickstar: folds=20
+69sirov69: calls $0.06
+*** FLOP *** [7d Td Jh]
+69sirov69: checks=20
+RaptNurs: bets $0.18
+69sirov69: folds=20
+Uncalled bet ($0.18) returned to RaptNurs
+RaptNurs collected $0.23 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01=20
+Board [7d Td Jh]
+Seat 1: 69sirov69 (big blind) folded on the Flop
+Seat 2: Sineie folded before Flop (didn't bet)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs (button) collected ($0.23)
+Seat 6: the_wickstar (small blind) folded before Flop
+
+
+*********** # 51 **************
+PokerStars Hand #169205678929:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:43:09 CUST [2017/04/18 5:43:09 ET]
+Table 'Adelaide' 9-max Seat #7 is the button
+Seat 1: Gissbon ($6.86 in chips)=20
+Seat 2: RaPnYtiu23 ($5 in chips)=20
+Seat 3: Strelo4ekk ($5.07 in chips)=20
+Seat 4: Yeiko8mm ($1.13 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2.20 in chips)=20
+Seat 8: MarkClyde ($5.28 in chips)=20
+MarkClyde: posts small blind $0.02
+RichardxSiph: is sitting out=20
+Gissbon: posts big blind $0.05
+RichardxSiph leaves the table
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c 5c]
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Pescador_D joins the table at seat #9=20
+Stingg: folds=20
+Cocucbka*Pro: raises $0.07 to $0.12
+the_wickstar: folds=20
+MarkClyde: folds=20
+Gissbon: folds=20
+Uncalled bet ($0.07) returned to Cocucbka*Pro
+Cocucbka*Pro collected $0.12 from pot
+Cocucbka*Pro: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: Gissbon (big blind) folded before Flop
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro collected ($0.12)
+Seat 7: the_wickstar (button) folded before Flop (didn't bet)
+Seat 8: MarkClyde (small blind) folded before Flop
+
+
+*********** # 52 **************
+PokerStars Hand #169205670656:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:42:49 CUST [2017/04/18 5:42:49 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($5.48 in chips)=20
+Seat 2: Sineie ($5 in chips)=20
+Seat 3: Milva83 ($5.20 in chips)=20
+Seat 4: RaptNurs ($5.75 in chips)=20
+Seat 6: the_wickstar ($2.04 in chips)=20
+RaptNurs: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc Qd]
+69sirov69: folds=20
+Sineie: folds=20
+Milva83: raises $0.07 to $0.12
+RaptNurs: folds=20
+the_wickstar: calls $0.07
+*** FLOP *** [Ts Kh 9d]
+the_wickstar: bets $0.25
+Milva83: raises $0.55 to $0.80
+the_wickstar: raises $1.12 to $1.92 and is all-in
+Milva83: calls $1.12
+*** TURN *** [Ts Kh 9d] [8c]
+*** RIVER *** [Ts Kh 9d 8c] [9h]
+*** SHOW DOWN ***
+the_wickstar: shows [Kc Qd] (two pair, Kings and Nines)
+Milva83: shows [Ks Qc] (two pair, Kings and Nines)
+the_wickstar collected $1.97 from pot
+Milva83 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.17=20
+Board [Ts Kh 9d 8c 9h]
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: Sineie folded before Flop (didn't bet)
+Seat 3: Milva83 (button) showed [Ks Qc] and won ($1.96) with two pair, King=
+s and Nines
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) showed [Kc Qd] and won ($1.97) with two pa=
+ir, Kings and Nines
+
+
+*********** # 53 **************
+PokerStars Hand #169205663265:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:42:30 CUST [2017/04/18 5:42:30 ET]
+Table 'Adelaide' 9-max Seat #6 is the button
+Seat 1: Gissbon ($6.86 in chips)=20
+Seat 2: RaPnYtiu23 ($5 in chips)=20
+Seat 3: Strelo4ekk ($5.07 in chips)=20
+Seat 4: Yeiko8mm ($1.23 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5.05 in chips)=20
+Seat 7: the_wickstar ($1.95 in chips)=20
+Seat 8: MarkClyde ($5.33 in chips)=20
+Seat 9: RichardxSiph ($5.13 in chips)=20
+the_wickstar: posts small blind $0.02
+MarkClyde: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc Ts]
+RichardxSiph: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: raises $0.05 to $0.10
+Stingg: folds=20
+Cocucbka*Pro: calls $0.10
+the_wickstar: raises $0.60 to $0.70
+MarkClyde: folds=20
+Yeiko8mm: folds=20
+Cocucbka*Pro: folds=20
+Uncalled bet ($0.60) returned to the_wickstar
+the_wickstar collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro (button) folded before Flop
+Seat 7: the_wickstar (small blind) collected ($0.35)
+Seat 8: MarkClyde (big blind) folded before Flop
+Seat 9: RichardxSiph folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #169205662985:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:42:30 CUST [2017/04/18 5:42:30 ET]
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 1: 69sirov69 ($5.48 in chips)=20
+Seat 2: Sineie ($5 in chips)=20
+Seat 3: Milva83 ($5.05 in chips)=20
+Seat 4: RaptNurs ($5.80 in chips)=20
+Seat 6: the_wickstar ($2.04 in chips)=20
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 5c]
+the_wickstar: folds=20
+69sirov69: folds=20
+Sineie: raises $0.05 to $0.10
+Milva83: raises $0.30 to $0.40
+RaptNurs: folds=20
+Sineie: folds=20
+Uncalled bet ($0.30) returned to Milva83
+Milva83 collected $0.25 from pot
+Milva83: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.25 | Rake $0=20
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: Sineie (button) folded before Flop
+Seat 3: Milva83 (small blind) collected ($0.25)
+Seat 4: RaptNurs (big blind) folded before Flop
+Seat 6: the_wickstar folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #169205652411:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:42:03 CUST [2017/04/18 5:42:03 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($5.48 in chips)=20
+Seat 2: Sineie ($5 in chips)=20
+Seat 3: Milva83 ($5.10 in chips)=20
+Seat 4: RaptNurs ($5.80 in chips)=20
+Seat 6: the_wickstar ($1.97 in chips)=20
+Sineie: posts small blind $0.02
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qc 4h]
+RaptNurs: folds=20
+the_wickstar: calls $0.05
+69sirov69: folds=20
+Sineie: folds=20
+Milva83: checks=20
+*** FLOP *** [9c 4d 8c]
+Milva83: checks=20
+the_wickstar: bets $0.06
+Milva83: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Board [9c 4d 8c]
+Seat 1: 69sirov69 (button) folded before Flop (didn't bet)
+Seat 2: Sineie (small blind) folded before Flop
+Seat 3: Milva83 (big blind) folded on the Flop
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.12)
+
+
+*********** # 56 **************
+PokerStars Hand #169205650646:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:41:59 CUST [2017/04/18 5:41:59 ET]
+Table 'Adelaide' 9-max Seat #5 is the button
+Seat 1: Gissbon ($6.86 in chips)=20
+Seat 2: RaPnYtiu23 ($5 in chips)=20
+Seat 3: Strelo4ekk ($5.07 in chips)=20
+Seat 4: Yeiko8mm ($1.23 in chips)=20
+Seat 5: Stingg ($5 in chips)=20
+Seat 6: Cocucbka*Pro ($5 in chips)=20
+Seat 7: the_wickstar ($2 in chips)=20
+Seat 8: MarkClyde ($5.33 in chips)=20
+Seat 9: RichardxSiph ($5.13 in chips)=20
+Cocucbka*Pro: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [4h 2s]
+MarkClyde: folds=20
+RichardxSiph: folds=20
+Gissbon: folds=20
+RaPnYtiu23: folds=20
+Strelo4ekk: folds=20
+Yeiko8mm: folds=20
+Stingg: folds=20
+Cocucbka*Pro: raises $0.07 to $0.12
+the_wickstar: folds=20
+Uncalled bet ($0.07) returned to Cocucbka*Pro
+Cocucbka*Pro collected $0.10 from pot
+Cocucbka*Pro: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.10 | Rake $0=20
+Seat 1: Gissbon folded before Flop (didn't bet)
+Seat 2: RaPnYtiu23 folded before Flop (didn't bet)
+Seat 3: Strelo4ekk folded before Flop (didn't bet)
+Seat 4: Yeiko8mm folded before Flop (didn't bet)
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: Cocucbka*Pro (small blind) collected ($0.10)
+Seat 7: the_wickstar (big blind) folded before Flop
+Seat 8: MarkClyde folded before Flop (didn't bet)
+Seat 9: RichardxSiph folded before Flop (didn't bet)
+
+
+*********** # 57 **************
+PokerStars Hand #169205635567:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:41:21 CUST [2017/04/18 5:41:21 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.58 in chips)=20
+Seat 2: Sineie ($5 in chips)=20
+Seat 3: Milva83 ($5.10 in chips)=20
+Seat 4: RaptNurs ($5.80 in chips)=20
+Seat 6: the_wickstar ($1.83 in chips)=20
+69sirov69: posts small blind $0.02
+Sineie: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Td]
+Milva83: folds=20
+RaptNurs: folds=20
+the_wickstar: raises $0.05 to $0.10
+69sirov69: calls $0.08
+Sineie: folds=20
+*** FLOP *** [4s 7h Qd]
+69sirov69: checks=20
+the_wickstar: bets $0.24
+69sirov69: folds=20
+Uncalled bet ($0.24) returned to the_wickstar
+the_wickstar collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01=20
+Board [4s 7h Qd]
+Seat 1: 69sirov69 (small blind) folded on the Flop
+Seat 2: Sineie (big blind) folded before Flop
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.24)
+
+
+*********** # 58 **************
+PokerStars Hand #169205629324:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:41:06 CUST [2017/04/18 5:41:06 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.56 in chips)=20
+Seat 3: Milva83 ($5.10 in chips)=20
+Seat 4: RaptNurs ($5.80 in chips)=20
+Seat 6: the_wickstar ($1.85 in chips)=20
+the_wickstar: posts small blind $0.02
+69sirov69: posts big blind $0.05
+Sineie: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [As 3d]
+Milva83: folds=20
+RaptNurs: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.03) returned to 69sirov69
+69sirov69 collected $0.04 from pot
+69sirov69: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: 69sirov69 (big blind) collected ($0.04)
+Seat 3: Milva83 folded before Flop (didn't bet)
+Seat 4: RaptNurs (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) folded before Flop
+
+
+*********** # 59 **************
+PokerStars Hand #169205615781:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:40:32 CUST [2017/04/18 5:40:32 ET]
+Table 'Mathesis' 6-max Seat #3 is the button
+Seat 1: 69sirov69 ($5.71 in chips)=20
+Seat 3: Milva83 ($5.10 in chips)=20
+Seat 4: RaptNurs ($5.82 in chips)=20
+Seat 6: the_wickstar ($1.69 in chips)=20
+RaptNurs: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+Sineie: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts Qc]
+69sirov69: raises $0.10 to $0.15
+Milva83: folds=20
+RaptNurs: folds=20
+the_wickstar: calls $0.10
+*** FLOP *** [2h 6h Ac]
+the_wickstar: checks=20
+69sirov69: checks=20
+*** TURN *** [2h 6h Ac] [4c]
+the_wickstar: bets $0.17
+69sirov69: folds=20
+Uncalled bet ($0.17) returned to the_wickstar
+the_wickstar collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01=20
+Board [2h 6h Ac 4c]
+Seat 1: 69sirov69 folded on the Turn
+Seat 3: Milva83 (button) folded before Flop (didn't bet)
+Seat 4: RaptNurs (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) collected ($0.31)
+
+
+*********** # 60 **************
+PokerStars Hand #169205600369:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:39:53 CUST [2017/04/18 5:39:53 ET]
+Table 'Mathesis' 6-max Seat #1 is the button
+Seat 1: 69sirov69 ($5.76 in chips)=20
+Seat 3: Milva83 ($5.12 in chips)=20
+Seat 4: RaptNurs ($5.71 in chips)=20
+Seat 6: the_wickstar ($1.74 in chips)=20
+Sineie will be allowed to play after the button
+Milva83: posts small blind $0.02
+RaptNurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts 8s]
+the_wickstar: calls $0.05
+69sirov69: calls $0.05
+Milva83: folds=20
+RaptNurs: checks=20
+*** FLOP *** [5h 9c 4h]
+RaptNurs: checks=20
+the_wickstar: checks=20
+69sirov69: checks=20
+*** TURN *** [5h 9c 4h] [Ac]
+RaptNurs: bets $0.12
+the_wickstar: folds=20
+69sirov69: folds=20
+Uncalled bet ($0.12) returned to RaptNurs
+RaptNurs collected $0.16 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [5h 9c 4h Ac]
+Seat 1: 69sirov69 (button) folded on the Turn
+Seat 3: Milva83 (small blind) folded before Flop
+Seat 4: RaptNurs (big blind) collected ($0.16)
+Seat 6: the_wickstar folded on the Turn
+
+
+*********** # 61 **************
+PokerStars Hand #169205579221:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:39:00 CUST [2017/04/18 5:39:00 ET]
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 1: 69sirov69 ($5.78 in chips)=20
+Seat 3: Milva83 ($5.47 in chips)=20
+Seat 4: RaptNurs ($5.71 in chips)=20
+Seat 6: the_wickstar ($1.40 in chips)=20
+69sirov69: posts small blind $0.02
+Danabol200: is sitting out=20
+Milva83: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Qh]
+Danabol200 leaves the table
+RaptNurs: folds=20
+Sineie joins the table at seat #2=20
+the_wickstar: calls $0.05
+69sirov69: folds=20
+Milva83: raises $0.30 to $0.35
+the_wickstar: calls $0.30
+*** FLOP *** [9h 8s 9s]
+Milva83: checks=20
+the_wickstar: checks=20
+*** TURN *** [9h 8s 9s] [8d]
+Milva83: checks=20
+the_wickstar: bets $1.05 and is all-in
+Milva83: folds=20
+Uncalled bet ($1.05) returned to the_wickstar
+the_wickstar collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03=20
+Board [9h 8s 9s 8d]
+Seat 1: 69sirov69 (small blind) folded before Flop
+Seat 3: Milva83 (big blind) folded on the Turn
+Seat 4: RaptNurs folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.69)
+
+
+*********** # 62 **************
+PokerStars Hand #169205560435:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/0=
+4/18 19:38:13 CUST [2017/04/18 5:38:13 ET]
+Table 'Mathesis' 6-max Seat #4 is the button
+Seat 1: 69sirov69 ($5.78 in chips)=20
+Seat 2: Danabol200 ($8.94 in chips)=20
+Seat 3: Milva83 ($5.62 in chips)=20
+Seat 4: RaptNurs ($5 in chips)=20
+Seat 5: 4ert966 ($4.50 in chips)=20
+Seat 6: the_wickstar ($2 in chips)=20
+4ert966: posts small blind $0.02
+the_wickstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to the_wickstar [5h 8s]
+69sirov69: folds=20
+Danabol200: folds=20
+Milva83: raises $0.10 to $0.15
+RaptNurs: calls $0.15
+4ert966: folds=20
+the_wickstar: calls $0.10
+*** FLOP *** [As 7h Tc]
+the_wickstar: checks=20
+Milva83: checks=20
+RaptNurs: checks=20
+*** TURN *** [As 7h Tc] [2h]
+the_wickstar: bets $0.45
+Milva83: folds=20
+RaptNurs: raises $4.40 to $4.85 and is all-in
+the_wickstar: folds=20
+Uncalled bet ($4.40) returned to RaptNurs
+RaptNurs collected $1.31 from pot
+RaptNurs: doesn't show hand=20
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.06=20
+Board [As 7h Tc 2h]
+Seat 1: 69sirov69 folded before Flop (didn't bet)
+Seat 2: Danabol200 folded before Flop (didn't bet)
+Seat 3: Milva83 folded on the Turn
+Seat 4: RaptNurs (button) collected ($1.31)
+Seat 5: 4ert966 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) folded on the Turn
+
+
+*********** # 63 **************
+PokerStars Hand #169205427239: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:32:55 CUST [2017/04/18 5:32:55 ET]
+Table '1882735677 15' 9-max Seat #2 is the button
+Seat 1: kremper1 (5915 in chips)=20
+Seat 2: the_wickstar (16530 in chips)=20
+Seat 3: sportler71 (18831 in chips)=20
+Seat 4: smet181 (2915 in chips)=20
+Seat 5: FRANCO365 (42185 in chips)=20
+Seat 6: Moejoekoe86 (40270 in chips)=20
+Seat 7: atika2807 (63481 in chips)=20
+Seat 8: mc__cccp__70 (25553 in chips)=20
+Seat 9: king of pol (67122 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+atika2807: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+sportler71: posts small blind 350
+smet181: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s Js]
+the_wickstar said, "lol every hand theres an all in"
+FRANCO365: folds=20
+Moejoekoe86: folds=20
+atika2807: calls 700
+mc__cccp__70: folds=20
+king of pol: calls 700
+kremper1: folds=20
+the_wickstar: calls 700
+sportler71: calls 350
+smet181: checks=20
+*** FLOP *** [2d Ks 4h]
+sportler71: checks=20
+smet181: checks=20
+atika2807: checks=20
+king of pol: bets 2100
+the_wickstar: raises 2100 to 4200
+sportler71: folds=20
+smet181: folds=20
+atika2807: folds=20
+king of pol: calls 2100
+*** TURN *** [2d Ks 4h] [3d]
+king of pol: checks=20
+the_wickstar: bets 11545 and is all-in
+king of pol: calls 11545
+*** RIVER *** [2d Ks 4h 3d] [8d]
+*** SHOW DOWN ***
+king of pol: shows [8h 8s] (three of a kind, Eights)
+the_wickstar: shows [5s Js] (high card King)
+king of pol collected 35755 from pot
+the_wickstar finished the tournament in 67th place
+*** SUMMARY ***
+Total pot 35755 | Rake 0=20
+Board [2d Ks 4h 3d 8d]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar (button) showed [5s Js] and lost with high card King
+Seat 3: sportler71 (small blind) folded on the Flop
+Seat 4: smet181 (big blind) folded on the Flop
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: atika2807 folded on the Flop
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol showed [8h 8s] and won (35755) with three of a kind, Ei=
+ghts
+
+
+*********** # 64 **************
+PokerStars Hand #169205417032: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:32:29 CUST [2017/04/18 5:32:29 ET]
+Table '1882735677 15' 9-max Seat #1 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (16965 in chips)=20
+Seat 3: sportler71 (19616 in chips)=20
+Seat 4: smet181 (3000 in chips)=20
+Seat 5: FRANCO365 (42270 in chips)=20
+Seat 6: Moejoekoe86 (40355 in chips)=20
+Seat 7: atika2807 (63566 in chips)=20
+Seat 8: mc__cccp__70 (24730 in chips)=20
+Seat 9: king of pol (66300 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+atika2807: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+the_wickstar: posts small blind 350
+sportler71: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc 3d]
+smet181: folds=20
+FRANCO365: folds=20
+Moejoekoe86: folds=20
+atika2807: folds=20
+mc__cccp__70: raises 23945 to 24645 and is all-in
+king of pol: calls 24645
+kremper1: folds=20
+the_wickstar: folds=20
+sportler71: folds=20
+*** FLOP *** [8c 7c 9c]
+*** TURN *** [8c 7c 9c] [Qc]
+*** RIVER *** [8c 7c 9c Qc] [Jh]
+*** SHOW DOWN ***
+mc__cccp__70: shows [As 3s] (high card Ace)
+king of pol: shows [2d Ad] (high card Ace)
+mc__cccp__70 collected 25553 from pot
+king of pol collected 25552 from pot
+*** SUMMARY ***
+Total pot 51105 | Rake 0=20
+Board [8c 7c 9c Qc Jh]
+Seat 1: kremper1 (button) folded before Flop (didn't bet)
+Seat 2: the_wickstar (small blind) folded before Flop
+Seat 3: sportler71 (big blind) folded before Flop
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: atika2807 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 showed [As 3s] and won (25553) with high card Ace
+Seat 9: king of pol showed [2d Ad] and won (25552) with high card Ace
+
+
+*********** # 65 **************
+PokerStars Hand #169205403795: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:31:55 CUST [2017/04/18 5:31:55 ET]
+Table '1882735677 15' 9-max Seat #9 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (17750 in chips)=20
+Seat 3: sportler71 (20401 in chips)=20
+Seat 4: smet181 (9795 in chips)=20
+Seat 5: FRANCO365 (42355 in chips)=20
+Seat 6: Moejoekoe86 (40440 in chips)=20
+Seat 7: atika2807 (63651 in chips)=20
+Seat 8: mc__cccp__70 (49070 in chips)=20
+Seat 9: king of pol (24340 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+atika2807: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+kremper1: posts small blind 350
+the_wickstar: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Td]
+sportler71: calls 700
+smet181: raises 9010 to 9710 and is all-in
+FRANCO365: folds=20
+Moejoekoe86: folds=20
+atika2807: folds=20
+mc__cccp__70: raises 39275 to 48985 and is all-in
+king of pol: calls 24255 and is all-in
+kremper1: calls 5565 and is all-in
+the_wickstar: folds=20
+sportler71: folds=20
+Uncalled bet (24730) returned to mc__cccp__70
+*** FLOP *** [8c 4c 5h]
+*** TURN *** [8c 4c 5h] [Qh]
+*** RIVER *** [8c 4c 5h Qh] [Qd]
+*** SHOW DOWN ***
+mc__cccp__70: shows [As Kd] (a pair of Queens)
+king of pol: shows [4d Ah] (two pair, Queens and Fours)
+king of pol collected 29090 from side pot-2=20
+smet181: shows [Jh Kh] (a pair of Queens)
+king of pol collected 11385 from side pot-1=20
+kremper1: shows [Ad 3h] (a pair of Queens)
+king of pol collected 25825 from main pot
+smet181 re-buys and receives 3000 chips for 5 StarsCoin
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 66300 Main pot 25825. Side pot-1 11385. Side pot-2 29090. | Rake =
+0=20
+Board [8c 4c 5h Qh Qd]
+Seat 1: kremper1 (small blind) showed [Ad 3h] and lost with a pair of Queen=
+s
+Seat 2: the_wickstar (big blind) folded before Flop
+Seat 3: sportler71 folded before Flop
+Seat 4: smet181 showed [Jh Kh] and lost with a pair of Queens
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: atika2807 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 showed [As Kd] and lost with a pair of Queens
+Seat 9: king of pol (button) showed [4d Ah] and won (66300) with two pair, =
+Queens and Fours
+
+
+*********** # 66 **************
+PokerStars Hand #169205386604: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:31:12 CUST [2017/04/18 5:31:12 ET]
+Table '1882735677 15' 9-max Seat #8 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (17835 in chips)=20
+Seat 3: sportler71 (26401 in chips)=20
+Seat 4: smet181 (15795 in chips)=20
+Seat 5: FRANCO365 (42440 in chips)=20
+Seat 6: Moejoekoe86 (40525 in chips)=20
+Seat 8: mc__cccp__70 (49155 in chips)=20
+Seat 9: king of pol (6000 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+king of pol: posts small blind 350
+kremper1: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s 8h]
+the_wickstar: folds=20
+sportler71: calls 700
+smet181: calls 700
+FRANCO365: folds=20
+Moejoekoe86: folds=20
+mc__cccp__70: folds=20
+king of pol: raises 5215 to 5915 and is all-in
+kremper1: calls 5215 and is all-in
+sportler71: calls 5215
+smet181: calls 5215
+*** FLOP *** [Jd Qc Ks]
+sportler71: checks=20
+smet181: checks=20
+*** TURN *** [Jd Qc Ks] [Js]
+sportler71: bets 2800
+smet181: folds=20
+Uncalled bet (2800) returned to sportler71
+*** RIVER *** [Jd Qc Ks Js] [7s]
+*** SHOW DOWN ***
+king of pol: shows [6s Jc] (three of a kind, Jacks)
+kremper1: shows [7h Ah] (two pair, Jacks and Sevens)
+sportler71: shows [7d Qd] (two pair, Queens and Jacks)
+king of pol collected 24340 from pot
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 24340 | Rake 0=20
+Board [Jd Qc Ks Js 7s]
+Seat 1: kremper1 (big blind) showed [7h Ah] and lost with two pair, Jacks a=
+nd Sevens
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: sportler71 showed [7d Qd] and lost with two pair, Queens and Jacks
+Seat 4: smet181 folded on the Turn
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 (button) folded before Flop (didn't bet)
+Seat 9: king of pol (small blind) showed [6s Jc] and won (24340) with three=
+ of a kind, Jacks
+
+
+*********** # 67 **************
+PokerStars Hand #169205369964: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:30:30 CUST [2017/04/18 5:30:30 ET]
+Table '1882735677 15' 9-max Seat #6 is the button
+Seat 1: kremper1 (5830 in chips)=20
+Seat 2: the_wickstar (17920 in chips)=20
+Seat 3: sportler71 (26486 in chips)=20
+Seat 4: smet181 (15880 in chips)=20
+Seat 5: FRANCO365 (42525 in chips)=20
+Seat 6: Moejoekoe86 (41310 in chips)=20
+Seat 8: mc__cccp__70 (36200 in chips)=20
+Seat 9: king of pol (6000 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+mc__cccp__70: posts small blind 350
+king of pol: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 6h]
+kremper1: calls 700
+the_wickstar: folds=20
+sportler71: folds=20
+smet181: folds=20
+FRANCO365: folds=20
+Moejoekoe86: calls 700
+mc__cccp__70: raises 35415 to 36115 and is all-in
+king of pol: calls 5215 and is all-in
+kremper1: calls 5045 and is all-in
+Moejoekoe86: folds=20
+Uncalled bet (30200) returned to mc__cccp__70
+*** FLOP *** [5c 9s 7h]
+*** TURN *** [5c 9s 7h] [As]
+*** RIVER *** [5c 9s 7h As] [7s]
+*** SHOW DOWN ***
+mc__cccp__70: shows [Ks 8s] (a flush, Ace high)
+king of pol: shows [Ac 2c] (two pair, Aces and Sevens)
+mc__cccp__70 collected 340 from side pot
+kremper1: shows [Jd 9d] (two pair, Nines and Sevens)
+mc__cccp__70 collected 18615 from main pot
+king of pol re-buys and receives 6000 chips for 10 StarsCoin
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 18955 Main pot 18615. Side pot 340. | Rake 0=20
+Board [5c 9s 7h As 7s]
+Seat 1: kremper1 showed [Jd 9d] and lost with two pair, Nines and Sevens
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: sportler71 folded before Flop (didn't bet)
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 (button) folded before Flop
+Seat 8: mc__cccp__70 (small blind) showed [Ks 8s] and won (18955) with a fl=
+ush, Ace high
+Seat 9: king of pol (big blind) showed [Ac 2c] and lost with two pair, Aces=
+ and Sevens
+
+
+*********** # 68 **************
+PokerStars Hand #169205356160: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:29:55 CUST [2017/04/18 5:29:55 ET]
+Table '1882735677 15' 9-max Seat #5 is the button
+Seat 1: kremper1 (5915 in chips)=20
+Seat 2: the_wickstar (18005 in chips)=20
+Seat 3: sportler71 (27271 in chips)=20
+Seat 4: smet181 (15965 in chips)=20
+Seat 5: FRANCO365 (21100 in chips)=20
+Seat 6: Moejoekoe86 (41745 in chips)=20
+Seat 8: mc__cccp__70 (36985 in chips)=20
+Seat 9: king of pol (19165 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+sportler71: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+Moejoekoe86: posts small blind 350
+mc__cccp__70: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c Ac]
+king of pol: calls 700
+kremper1: folds=20
+the_wickstar: folds=20
+sportler71: calls 700
+smet181: folds=20
+FRANCO365: raises 20315 to 21015 and is all-in
+Moejoekoe86: folds=20
+mc__cccp__70: folds=20
+king of pol: calls 18380 and is all-in
+sportler71: folds=20
+Uncalled bet (1935) returned to FRANCO365
+*** FLOP *** [2s Jd 4d]
+*** TURN *** [2s Jd 4d] [8h]
+*** RIVER *** [2s Jd 4d 8h] [5h]
+*** SHOW DOWN ***
+king of pol: shows [6h Th] (high card Jack)
+FRANCO365: shows [3d 3c] (a pair of Threes)
+FRANCO365 collected 40590 from pot
+king of pol re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 40590 | Rake 0=20
+Board [2s Jd 4d 8h 5h]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: sportler71 folded before Flop
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 (button) showed [3d 3c] and won (40590) with a pair of Th=
+rees
+Seat 6: Moejoekoe86 (small blind) folded before Flop
+Seat 8: mc__cccp__70 (big blind) folded before Flop
+Seat 9: king of pol showed [6h Th] and lost with high card Jack
+
+
+*********** # 69 **************
+PokerStars Hand #169205350698: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XII (350/700) - 2017/04/18 19:29:41 CUST [2017/04/18 5:29:41 ET]
+Table '1882735677 15' 9-max Seat #4 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (18090 in chips)=20
+Seat 4: smet181 (16050 in chips)=20
+Seat 5: FRANCO365 (19890 in chips)=20
+Seat 6: Moejoekoe86 (42530 in chips)=20
+Seat 8: mc__cccp__70 (37070 in chips)=20
+Seat 9: king of pol (19250 in chips)=20
+kremper1: posts the ante 85
+the_wickstar: posts the ante 85
+smet181: posts the ante 85
+FRANCO365: posts the ante 85
+Moejoekoe86: posts the ante 85
+mc__cccp__70: posts the ante 85
+king of pol: posts the ante 85
+FRANCO365: posts small blind 350
+Moejoekoe86: posts big blind 700
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac 9c]
+mc__cccp__70: folds=20
+king of pol: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+smet181: folds=20
+FRANCO365: raises 19105 to 19805 and is all-in
+Moejoekoe86: folds=20
+Uncalled bet (19105) returned to FRANCO365
+FRANCO365 collected 1995 from pot
+FRANCO365: doesn't show hand=20
+*** SUMMARY ***
+Total pot 1995 | Rake 0=20
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 4: smet181 (button) folded before Flop (didn't bet)
+Seat 5: FRANCO365 (small blind) collected (1995)
+Seat 6: Moejoekoe86 (big blind) folded before Flop
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #169205331082: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:28:51 CUST [2017/04/18 5:28:51 ET]
+Table '1882735677 15' 9-max Seat #2 is the button
+Seat 1: kremper1 (4820 in chips)=20
+Seat 2: the_wickstar (18160 in chips)=20
+Seat 3: danmessi (2190 in chips)=20
+Seat 4: smet181 (16720 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (42600 in chips)=20
+Seat 8: mc__cccp__70 (37140 in chips)=20
+Seat 9: king of pol (25250 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+danmessi: posts small blind 300
+smet181: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 5d]
+FRANCO365: raises 5330 to 5930 and is all-in
+Moejoekoe86: folds=20
+mc__cccp__70: folds=20
+king of pol: calls 5930
+kremper1: calls 4750 and is all-in
+the_wickstar: folds=20
+danmessi: calls 1820 and is all-in
+smet181: folds=20
+*** FLOP *** [Kc 7c Qs]
+*** TURN *** [Kc 7c Qs] [Kh]
+*** RIVER *** [Kc 7c Qs Kh] [7d]
+the_wickstar said, "don't you guys get bored of rebuying all the time?"
+*** SHOW DOWN ***
+FRANCO365: shows [9d Kd] (a full house, Kings full of Sevens)
+king of pol: shows [6s Ac] (two pair, Kings and Sevens)
+FRANCO365 collected 2360 from side pot-2=20
+kremper1: shows [Tc Qh] (two pair, Kings and Queens)
+FRANCO365 collected 7890 from side pot-1=20
+danmessi: shows [Qd Ts] (two pair, Kings and Queens)
+FRANCO365 collected 9640 from main pot
+danmessi has timed out while disconnected
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+danmessi is sitting out
+danmessi finished the tournament in 77th place
+*** SUMMARY ***
+Total pot 19890 Main pot 9640. Side pot-1 7890. Side pot-2 2360. | Rake 0=
+=20
+Board [Kc 7c Qs Kh 7d]
+Seat 1: kremper1 showed [Tc Qh] and lost with two pair, Kings and Queens
+Seat 2: the_wickstar (button) folded before Flop (didn't bet)
+Seat 3: danmessi (small blind) showed [Qd Ts] and lost with two pair, Kings=
+ and Queens
+Seat 4: smet181 (big blind) folded before Flop
+Seat 5: FRANCO365 showed [9d Kd] and won (19890) with a full house, Kings f=
+ull of Sevens
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol showed [6s Ac] and lost with two pair, Kings and Sevens
+
+
+*********** # 71 **************
+PokerStars Hand #169205309669: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:27:58 CUST [2017/04/18 5:27:58 ET]
+Table '1882735677 15' 9-max Seat #1 is the button
+Seat 1: kremper1 (4890 in chips)=20
+Seat 2: the_wickstar (18530 in chips)=20
+Seat 3: danmessi (2860 in chips)=20
+Seat 4: smet181 (30520 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (42670 in chips)=20
+Seat 7: ask702 (19260 in chips)=20
+Seat 8: mc__cccp__70 (35340 in chips)=20
+Seat 9: king of pol (6000 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+ask702: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+the_wickstar: posts small blind 300
+danmessi: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [3h 4s]
+smet181: calls 600
+FRANCO365: raises 5330 to 5930 and is all-in
+Moejoekoe86: folds=20
+ask702: folds=20
+mc__cccp__70: calls 5930
+king of pol: calls 5930 and is all-in
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: folds=20
+smet181: calls 5330
+*** FLOP *** [2d 9h Tc]
+smet181: bets 1800
+mc__cccp__70: calls 1800
+*** TURN *** [2d 9h Tc] [6d]
+smet181: bets 1800
+mc__cccp__70: calls 1800
+*** RIVER *** [2d 9h Tc 6d] [Td]
+smet181: bets 4200
+mc__cccp__70: calls 4200
+*** SHOW DOWN ***
+smet181: shows [Jd Ks] (a pair of Tens)
+mc__cccp__70: shows [Kc Ac] (a pair of Tens - Ace kicker)
+mc__cccp__70 collected 15600 from side pot
+king of pol: shows [7c Ts] (three of a kind, Tens)
+FRANCO365: mucks hand=20
+king of pol collected 25250 from main pot
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 40850 Main pot 25250. Side pot 15600. | Rake 0=20
+Board [2d 9h Tc 6d Td]
+Seat 1: kremper1 (button) folded before Flop (didn't bet)
+Seat 2: the_wickstar (small blind) folded before Flop
+Seat 3: danmessi (big blind) folded before Flop
+Seat 4: smet181 showed [Jd Ks] and lost with a pair of Tens
+Seat 5: FRANCO365 mucked [3c 4c]
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 showed [Kc Ac] and won (15600) with a pair of Tens
+Seat 9: king of pol showed [7c Ts] and won (25250) with three of a kind, Te=
+ns
+
+
+*********** # 72 **************
+PokerStars Hand #169205297001: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:27:26 CUST [2017/04/18 5:27:26 ET]
+Table '1882735677 15' 9-max Seat #9 is the button
+Seat 1: kremper1 (5260 in chips)=20
+Seat 2: the_wickstar (19200 in chips)=20
+Seat 3: danmessi (2930 in chips)=20
+Seat 4: smet181 (30590 in chips)=20
+Seat 5: FRANCO365 (3320 in chips)=20
+Seat 6: Moejoekoe86 (32820 in chips)=20
+Seat 7: ask702 (19330 in chips)=20
+Seat 8: mc__cccp__70 (35410 in chips)=20
+Seat 9: king of pol (5210 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+ask702: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+kremper1: posts small blind 300
+the_wickstar: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 6d]
+danmessi: folds=20
+smet181: folds=20
+FRANCO365: calls 600
+Moejoekoe86: calls 600
+ask702: folds=20
+mc__cccp__70: folds=20
+king of pol: raises 4540 to 5140 and is all-in
+kremper1: folds=20
+the_wickstar: folds=20
+FRANCO365: calls 2650 and is all-in
+Moejoekoe86: calls 4540
+*** FLOP *** [Ks 4s Kh]
+*** TURN *** [Ks 4s Kh] [Jd]
+*** RIVER *** [Ks 4s Kh Jd] [Js]
+*** SHOW DOWN ***
+Moejoekoe86: shows [Kd Td] (a full house, Kings full of Jacks)
+king of pol: shows [4d 9h] (two pair, Kings and Jacks)
+Moejoekoe86 collected 3780 from side pot
+FRANCO365: shows [8c 9c] (two pair, Kings and Jacks)
+Moejoekoe86 collected 11280 from main pot
+king of pol re-buys and receives 6000 chips for 10 StarsCoin
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 15060 Main pot 11280. Side pot 3780. | Rake 0=20
+Board [Ks 4s Kh Jd Js]
+Seat 1: kremper1 (small blind) folded before Flop
+Seat 2: the_wickstar (big blind) folded before Flop
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 showed [8c 9c] and lost with two pair, Kings and Jacks
+Seat 6: Moejoekoe86 showed [Kd Td] and won (15060) with a full house, Kings=
+ full of Jacks
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol (button) showed [4d 9h] and lost with two pair, Kings a=
+nd Jacks
+
+
+*********** # 73 **************
+PokerStars Hand #169205282336: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:26:49 CUST [2017/04/18 5:26:49 ET]
+Table '1882735677 15' 9-max Seat #8 is the button
+Seat 1: kremper1 (5930 in chips)=20
+Seat 2: the_wickstar (5860 in chips)=20
+Seat 3: danmessi (3000 in chips)=20
+Seat 4: smet181 (30660 in chips)=20
+Seat 5: FRANCO365 (3390 in chips)=20
+Seat 6: Moejoekoe86 (33490 in chips)=20
+Seat 7: ask702 (19400 in chips)=20
+Seat 8: mc__cccp__70 (41270 in chips)=20
+Seat 9: king of pol (11070 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+ask702: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+king of pol: posts small blind 300
+kremper1: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad Ts]
+the_wickstar: calls 600
+danmessi: folds=20
+smet181: folds=20
+FRANCO365: folds=20
+Moejoekoe86: calls 600
+ask702: folds=20
+mc__cccp__70: raises 40600 to 41200 and is all-in
+king of pol: calls 10700 and is all-in
+kremper1: folds=20
+the_wickstar: calls 5190 and is all-in
+Moejoekoe86: folds=20
+Uncalled bet (30200) returned to mc__cccp__70
+*** FLOP *** [4s Td 5d]
+*** TURN *** [4s Td 5d] [8h]
+*** RIVER *** [4s Td 5d 8h] [5c]
+*** SHOW DOWN ***
+king of pol: shows [6h As] (a pair of Fives)
+mc__cccp__70: shows [Ah 3h] (a pair of Fives)
+king of pol collected 5210 from side pot
+mc__cccp__70 collected 5210 from side pot
+the_wickstar: shows [Ad Ts] (two pair, Tens and Fives)
+the_wickstar collected 19200 from main pot
+*** SUMMARY ***
+Total pot 29620 Main pot 19200. Side pot 10420. | Rake 0=20
+Board [4s Td 5d 8h 5c]
+Seat 1: kremper1 (big blind) folded before Flop
+Seat 2: the_wickstar showed [Ad Ts] and won (19200) with two pair, Tens and=
+ Fives
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 folded before Flop
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 (button) showed [Ah 3h] and won (5210) with a pair of =
+Fives
+Seat 9: king of pol (small blind) showed [6h As] and won (5210) with a pair=
+ of Fives
+
+
+*********** # 74 **************
+PokerStars Hand #169205268697: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:26:14 CUST [2017/04/18 5:26:14 ET]
+Table '1882735677 15' 9-max Seat #7 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (5930 in chips)=20
+Seat 3: danmessi (2930 in chips)=20
+Seat 4: smet181 (30730 in chips)=20
+Seat 5: FRANCO365 (890 in chips)=20
+Seat 6: Moejoekoe86 (33560 in chips)=20
+Seat 7: ask702 (19470 in chips)=20
+Seat 8: mc__cccp__70 (41640 in chips)=20
+Seat 9: king of pol (9920 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+ask702: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+mc__cccp__70: posts small blind 300
+king of pol: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh 5s]
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: raises 2260 to 2860 and is all-in
+smet181: folds=20
+FRANCO365: calls 820 and is all-in
+Moejoekoe86: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+king of pol: calls 2260
+*** FLOP *** [7d 8d 6d]
+*** TURN *** [7d 8d 6d] [Th]
+*** RIVER *** [7d 8d 6d Th] [Kd]
+*** SHOW DOWN ***
+king of pol: shows [5d 2d] (a flush, King high)
+danmessi: shows [Ks 9h] (a straight, Six to Ten)
+king of pol collected 4080 from side pot
+FRANCO365: shows [Qd 6c] (a flush, King high - Queen higher)
+FRANCO365 collected 3390 from main pot
+danmessi re-buys and receives 3000 chips for 5 StarsCoin
+*** SUMMARY ***
+Total pot 7470 Main pot 3390. Side pot 4080. | Rake 0=20
+Board [7d 8d 6d Th Kd]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi showed [Ks 9h] and lost with a straight, Six to Ten
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 showed [Qd 6c] and won (3390) with a flush, King high
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: ask702 (button) folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 (small blind) folded before Flop
+Seat 9: king of pol (big blind) showed [5d 2d] and won (4080) with a flush,=
+ King high
+
+
+*********** # 75 **************
+PokerStars Hand #169205248136: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level XI (300/600) - 2017/04/18 19:25:22 CUST [2017/04/18 5:25:22 ET]
+Table '1882735677 15' 9-max Seat #6 is the button
+Seat 1: kremper1 (6000 in chips)=20
+Seat 2: the_wickstar (6000 in chips)=20
+Seat 3: danmessi (3000 in chips)=20
+Seat 4: smet181 (41900 in chips)=20
+Seat 5: FRANCO365 (960 in chips)=20
+Seat 6: Moejoekoe86 (8770 in chips)=20
+Seat 7: ask702 (19840 in chips)=20
+Seat 8: mc__cccp__70 (42310 in chips)=20
+Seat 9: king of pol (16290 in chips)=20
+kremper1: posts the ante 70
+the_wickstar: posts the ante 70
+danmessi: posts the ante 70
+smet181: posts the ante 70
+FRANCO365: posts the ante 70
+Moejoekoe86: posts the ante 70
+ask702: posts the ante 70
+mc__cccp__70: posts the ante 70
+king of pol: posts the ante 70
+ask702: posts small blind 300
+mc__cccp__70: posts big blind 600
+*** HOLE CARDS ***
+Dealt to the_wickstar [3c 4d]
+king of pol: calls 600
+kremper1: raises 5330 to 5930 and is all-in
+the_wickstar: folds=20
+danmessi: folds=20
+smet181: calls 5930
+FRANCO365: folds=20
+Moejoekoe86: raises 2770 to 8700 and is all-in
+ask702: folds=20
+mc__cccp__70: folds=20
+king of pol: calls 8100
+smet181: calls 2770
+*** FLOP *** [Jd Ac 9d]
+king of pol: checks=20
+smet181: bets 1200
+king of pol: calls 1200
+*** TURN *** [Jd Ac 9d] [7c]
+king of pol: checks=20
+smet181: bets 1200
+king of pol: calls 1200
+*** RIVER *** [Jd Ac 9d 7c] [6d]
+king of pol: checks=20
+smet181: checks=20
+*** SHOW DOWN ***
+king of pol: shows [6c Qc] (a pair of Sixes)
+smet181: mucks hand=20
+king of pol collected 4800 from side pot-2=20
+Moejoekoe86: shows [As Jh] (two pair, Aces and Jacks)
+Moejoekoe86 collected 8310 from side pot-1=20
+kremper1: mucks hand=20
+Moejoekoe86 collected 25250 from main pot
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 38360 Main pot 25250. Side pot-1 8310. Side pot-2 4800. | Rake 0=
+=20
+Board [Jd Ac 9d 7c 6d]
+Seat 1: kremper1 mucked [Ah 9s]
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: smet181 mucked [5c 5s]
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 (button) showed [As Jh] and won (33560) with two pair, =
+Aces and Jacks
+Seat 7: ask702 (small blind) folded before Flop
+Seat 8: mc__cccp__70 (big blind) folded before Flop
+Seat 9: king of pol showed [6c Qc] and won (4800) with a pair of Sixes
+
+
+*********** # 76 **************
+PokerStars Hand #169205216686: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:24:01 CUST [2017/04/18 5:24:01 ET]
+Table '1882735677 15' 9-max Seat #5 is the button
+Seat 1: kremper1 (4140 in chips)=20
+Seat 2: the_wickstar (1780 in chips)=20
+Seat 3: danmessi (3000 in chips)=20
+Seat 4: smet181 (41960 in chips)=20
+Seat 5: FRANCO365 (120 in chips)=20
+Seat 6: Moejoekoe86 (11770 in chips)=20
+Seat 7: ask702 (5640 in chips)=20
+Seat 8: mc__cccp__70 (42370 in chips)=20
+Seat 9: king of pol (19290 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+king of pol: posts the ante 60
+Moejoekoe86: posts small blind 250
+ask702: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h 9s]
+mc__cccp__70: folds=20
+king of pol: calls 500
+kremper1: calls 500
+the_wickstar: calls 500
+danmessi: raises 2440 to 2940 and is all-in
+smet181: folds=20
+FRANCO365: calls 60 and is all-in
+Moejoekoe86: calls 2690
+ask702: calls 2440
+king of pol: calls 2440
+kremper1: calls 2440
+the_wickstar: calls 1220 and is all-in
+*** FLOP *** [3c Ah 9c]
+Moejoekoe86: checks=20
+ask702: checks=20
+king of pol: checks=20
+kremper1: bets 1140 and is all-in
+Moejoekoe86: folds=20
+ask702: raises 1500 to 2640 and is all-in
+king of pol: folds=20
+Uncalled bet (1500) returned to ask702
+*** TURN *** [3c Ah 9c] [Ad]
+*** RIVER *** [3c Ah 9c Ad] [3h]
+*** SHOW DOWN ***
+ask702: shows [8d 9h] (two pair, Aces and Nines)
+kremper1: shows [Qc 6c] (two pair, Aces and Threes)
+ask702 collected 2280 from side pot-3=20
+danmessi: shows [Td 7d] (two pair, Aces and Threes)
+ask702 collected 6100 from side pot-2=20
+the_wickstar: shows [6h 9s] (two pair, Aces and Nines - lower kicker)
+ask702 collected 9960 from side pot-1=20
+FRANCO365: shows [4s Ac] (a full house, Aces full of Threes)
+FRANCO365 collected 960 from main pot
+danmessi re-buys and receives 3000 chips for 5 StarsCoin
+the_wickstar re-buys and receives 6000 chips for 10 StarsCoin
+kremper1 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 19300 Main pot 960. Side pot-1 9960. Side pot-2 6100. Side pot-3 =
+2280. | Rake 0=20
+Board [3c Ah 9c Ad 3h]
+Seat 1: kremper1 showed [Qc 6c] and lost with two pair, Aces and Threes
+Seat 2: the_wickstar showed [6h 9s] and lost with two pair, Aces and Nines
+Seat 3: danmessi showed [Td 7d] and lost with two pair, Aces and Threes
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 (button) showed [4s Ac] and won (960) with a full house, =
+Aces full of Threes
+Seat 6: Moejoekoe86 (small blind) folded on the Flop
+Seat 7: ask702 (big blind) showed [8d 9h] and won (18340) with two pair, Ac=
+es and Nines
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol folded on the Flop
+
+
+*********** # 77 **************
+PokerStars Hand #169205198195: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:23:13 CUST [2017/04/18 5:23:13 ET]
+Table '1882735677 15' 9-max Seat #4 is the button
+Seat 1: kremper1 (4200 in chips)=20
+Seat 2: the_wickstar (1840 in chips)=20
+Seat 3: danmessi (3030 in chips)=20
+Seat 4: smet181 (42020 in chips)=20
+Seat 5: FRANCO365 (5440 in chips)=20
+Seat 6: Moejoekoe86 (17090 in chips)=20
+Seat 7: ask702 (5700 in chips)=20
+Seat 8: mc__cccp__70 (42430 in chips)=20
+Seat 9: king of pol (5320 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+king of pol: posts the ante 60
+FRANCO365: posts small blind 250
+Moejoekoe86: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 3c]
+ask702: folds=20
+mc__cccp__70: folds=20
+king of pol: raises 4760 to 5260 and is all-in
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: calls 2970 and is all-in
+smet181: folds=20
+FRANCO365: raises 120 to 5380 and is all-in
+Moejoekoe86: calls 4880
+*** FLOP *** [6s 6c 4s]
+*** TURN *** [6s 6c 4s] [7s]
+*** RIVER *** [6s 6c 4s 7s] [3d]
+*** SHOW DOWN ***
+FRANCO365: shows [Tc 8s] (a pair of Sixes)
+Moejoekoe86: shows [Td 8d] (a pair of Sixes)
+FRANCO365 collected 120 from side pot-2=20
+Moejoekoe86 collected 120 from side pot-2=20
+king of pol: shows [5c Qd] (a straight, Three to Seven)
+king of pol collected 6870 from side pot-1=20
+danmessi: shows [Qh Ts] (a pair of Sixes)
+king of pol collected 12420 from main pot
+danmessi re-buys and receives 3000 chips for 5 StarsCoin
+*** SUMMARY ***
+Total pot 19530 Main pot 12420. Side pot-1 6870. Side pot-2 240. | Rake 0=
+=20
+Board [6s 6c 4s 7s 3d]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi showed [Qh Ts] and lost with a pair of Sixes
+Seat 4: smet181 (button) folded before Flop (didn't bet)
+Seat 5: FRANCO365 (small blind) showed [Tc 8s] and won (120) with a pair of=
+ Sixes
+Seat 6: Moejoekoe86 (big blind) showed [Td 8d] and won (120) with a pair of=
+ Sixes
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: king of pol showed [5c Qd] and won (19290) with a straight, Three t=
+o Seven
+
+
+*********** # 78 **************
+PokerStars Hand #169205182476: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:22:32 CUST [2017/04/18 5:22:32 ET]
+Table '1882735677 15' 9-max Seat #3 is the button
+Seat 1: kremper1 (4260 in chips)=20
+Seat 2: the_wickstar (1900 in chips)=20
+Seat 3: danmessi (3090 in chips)=20
+Seat 4: smet181 (37600 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (20650 in chips)=20
+Seat 7: ask702 (5760 in chips)=20
+Seat 8: mc__cccp__70 (42490 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+smet181: posts small blind 250
+FRANCO365: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 9d]
+Moejoekoe86: calls 500
+ask702: folds=20
+mc__cccp__70: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: folds=20
+smet181: calls 250
+FRANCO365: checks=20
+*** FLOP *** [Js 3d 8d]
+smet181: bets 1000
+FRANCO365: folds=20
+Moejoekoe86: raises 2000 to 3000
+smet181: calls 2000
+*** TURN *** [Js 3d 8d] [Ad]
+smet181: bets 34040 and is all-in
+Moejoekoe86: folds=20
+Uncalled bet (34040) returned to smet181
+smet181 collected 7980 from pot
+*** SUMMARY ***
+Total pot 7980 | Rake 0=20
+Board [Js 3d 8d Ad]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi (button) folded before Flop (didn't bet)
+Seat 4: smet181 (small blind) collected (7980)
+Seat 5: FRANCO365 (big blind) folded on the Flop
+Seat 6: Moejoekoe86 folded on the Turn
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+
+
+*********** # 79 **************
+PokerStars Hand #169205171211: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:22:03 CUST [2017/04/18 5:22:03 ET]
+Table '1882735677 15' 9-max Seat #2 is the button
+Seat 1: kremper1 (4320 in chips)=20
+Seat 2: the_wickstar (1960 in chips)=20
+Seat 3: danmessi (3400 in chips)=20
+Seat 4: smet181 (44650 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (7050 in chips)=20
+Seat 7: ask702 (5820 in chips)=20
+Seat 8: mc__cccp__70 (42550 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+danmessi: posts small blind 250
+smet181: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 5s]
+FRANCO365: raises 5440 to 5940 and is all-in
+Moejoekoe86: raises 1050 to 6990 and is all-in
+ask702: folds=20
+mc__cccp__70: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: folds=20
+smet181: calls 6490
+*** FLOP *** [Qh 3c Kc]
+*** TURN *** [Qh 3c Kc] [Jd]
+*** RIVER *** [Qh 3c Kc Jd] [8c]
+*** SHOW DOWN ***
+smet181: shows [9c 9d] (a pair of Nines)
+Moejoekoe86: shows [Ac Qc] (a flush, Ace high)
+Moejoekoe86 collected 2100 from side pot
+FRANCO365: shows [Kh Jc] (two pair, Kings and Jacks)
+Moejoekoe86 collected 18550 from main pot
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 20650 Main pot 18550. Side pot 2100. | Rake 0=20
+Board [Qh 3c Kc Jd 8c]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar (button) folded before Flop (didn't bet)
+Seat 3: danmessi (small blind) folded before Flop
+Seat 4: smet181 (big blind) showed [9c 9d] and lost with a pair of Nines
+Seat 5: FRANCO365 showed [Kh Jc] and lost with two pair, Kings and Jacks
+Seat 6: Moejoekoe86 showed [Ac Qc] and won (20650) with a flush, Ace high
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+
+
+*********** # 80 **************
+PokerStars Hand #169205149061: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:21:07 CUST [2017/04/18 5:21:07 ET]
+Table '1882735677 15' 9-max Seat #1 is the button
+Seat 1: kremper1 (4380 in chips)=20
+Seat 2: the_wickstar (2270 in chips)=20
+Seat 3: danmessi (22450 in chips)=20
+Seat 4: smet181 (19050 in chips)=20
+Seat 5: FRANCO365 (5940 in chips)=20
+Seat 6: Moejoekoe86 (7110 in chips)=20
+Seat 7: ask702 (5880 in chips)=20
+Seat 8: mc__cccp__70 (42610 in chips)=20
+Seat 9: icharbitro (58527 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+icharbitro: posts the ante 60
+the_wickstar: posts small blind 250
+danmessi: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [5h 7c]
+FRANCO365 said, "si si"
+smet181: raises 500 to 1000
+FRANCO365: raises 4880 to 5880 and is all-in
+Moejoekoe86: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: calls 5380
+smet181: raises 13110 to 18990 and is all-in
+danmessi: calls 13110
+*** FLOP *** [9s 7s 5c]
+*** TURN *** [9s 7s 5c] [Kc]
+*** RIVER *** [9s 7s 5c Kc] [8h]
+*** SHOW DOWN ***
+danmessi: shows [5d Ac] (a pair of Fives)
+smet181: shows [Ks Qs] (a pair of Kings)
+smet181 collected 26220 from side pot
+FRANCO365: shows [As 4d] (high card Ace)
+smet181 collected 18430 from main pot
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 44650 Main pot 18430. Side pot 26220. | Rake 0=20
+Board [9s 7s 5c Kc 8h]
+Seat 1: kremper1 (button) folded before Flop (didn't bet)
+Seat 2: the_wickstar (small blind) folded before Flop
+Seat 3: danmessi (big blind) showed [5d Ac] and lost with a pair of Fives
+Seat 4: smet181 showed [Ks Qs] and won (44650) with a pair of Kings
+Seat 5: FRANCO365 showed [As 4d] and lost with high card Ace
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 81 **************
+PokerStars Hand #169205140914: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:20:46 CUST [2017/04/18 5:20:46 ET]
+Table '1882735677 15' 9-max Seat #9 is the button
+Seat 1: kremper1 (4690 in chips)=20
+Seat 2: the_wickstar (2830 in chips)=20
+Seat 3: danmessi (22510 in chips)=20
+Seat 4: smet181 (19110 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (5880 in chips)=20
+Seat 7: ask702 (5940 in chips)=20
+Seat 8: mc__cccp__70 (42670 in chips) is sitting out
+Seat 9: icharbitro (58587 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+icharbitro: posts the ante 60
+kremper1: posts small blind 250
+the_wickstar: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [3h Qh]
+danmessi: folds=20
+smet181: folds=20
+FRANCO365: folds=20
+the_wickstar said, "lol franco went from $30k to zero"
+mc__cccp__70 has returned
+Moejoekoe86: raises 5320 to 5820 and is all-in
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+Uncalled bet (5320) returned to Moejoekoe86
+Moejoekoe86 collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | Rake 0=20
+Seat 1: kremper1 (small blind) folded before Flop
+Seat 2: the_wickstar (big blind) folded before Flop
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: smet181 folded before Flop (didn't bet)
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 6: Moejoekoe86 collected (1790)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro (button) folded before Flop (didn't bet)
+
+
+*********** # 82 **************
+PokerStars Hand #169205126762: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:20:09 CUST [2017/04/18 5:20:09 ET]
+Table '1882735677 15' 9-max Seat #8 is the button
+Seat 1: kremper1 (5250 in chips)=20
+Seat 2: the_wickstar (2890 in chips)=20
+Seat 3: danmessi (28510 in chips)=20
+Seat 4: smet181 (6000 in chips)=20
+Seat 5: FRANCO365 (6000 in chips)=20
+Seat 6: Moejoekoe86 (5940 in chips)=20
+Seat 7: ask702 (6000 in chips)=20
+Seat 8: mc__cccp__70 (42730 in chips) is sitting out
+Seat 9: icharbitro (58897 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+icharbitro: posts the ante 60
+icharbitro: posts small blind 250
+kremper1: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jh 3s]
+the_wickstar: folds=20
+danmessi: calls 500
+smet181: raises 5440 to 5940 and is all-in
+FRANCO365: calls 5940 and is all-in
+Moejoekoe86: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+danmessi: calls 5440
+*** FLOP *** [9h Qd Ts]
+*** TURN *** [9h Qd Ts] [Td]
+*** RIVER *** [9h Qd Ts Td] [Ac]
+*** SHOW DOWN ***
+danmessi: shows [5s Js] (a pair of Tens)
+smet181: shows [Kd 6d] (a pair of Tens - Ace+King kicker)
+FRANCO365: shows [8d 6h] (a pair of Tens - lower kicker)
+smet181 collected 19110 from pot
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 19110 | Rake 0=20
+Board [9h Qd Ts Td Ac]
+Seat 1: kremper1 (big blind) folded before Flop
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi showed [5s Js] and lost with a pair of Tens
+Seat 4: smet181 showed [Kd 6d] and won (19110) with a pair of Tens
+Seat 5: FRANCO365 showed [8d 6h] and lost with a pair of Tens
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 (button) folded before Flop (didn't bet)
+Seat 9: icharbitro (small blind) folded before Flop
+
+
+*********** # 83 **************
+PokerStars Hand #169205109037: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level X (250/500) - 2017/04/18 19:19:23 CUST [2017/04/18 5:19:23 ET]
+Table '1882735677 15' 9-max Seat #7 is the button
+Seat 1: kremper1 (5310 in chips)=20
+Seat 2: the_wickstar (2950 in chips)=20
+Seat 3: danmessi (28570 in chips)=20
+Seat 4: smet181 (9130 in chips)=20
+Seat 5: FRANCO365 (16212 in chips)=20
+Seat 6: Moejoekoe86 (6000 in chips)=20
+Seat 7: ask702 (9350 in chips)=20
+Seat 8: mc__cccp__70 (43040 in chips)=20
+Seat 9: icharbitro (23655 in chips)=20
+kremper1: posts the ante 60
+the_wickstar: posts the ante 60
+danmessi: posts the ante 60
+smet181: posts the ante 60
+FRANCO365: posts the ante 60
+Moejoekoe86: posts the ante 60
+ask702: posts the ante 60
+mc__cccp__70: posts the ante 60
+icharbitro: posts the ante 60
+mc__cccp__70: posts small blind 250
+icharbitro: posts big blind 500
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 3s]
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: folds=20
+smet181: raises 8570 to 9070 and is all-in
+FRANCO365: raises 7082 to 16152 and is all-in
+Moejoekoe86: folds=20
+ask702: calls 9290 and is all-in
+mc__cccp__70: folds=20
+mc__cccp__70 is sitting out
+icharbitro: calls 15652
+*** FLOP *** [Th As 8s]
+*** TURN *** [Th As 8s] [5c]
+*** RIVER *** [Th As 8s 5c] [Ad]
+*** SHOW DOWN ***
+icharbitro: shows [Ac Ah] (four of a kind, Aces)
+FRANCO365: shows [9c Jc] (a pair of Aces)
+icharbitro collected 13724 from side pot-2=20
+ask702: shows [Kh Jd] (a pair of Aces)
+icharbitro collected 660 from side pot-1=20
+smet181: shows [9d 9h] (two pair, Aces and Nines)
+icharbitro collected 37070 from main pot
+ask702 re-buys and receives 6000 chips for 10 StarsCoin
+FRANCO365 re-buys and receives 6000 chips for 10 StarsCoin
+smet181 re-buys and receives 6000 chips for 10 StarsCoin
+*** SUMMARY ***
+Total pot 51454 Main pot 37070. Side pot-1 660. Side pot-2 13724. | Rake 0=
+=20
+Board [Th As 8s 5c Ad]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: smet181 showed [9d 9h] and lost with two pair, Aces and Nines
+Seat 5: FRANCO365 showed [9c Jc] and lost with a pair of Aces
+Seat 6: Moejoekoe86 folded before Flop (didn't bet)
+Seat 7: ask702 (button) showed [Kh Jd] and lost with a pair of Aces
+Seat 8: mc__cccp__70 (small blind) folded before Flop
+Seat 9: icharbitro (big blind) showed [Ac Ah] and won (51454) with four of =
+a kind, Aces
+
+
+*********** # 84 **************
+PokerStars Hand #169205078019: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:18:02 CUST [2017/04/18 5:18:02 ET]
+Table '1882735677 15' 9-max Seat #5 is the button
+Seat 1: kremper1 (5360 in chips)=20
+Seat 2: the_wickstar (3000 in chips)=20
+Seat 3: danmessi (12160 in chips)=20
+Seat 5: FRANCO365 (28372 in chips)=20
+Seat 7: ask702 (12600 in chips)=20
+Seat 8: mc__cccp__70 (43490 in chips)=20
+Seat 9: icharbitro (24105 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+FRANCO365: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+ask702: posts small blind 200
+mc__cccp__70: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d 7h]
+icharbitro: calls 400
+kremper1 has timed out
+kremper1: folds=20
+kremper1 is sitting out
+the_wickstar: folds=20
+kremper1 has returned
+danmessi: raises 2800 to 3200
+FRANCO365: calls 3200
+ask702: calls 3000
+mc__cccp__70: folds=20
+icharbitro: folds=20
+*** FLOP *** [Ks 3s 3c]
+ask702: checks=20
+danmessi: bets 3200
+FRANCO365: raises 21922 to 25122 and is all-in
+ask702: folds=20
+danmessi: calls 5710 and is all-in
+Uncalled bet (16212) returned to FRANCO365
+*** TURN *** [Ks 3s 3c] [8c]
+*** RIVER *** [Ks 3s 3c 8c] [Th]
+*** SHOW DOWN ***
+danmessi: shows [Ah Ts] (two pair, Tens and Threes)
+FRANCO365: shows [9c 7s] (a pair of Threes)
+danmessi collected 28570 from pot
+*** SUMMARY ***
+Total pot 28570 | Rake 0=20
+Board [Ks 3s 3c 8c Th]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi showed [Ah Ts] and won (28570) with two pair, Tens and Thr=
+ees
+Seat 5: FRANCO365 (button) showed [9c 7s] and lost with a pair of Threes
+Seat 7: ask702 (small blind) folded on the Flop
+Seat 8: mc__cccp__70 (big blind) folded before Flop
+Seat 9: icharbitro folded before Flop
+
+
+*********** # 85 **************
+PokerStars Hand #169205066071: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:17:31 CUST [2017/04/18 5:17:31 ET]
+Table '1882735677 15' 9-max Seat #3 is the button
+Seat 1: kremper1 (5410 in chips)=20
+Seat 2: the_wickstar (3230 in chips)=20
+Seat 3: danmessi (12610 in chips)=20
+Seat 5: FRANCO365 (24118 in chips)=20
+Seat 6: LAPUDAINIS (374 in chips) is sitting out
+Seat 7: ask702 (12650 in chips)=20
+Seat 8: mc__cccp__70 (43540 in chips)=20
+Seat 9: icharbitro (24155 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+FRANCO365: posts the ante 50
+LAPUDAINIS: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+FRANCO365: posts small blind 200
+LAPUDAINIS: posts big blind 324 and is all-in
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh Kc]
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: calls 400
+danmessi: calls 400
+FRANCO365: raises 23668 to 24068 and is all-in
+LAPUDAINIS: folds=20
+the_wickstar: calls 2780 and is all-in
+danmessi: folds=20
+Uncalled bet (20888) returned to FRANCO365
+*** FLOP *** [8h Tc 7s]
+*** TURN *** [8h Tc 7s] [3c]
+*** RIVER *** [8h Tc 7s 3c] [Js]
+*** SHOW DOWN ***
+FRANCO365: shows [Jd 3s] (two pair, Jacks and Threes)
+the_wickstar: shows [Qh Kc] (high card King)
+FRANCO365 collected 5788 from side pot
+FRANCO365 collected 1696 from main pot
+the_wickstar re-buys and receives 3000 chips for 5 StarsCoin
+LAPUDAINIS finished the tournament in 120th place
+*** SUMMARY ***
+Total pot 7484 Main pot 1696. Side pot 5788. | Rake 0=20
+Board [8h Tc 7s 3c Js]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar showed [Qh Kc] and lost with high card King
+Seat 3: danmessi (button) folded before Flop
+Seat 5: FRANCO365 (small blind) showed [Jd 3s] and won (7484) with two pair=
+, Jacks and Threes
+Seat 6: LAPUDAINIS (big blind) folded before Flop
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 86 **************
+PokerStars Hand #169205058249: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:17:11 CUST [2017/04/18 5:17:11 ET]
+Table '1882735677 15' 9-max Seat #2 is the button
+Seat 1: kremper1 (5460 in chips)=20
+Seat 2: the_wickstar (3680 in chips)=20
+Seat 3: danmessi (13060 in chips)=20
+Seat 5: FRANCO365 (22968 in chips)=20
+Seat 6: LAPUDAINIS (424 in chips) is sitting out
+Seat 7: ask702 (12700 in chips)=20
+Seat 8: mc__cccp__70 (43590 in chips)=20
+Seat 9: icharbitro (24205 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+FRANCO365: posts the ante 50
+LAPUDAINIS: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+danmessi: posts small blind 200
+FRANCO365: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Ad]
+LAPUDAINIS: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: calls 400
+danmessi: calls 200
+FRANCO365: raises 22518 to 22918 and is all-in
+the_wickstar: folds=20
+danmessi: folds=20
+Uncalled bet (22518) returned to FRANCO365
+FRANCO365 collected 1600 from pot
+FRANCO365: doesn't show hand=20
+*** SUMMARY ***
+Total pot 1600 | Rake 0=20
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar (button) folded before Flop
+Seat 3: danmessi (small blind) folded before Flop
+Seat 5: FRANCO365 (big blind) collected (1600)
+Seat 6: LAPUDAINIS folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 87 **************
+PokerStars Hand #169205043916: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:16:33 CUST [2017/04/18 5:16:33 ET]
+Table '1882735677 15' 9-max Seat #1 is the button
+Seat 1: kremper1 (5510 in chips)=20
+Seat 2: the_wickstar (3930 in chips)=20
+Seat 3: danmessi (5250 in chips)=20
+Seat 4: daknettis (2060 in chips)=20
+Seat 5: FRANCO365 (28218 in chips)=20
+Seat 6: LAPUDAINIS (474 in chips) is sitting out
+Seat 7: ask702 (12750 in chips)=20
+Seat 8: mc__cccp__70 (43640 in chips)=20
+Seat 9: icharbitro (24255 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+daknettis: posts the ante 50
+FRANCO365: posts the ante 50
+LAPUDAINIS: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+the_wickstar: posts small blind 200
+danmessi: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c 2s]
+daknettis: raises 1610 to 2010 and is all-in
+FRANCO365: raises 26158 to 28168 and is all-in
+LAPUDAINIS: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: calls 4800 and is all-in
+Uncalled bet (22968) returned to FRANCO365
+*** FLOP *** [Qh Qs Kd]
+*** TURN *** [Qh Qs Kd] [Tc]
+*** RIVER *** [Qh Qs Kd Tc] [6h]
+*** SHOW DOWN ***
+danmessi: shows [Kc 2c] (two pair, Kings and Queens)
+FRANCO365: shows [3d Ad] (a pair of Queens)
+danmessi collected 6380 from side pot
+daknettis: shows [3c 6c] (two pair, Queens and Sixes)
+danmessi collected 6680 from main pot
+daknettis finished the tournament in 123rd place
+*** SUMMARY ***
+Total pot 13060 Main pot 6680. Side pot 6380. | Rake 0=20
+Board [Qh Qs Kd Tc 6h]
+Seat 1: kremper1 (button) folded before Flop (didn't bet)
+Seat 2: the_wickstar (small blind) folded before Flop
+Seat 3: danmessi (big blind) showed [Kc 2c] and won (13060) with two pair, =
+Kings and Queens
+Seat 4: daknettis showed [3c 6c] and lost with two pair, Queens and Sixes
+Seat 5: FRANCO365 showed [3d Ad] and lost with a pair of Queens
+Seat 6: LAPUDAINIS folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 88 **************
+PokerStars Hand #169205033625: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:16:07 CUST [2017/04/18 5:16:07 ET]
+Table '1882735677 15' 9-max Seat #9 is the button
+Seat 1: kremper1 (5760 in chips)=20
+Seat 2: the_wickstar (4380 in chips)=20
+Seat 3: danmessi (1450 in chips)=20
+Seat 4: daknettis (2480 in chips)=20
+Seat 5: FRANCO365 (30698 in chips)=20
+Seat 6: LAPUDAINIS (524 in chips) is sitting out
+Seat 7: ask702 (12800 in chips)=20
+Seat 8: mc__cccp__70 (43690 in chips)=20
+Seat 9: icharbitro (24305 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+daknettis: posts the ante 50
+FRANCO365: posts the ante 50
+LAPUDAINIS: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+kremper1: posts small blind 200
+the_wickstar: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c Qs]
+danmessi: raises 1000 to 1400 and is all-in
+daknettis: raises 1030 to 2430 and is all-in
+FRANCO365: raises 28218 to 30648 and is all-in
+LAPUDAINIS: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: folds=20
+Uncalled bet (28218) returned to FRANCO365
+*** FLOP *** [8s 3d 5s]
+*** TURN *** [8s 3d 5s] [7d]
+*** RIVER *** [8s 3d 5s 7d] [Qd]
+*** SHOW DOWN ***
+daknettis: shows [Jc Js] (a pair of Jacks)
+FRANCO365: shows [Ad Kh] (high card Ace)
+daknettis collected 2060 from side pot
+danmessi: shows [Qc As] (a pair of Queens)
+danmessi collected 5250 from main pot
+*** SUMMARY ***
+Total pot 7310 Main pot 5250. Side pot 2060. | Rake 0=20
+Board [8s 3d 5s 7d Qd]
+Seat 1: kremper1 (small blind) folded before Flop
+Seat 2: the_wickstar (big blind) folded before Flop
+Seat 3: danmessi showed [Qc As] and won (5250) with a pair of Queens
+Seat 4: daknettis showed [Jc Js] and won (2060) with a pair of Jacks
+Seat 5: FRANCO365 showed [Ad Kh] and lost with high card Ace
+Seat 6: LAPUDAINIS folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro (button) folded before Flop (didn't bet)
+
+
+*********** # 89 **************
+PokerStars Hand #169205020483: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:15:32 CUST [2017/04/18 5:15:32 ET]
+Table '1882735677 15' 9-max Seat #8 is the button
+Seat 1: kremper1 (6210 in chips)=20
+Seat 2: the_wickstar (4430 in chips)=20
+Seat 3: danmessi (1500 in chips)=20
+Seat 4: daknettis (2530 in chips)=20
+Seat 5: FRANCO365 (36648 in chips)=20
+Seat 7: ask702 (5950 in chips)=20
+Seat 8: mc__cccp__70 (43740 in chips)=20
+Seat 9: icharbitro (24555 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+daknettis: posts the ante 50
+FRANCO365: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+icharbitro: posts small blind 200
+kremper1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 6c]
+the_wickstar: folds=20
+danmessi: folds=20
+daknettis: folds=20
+FRANCO365: raises 1400 to 1800
+ask702: raises 4100 to 5900 and is all-in
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+FRANCO365: calls 4100
+*** FLOP *** [9h 5s 5d]
+*** TURN *** [9h 5s 5d] [Qc]
+*** RIVER *** [9h 5s 5d Qc] [6d]
+*** SHOW DOWN ***
+FRANCO365: shows [2h Ah] (a pair of Fives)
+ask702: shows [Qd Ac] (two pair, Queens and Fives)
+ask702 collected 12800 from pot
+*** SUMMARY ***
+Total pot 12800 | Rake 0=20
+Board [9h 5s 5d Qc 6d]
+Seat 1: kremper1 (big blind) folded before Flop
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: daknettis folded before Flop (didn't bet)
+Seat 5: FRANCO365 showed [2h Ah] and lost with a pair of Fives
+Seat 7: ask702 showed [Qd Ac] and won (12800) with two pair, Queens and Fiv=
+es
+Seat 8: mc__cccp__70 (button) folded before Flop (didn't bet)
+Seat 9: icharbitro (small blind) folded before Flop
+
+
+*********** # 90 **************
+PokerStars Hand #169205002234: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level IX (200/400) - 2017/04/18 19:14:44 CUST [2017/04/18 5:14:44 ET]
+Table '1882735677 15' 9-max Seat #7 is the button
+Seat 1: kremper1 (6260 in chips)=20
+Seat 2: the_wickstar (2280 in chips)=20
+Seat 3: danmessi (2350 in chips)=20
+Seat 4: daknettis (2580 in chips)=20
+Seat 5: FRANCO365 (36698 in chips)=20
+Seat 7: ask702 (6000 in chips)=20
+Seat 8: mc__cccp__70 (43990 in chips)=20
+Seat 9: icharbitro (25405 in chips)=20
+kremper1: posts the ante 50
+the_wickstar: posts the ante 50
+danmessi: posts the ante 50
+daknettis: posts the ante 50
+FRANCO365: posts the ante 50
+ask702: posts the ante 50
+mc__cccp__70: posts the ante 50
+icharbitro: posts the ante 50
+mc__cccp__70: posts small blind 200
+icharbitro: posts big blind 400
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh Jh]
+kremper1: folds=20
+the_wickstar: raises 400 to 800
+danmessi: calls 800
+daknettis: folds=20
+FRANCO365: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: calls 400
+*** FLOP *** [5h 9s Td]
+icharbitro: checks=20
+the_wickstar: checks=20
+danmessi: checks=20
+*** TURN *** [5h 9s Td] [Qs]
+icharbitro: checks=20
+the_wickstar: bets 1430 and is all-in
+danmessi: folds=20
+icharbitro: folds=20
+Uncalled bet (1430) returned to the_wickstar
+the_wickstar collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0=20
+Board [5h 9s Td Qs]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar collected (3000)
+Seat 3: danmessi folded on the Turn
+Seat 4: daknettis folded before Flop (didn't bet)
+Seat 5: FRANCO365 folded before Flop (didn't bet)
+Seat 7: ask702 (button) folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 (small blind) folded before Flop
+Seat 9: icharbitro (big blind) folded on the Turn
+
+
+*********** # 91 **************
+PokerStars Hand #169204985933: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level VIII (150/300) - 2017/04/18 19:14:01 CUST [2017/04/18 5:14:01 ET]
+Table '1882735677 15' 9-max Seat #5 is the button
+Seat 1: kremper1 (6300 in chips)=20
+Seat 2: the_wickstar (2620 in chips)=20
+Seat 3: danmessi (2390 in chips)=20
+Seat 4: daknettis (2620 in chips)=20
+Seat 5: FRANCO365 (18120 in chips)=20
+Seat 6: vodila310 (12898 in chips)=20
+Seat 7: ask702 (5140 in chips)=20
+Seat 8: mc__cccp__70 (44030 in chips)=20
+Seat 9: icharbitro (25445 in chips)=20
+kremper1: posts the ante 40
+the_wickstar: posts the ante 40
+danmessi: posts the ante 40
+daknettis: posts the ante 40
+FRANCO365: posts the ante 40
+vodila310: posts the ante 40
+ask702: posts the ante 40
+mc__cccp__70: posts the ante 40
+icharbitro: posts the ante 40
+vodila310: posts small blind 150
+ask702: posts big blind 300
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s Ah]
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: calls 300
+danmessi: folds=20
+daknettis: folds=20
+FRANCO365: raises 17780 to 18080 and is all-in
+vodila310: calls 12708 and is all-in
+ask702: calls 4800 and is all-in
+the_wickstar: folds=20
+Uncalled bet (5222) returned to FRANCO365
+*** FLOP *** [3h 5s 4c]
+*** TURN *** [3h 5s 4c] [Ac]
+*** RIVER *** [3h 5s 4c Ac] [Ad]
+*** SHOW DOWN ***
+vodila310: shows [Js Ts] (a pair of Aces)
+FRANCO365: shows [Qc Ks] (a pair of Aces - King kicker)
+FRANCO365 collected 15516 from side pot
+ask702: shows [Kh Th] (a pair of Aces - lower kicker)
+FRANCO365 collected 15960 from main pot
+ask702 re-buys and receives 6000 chips for 10 StarsCoin
+vodila310 finished the tournament in 132nd place
+*** SUMMARY ***
+Total pot 31476 Main pot 15960. Side pot 15516. | Rake 0=20
+Board [3h 5s 4c Ac Ad]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: daknettis folded before Flop (didn't bet)
+Seat 5: FRANCO365 (button) showed [Qc Ks] and won (31476) with a pair of Ac=
+es
+Seat 6: vodila310 (small blind) showed [Js Ts] and lost with a pair of Aces
+Seat 7: ask702 (big blind) showed [Kh Th] and lost with a pair of Aces
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 92 **************
+PokerStars Hand #169204977084: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level VIII (150/300) - 2017/04/18 19:13:38 CUST [2017/04/18 5:13:38 ET]
+Table '1882735677 15' 9-max Seat #4 is the button
+Seat 1: kremper1 (6340 in chips)=20
+Seat 2: the_wickstar (2960 in chips)=20
+Seat 3: danmessi (2430 in chips)=20
+Seat 4: daknettis (2660 in chips)=20
+Seat 5: FRANCO365 (17200 in chips)=20
+Seat 6: vodila310 (13238 in chips)=20
+Seat 7: ask702 (5180 in chips)=20
+Seat 8: mc__cccp__70 (44070 in chips)=20
+Seat 9: icharbitro (25485 in chips)=20
+kremper1: posts the ante 40
+the_wickstar: posts the ante 40
+danmessi: posts the ante 40
+daknettis: posts the ante 40
+FRANCO365: posts the ante 40
+vodila310: posts the ante 40
+ask702: posts the ante 40
+mc__cccp__70: posts the ante 40
+icharbitro: posts the ante 40
+FRANCO365: posts small blind 150
+vodila310: posts big blind 300
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d Kh]
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: folds=20
+kremper1: folds=20
+the_wickstar: calls 300
+danmessi: folds=20
+daknettis: folds=20
+FRANCO365: raises 16860 to 17160 and is all-in
+vodila310: folds=20
+the_wickstar: folds=20
+Uncalled bet (16860) returned to FRANCO365
+FRANCO365 collected 1260 from pot
+FRANCO365: doesn't show hand=20
+*** SUMMARY ***
+Total pot 1260 | Rake 0=20
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop
+Seat 3: danmessi folded before Flop (didn't bet)
+Seat 4: daknettis (button) folded before Flop (didn't bet)
+Seat 5: FRANCO365 (small blind) collected (1260)
+Seat 6: vodila310 (big blind) folded before Flop
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #169204963723: Tournament #1882735677, 5 SC Hold'em No Limi=
+t - Level VIII (150/300) - 2017/04/18 19:13:02 CUST [2017/04/18 5:13:02 ET]
+Table '1882735677 15' 9-max Seat #3 is the button
+Seat 1: kremper1 (6380 in chips)=20
+Seat 2: the_wickstar (3000 in chips)=20
+Seat 3: danmessi (2470 in chips)=20
+Seat 4: daknettis (3000 in chips)=20
+Seat 5: FRANCO365 (17540 in chips)=20
+Seat 6: vodila310 (13278 in chips)=20
+Seat 7: ask702 (5220 in chips)=20
+Seat 8: mc__cccp__70 (44110 in chips)=20
+Seat 9: icharbitro (24565 in chips)=20
+kremper1: posts the ante 40
+the_wickstar: posts the ante 40
+danmessi: posts the ante 40
+daknettis: posts the ante 40
+FRANCO365: posts the ante 40
+vodila310: posts the ante 40
+ask702: posts the ante 40
+mc__cccp__70: posts the ante 40
+icharbitro: posts the ante 40
+daknettis: posts small blind 150
+FRANCO365: posts big blind 300
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Ts]
+vodila310: folds=20
+ask702: folds=20
+mc__cccp__70: folds=20
+icharbitro: calls 300
+kremper1: folds=20
+the_wickstar: folds=20
+danmessi: folds=20
+daknettis: calls 150
+FRANCO365: checks=20
+*** FLOP *** [4h Kh Ah]
+daknettis: checks=20
+FRANCO365: checks=20
+icharbitro: bets 300
+daknettis: folds=20
+FRANCO365: folds=20
+Uncalled bet (300) returned to icharbitro
+icharbitro collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | Rake 0=20
+Board [4h Kh Ah]
+Seat 1: kremper1 folded before Flop (didn't bet)
+Seat 2: the_wickstar folded before Flop (didn't bet)
+Seat 3: danmessi (button) folded before Flop (didn't bet)
+Seat 4: daknettis (small blind) folded on the Flop
+Seat 5: FRANCO365 (big blind) folded on the Flop
+Seat 6: vodila310 folded before Flop (didn't bet)
+Seat 7: ask702 folded before Flop (didn't bet)
+Seat 8: mc__cccp__70 folded before Flop (didn't bet)
+Seat 9: icharbitro collected (1260)
+
+
+*********** # 94 **************
+PokerStars Hand #169202507365:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 17:03:39 CUST [2017/04/18 3:03:39 ET]
+Table 'Smuts' 9-max Seat #5 is the button
+Seat 1: Kn=EEght--N=EEco ($1.03 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.92 in chips)=20
+Seat 4: GYCO 75 ($2.19 in chips)=20
+Seat 5: the_wickstar ($3.45 in chips)=20
+Seat 6: R.Sergei.rus ($1.92 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+R.Sergei.rus: posts small blind $0.01
+sunnytrader: posts big blind $0.02
+Litix: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c 6d]
+Kn=EEght--N=EEco: folds=20
+ThankYou417: folds=20
+tot12369: folds=20
+jaggerbkclli joins the table at seat #7=20
+GYCO 75: folds=20
+the_wickstar: folds=20
+the_wickstar leaves the table
+R.Sergei.rus: raises $0.04 to $0.06
+sunnytrader: folds=20
+Uncalled bet ($0.04) returned to R.Sergei.rus
+R.Sergei.rus collected $0.04 from pot
+R.Sergei.rus: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Kn=EEght--N=EEco folded before Flop (didn't bet)
+Seat 2: ThankYou417 folded before Flop (didn't bet)
+Seat 3: tot12369 folded before Flop (didn't bet)
+Seat 4: GYCO 75 folded before Flop (didn't bet)
+Seat 5: the_wickstar (button) folded before Flop (didn't bet)
+Seat 6: R.Sergei.rus (small blind) collected ($0.04)
+Seat 8: sunnytrader (big blind) folded before Flop
+
+
+*********** # 95 **************
+PokerStars Hand #169202500246:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 17:03:14 CUST [2017/04/18 3:03:14 ET]
+Table 'Smuts' 9-max Seat #4 is the button
+Seat 1: Kn=EEght--N=EEco ($1.03 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.92 in chips)=20
+Seat 4: GYCO 75 ($2.19 in chips)=20
+Seat 5: the_wickstar ($3.46 in chips)=20
+Seat 6: R.Sergei.rus ($1.91 in chips)=20
+Seat 7: Sineie ($2.07 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+the_wickstar: posts small blind $0.01
+R.Sergei.rus: posts big blind $0.02
+Litix: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5h Qh]
+Sineie: folds=20
+Sineie leaves the table
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+ThankYou417: folds=20
+the_wickstar said, "slow played that queen hey ? ;)"
+tot12369: folds=20
+GYCO 75: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.01) returned to R.Sergei.rus
+R.Sergei.rus collected $0.02 from pot
+R.Sergei.rus: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: Kn=EEght--N=EEco folded before Flop (didn't bet)
+Seat 2: ThankYou417 folded before Flop (didn't bet)
+Seat 3: tot12369 folded before Flop (didn't bet)
+Seat 4: GYCO 75 (button) folded before Flop (didn't bet)
+Seat 5: the_wickstar (small blind) folded before Flop
+Seat 6: R.Sergei.rus (big blind) collected ($0.02)
+Seat 7: Sineie folded before Flop (didn't bet)
+Seat 8: sunnytrader folded before Flop (didn't bet)
+
+
+*********** # 96 **************
+PokerStars Hand #169202475482:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 17:01:45 CUST [2017/04/18 3:01:45 ET]
+Table 'Smuts' 9-max Seat #3 is the button
+Seat 1: Kn=EEght--N=EEco ($1.03 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.92 in chips)=20
+Seat 4: GYCO 75 ($2.01 in chips)=20
+Seat 5: the_wickstar ($3.51 in chips)=20
+Seat 6: R.Sergei.rus ($2.05 in chips)=20
+Seat 7: Sineie ($2.07 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+GYCO 75: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+Litix: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d Kc]
+R.Sergei.rus: calls $0.02
+Sineie: folds=20
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+ThankYou417: folds=20
+tot12369: folds=20
+GYCO 75: calls $0.01
+the_wickstar: checks=20
+*** FLOP *** [Qc 9s 3h]
+GYCO 75: checks=20
+the_wickstar: checks=20
+R.Sergei.rus: bets $0.03
+GYCO 75: calls $0.03
+the_wickstar: calls $0.03
+*** TURN *** [Qc 9s 3h] [5s]
+GYCO 75: checks=20
+the_wickstar: checks=20
+R.Sergei.rus: bets $0.09
+GYCO 75: calls $0.09
+the_wickstar: folds=20
+*** RIVER *** [Qc 9s 3h 5s] [8h]
+GYCO 75: checks=20
+R.Sergei.rus: checks=20
+*** SHOW DOWN ***
+GYCO 75: shows [8c Qh] (two pair, Queens and Eights)
+R.Sergei.rus: mucks hand=20
+GYCO 75 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01=20
+Board [Qc 9s 3h 5s 8h]
+Seat 1: Kn=EEght--N=EEco folded before Flop (didn't bet)
+Seat 2: ThankYou417 folded before Flop (didn't bet)
+Seat 3: tot12369 (button) folded before Flop (didn't bet)
+Seat 4: GYCO 75 (small blind) showed [8c Qh] and won ($0.32) with two pair,=
+ Queens and Eights
+Seat 5: the_wickstar (big blind) folded on the Turn
+Seat 6: R.Sergei.rus mucked [5d Ad]
+Seat 7: Sineie folded before Flop (didn't bet)
+Seat 8: sunnytrader folded before Flop (didn't bet)
+
+
+*********** # 97 **************
+PokerStars Hand #169202462725:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 17:00:59 CUST [2017/04/18 3:00:59 ET]
+Table 'Smuts' 9-max Seat #2 is the button
+Seat 1: Kn=EEght--N=EEco ($1.03 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.93 in chips)=20
+Seat 4: GYCO 75 ($2.03 in chips)=20
+Seat 5: the_wickstar ($3.48 in chips)=20
+Seat 6: R.Sergei.rus ($2.05 in chips)=20
+Seat 7: Sineie ($2.07 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+tot12369: posts small blind $0.01
+GYCO 75: posts big blind $0.02
+Litix: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Ac]
+the_wickstar: calls $0.02
+R.Sergei.rus: folds=20
+Sineie: folds=20
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+ThankYou417: folds=20
+tot12369: folds=20
+GYCO 75: checks=20
+*** FLOP *** [Ad Js 6c]
+GYCO 75: checks=20
+the_wickstar: bets $0.10
+GYCO 75: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [Ad Js 6c]
+Seat 1: Kn=EEght--N=EEco folded before Flop (didn't bet)
+Seat 2: ThankYou417 (button) folded before Flop (didn't bet)
+Seat 3: tot12369 (small blind) folded before Flop
+Seat 4: GYCO 75 (big blind) folded on the Flop
+Seat 5: the_wickstar collected ($0.05)
+Seat 6: R.Sergei.rus folded before Flop (didn't bet)
+Seat 7: Sineie folded before Flop (didn't bet)
+Seat 8: sunnytrader folded before Flop (didn't bet)
+
+
+*********** # 98 **************
+PokerStars Hand #169202454111:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 17:00:27 CUST [2017/04/18 3:00:27 ET]
+Table 'Smuts' 9-max Seat #1 is the button
+Seat 1: Kn=EEght--N=EEco ($1.03 in chips)=20
+Seat 2: ThankYou417 ($1.95 in chips)=20
+Seat 3: tot12369 ($1.95 in chips)=20
+Seat 4: GYCO 75 ($2.03 in chips)=20
+Seat 5: the_wickstar ($3.48 in chips)=20
+Seat 6: R.Sergei.rus ($2.05 in chips)=20
+Seat 7: Sineie ($2.07 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+ThankYou417: posts small blind $0.01
+tot12369: posts big blind $0.02
+Litix: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 3h]
+GYCO 75: folds=20
+the_wickstar: folds=20
+R.Sergei.rus: folds=20
+Sineie: folds=20
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+ThankYou417: raises $0.05 to $0.07
+tot12369: folds=20
+Uncalled bet ($0.05) returned to ThankYou417
+ThankYou417 collected $0.04 from pot
+ThankYou417: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: Kn=EEght--N=EEco (button) folded before Flop (didn't bet)
+Seat 2: ThankYou417 (small blind) collected ($0.04)
+Seat 3: tot12369 (big blind) folded before Flop
+Seat 4: GYCO 75 folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: R.Sergei.rus folded before Flop (didn't bet)
+Seat 7: Sineie folded before Flop (didn't bet)
+Seat 8: sunnytrader folded before Flop (didn't bet)
+
+
+*********** # 99 **************
+PokerStars Hand #169202441319:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 16:59:33 CUST [2017/04/18 2:59:33 ET]
+Table 'Smuts' 9-max Seat #8 is the button
+Seat 1: Kn=EEght--N=EEco ($1.04 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.95 in chips)=20
+Seat 4: GYCO 75 ($2.03 in chips)=20
+Seat 5: the_wickstar ($3.36 in chips)=20
+Seat 6: R.Sergei.rus ($2.05 in chips)=20
+Seat 7: Sineie ($2.17 in chips)=20
+Seat 8: sunnytrader ($2.74 in chips)=20
+Litix will be allowed to play after the button
+Kn=EEght--N=EEco: posts small blind $0.01
+ThankYou417: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kh Kc]
+tot12369: folds=20
+GYCO 75: folds=20
+the_wickstar: raises $0.08 to $0.10
+R.Sergei.rus: folds=20
+Sineie: calls $0.10
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+ThankYou417: folds=20
+*** FLOP *** [7c 5s 7d]
+the_wickstar: bets $0.22
+Sineie: folds=20
+Uncalled bet ($0.22) returned to the_wickstar
+the_wickstar collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01=20
+Board [7c 5s 7d]
+Seat 1: Kn=EEght--N=EEco (small blind) folded before Flop
+Seat 2: ThankYou417 (big blind) folded before Flop
+Seat 3: tot12369 folded before Flop (didn't bet)
+Seat 4: GYCO 75 folded before Flop (didn't bet)
+Seat 5: the_wickstar collected ($0.22)
+Seat 6: R.Sergei.rus folded before Flop (didn't bet)
+Seat 7: Sineie folded on the Flop
+Seat 8: sunnytrader (button) folded before Flop (didn't bet)
+
+
+*********** # 100 **************
+PokerStars Hand #169202431085:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/0=
+4/18 16:58:53 CUST [2017/04/18 2:58:53 ET]
+Table 'Smuts' 9-max Seat #7 is the button
+Seat 1: Kn=EEght--N=EEco ($1.06 in chips)=20
+Seat 2: ThankYou417 ($1.97 in chips)=20
+Seat 3: tot12369 ($1.97 in chips)=20
+Seat 4: GYCO 75 ($2.03 in chips)=20
+Seat 5: the_wickstar ($3.36 in chips)=20
+Seat 6: R.Sergei.rus ($2 in chips)=20
+Seat 7: Sineie ($2.17 in chips)=20
+Seat 8: sunnytrader ($2.75 in chips)=20
+sunnytrader: posts small blind $0.01
+Kn=EEght--N=EEco: posts big blind $0.02
+R.Sergei.rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d 8c]
+ThankYou417: folds=20
+tot12369: calls $0.02
+GYCO 75: folds=20
+the_wickstar: folds=20
+R.Sergei.rus: raises $0.08 to $0.10
+Sineie: folds=20
+sunnytrader: folds=20
+Kn=EEght--N=EEco: folds=20
+tot12369: folds=20
+Uncalled bet ($0.08) returned to R.Sergei.rus
+R.Sergei.rus collected $0.07 from pot
+R.Sergei.rus: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: Kn=EEght--N=EEco (big blind) folded before Flop
+Seat 2: ThankYou417 folded before Flop (didn't bet)
+Seat 3: tot12369 folded before Flop
+Seat 4: GYCO 75 folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: R.Sergei.rus collected ($0.07)
+Seat 7: Sineie (button) folded before Flop (didn't bet)
+Seat 8: sunnytrader (small blind) folded before Flop
+
+
+
+If you have any questions, please contact us at "PokerStars Support" <suppo=
+rt@pokerstars.com>
+
+

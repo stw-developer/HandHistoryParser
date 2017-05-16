@@ -1,0 +1,1310 @@
+Delivered-To: sherhan.wicky@gmail.com
+Received: by 10.79.136.132 with SMTP id k126csp1866575ivd;
+        Mon, 8 May 2017 07:08:04 -0700 (PDT)
+X-Received: by 10.28.194.85 with SMTP id s82mr11917174wmf.127.1494252484290;
+        Mon, 08 May 2017 07:08:04 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1494252484; cv=none;
+        d=google.com; s=arc-20160816;
+        b=pEPhVXK1dvbvXkWuzpTaZJniCmkMStlDOBocYAfGaJcXul8JYnzxsMrE/REdnS7qC2
+         EDPst4RJ1+PVYvuHRmMXZw0FaKMLVOPFGvyZbGwWDCHA+0mKNFttAwlGUgrbTydYKS6A
+         Xf14oMKLYP4IsWWh0yMCTZxu5ll3/tCfjQ2O6PVcprGc2+9YtqIWky6th2aeB6sHa4fQ
+         /2d/a2QZInYGmHFcPhXhkC4BFSj++cC49OwbLjbplGHt6rjcLby3yv0n2K7rGEbRgGTc
+         X7rH35kDKNDnmX99iJdJqhEn6TyZSRSNLtjNBQDhaDhunYFmnluxxGrVuJlT/kBsK/Xa
+         xg5g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:message-id:subject:to:from
+         :date:dkim-signature:arc-authentication-results;
+        bh=fem5b2gVo8jVrA2q5mPRCCjlC+4+WreT+LaWIWFXQRM=;
+        b=xsEdEIzX2rpYlJ+sEntWRlZb0JVOa61DfC3MlJ2Co2RRk//m/DiyAW4kcEDieL95lG
+         KTsU+e3HeXpsniL04ax3W1NRHTcPdlBS6TbO9+88MgQs90nO6BFh/AQNCjE2PzvSMxkb
+         ziAoZ8JHdDhysu1/6qRyzZbgUCNrRdA33UsGj9wp5hTaS8CEf+uUqOtlm4D/PvXb2pLL
+         p4L0UOBBMERXhQY7upD26I+EiaSZB2a4JJnNwgQG9TleXBvooh/sVEqe/QW9v0DtKLFv
+         0EJyDWyu9J5lF88Vn9qeSVW5Bmf4M9+H6onGwvX5pMKXfgDboSPdVkwkQu4wxPPPgj3n
+         eQNg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=pokerstars.com
+Return-Path: <support@pokerstars.com>
+Received: from mx13.pokerstars.eu (mx13.pokerstars.eu. [77.87.179.125])
+        by mx.google.com with ESMTPS id a31si14496527wrc.277.2017.05.08.07.08.03
+        for <sherhan.wicky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 08 May 2017 07:08:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) client-ip=77.87.179.125;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=pokerstars.com
+Received: by mx13.pokerstars.eu (mailer, from userid 4004)
+	id BF00D1402080; Mon,  8 May 2017 10:07:48 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pokerstars.com; h=date
+	:from:to:subject:message-id:mime-version:content-type
+	:content-transfer-encoding; s=s1024; bh=Hr2Ss6rt5MFKBRYCfOD2uYIk
+	SAM=; b=hG0PzXVpQB7Zg+ohGA5jmEkbqh7r8d8ktVqcNdrwKeM3RP7o4Nw6SXSO
+	6kPXHXNETDQsjcT6F5c4cRJ1mFmX46JofX+vm+4tnQToCRG+U/LZi7ISHXpYU3jm
+	s1+a1jHbJdZukhzpyG5ovSHEqy02LyVqv6UanNt9Y/HgcdRnuC8=
+X-PS-ID: c2hlcmhhbi53aWNreUBnbWFpbC5jb20=
+Received: from pokerstars.com (unknown [192.168.8.81])
+	by mx13.pokerstars.eu (mailer) with SMTP id A99101401E4B
+	for <sherhan.wicky@gmail.com>; Mon,  8 May 2017 10:07:48 -0400 (EDT)
+Date: Mon, 8 May 2017 10:07:48 -0400
+From: "PokerStars Support" <support@pokerstars.com>
+To: sherhan.wicky@gmail.com
+Subject: PokerStars Hand History Request - last 3 hours of play
+Message-Id: <59107BB4.C53014391AB8F4@pokerstars.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Transcript for last 3 hours of play requested by the_wickstar (sherhan.=
+wicky@gmail.com)
+
+*********** # 1 **************
+PokerStars Hand #170123828305:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:42:43 CUST [2017/05/08 8:42:43 ET]
+Table 'Bitias' 9-max Seat #9 is the button
+Seat 1: CherT678 ($2 in chips)=20
+Seat 3: barabara99 ($3.96 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($3.01 in chips)=20
+Seat 6: Paul=A0Staff ($1.96 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 8: WebCamSasha ($2 in chips)=20
+Seat 9: kuvasik ($0.71 in chips)=20
+CherT678: posts small blind $0.01
+SYROJA: is sitting out=20
+barabara99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 6c]
+dymarko: folds=20
+ArfurDaley: folds=20
+Paul=A0Staff: folds=20
+the_wickstar is disconnected=20
+the_wickstar has timed out while disconnected
+the_wickstar: folds=20
+WebCamSasha: folds=20
+kuvasik: folds=20
+CherT678: folds=20
+Uncalled bet ($0.01) returned to barabara99
+barabara99 collected $0.02 from pot
+barabara99: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: CherT678 (small blind) folded before Flop
+Seat 3: barabara99 (big blind) collected ($0.02)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 6: Paul=A0Staff folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: WebCamSasha folded before Flop (didn't bet)
+Seat 9: kuvasik (button) folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #170123809827:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:42:08 CUST [2017/05/08 8:42:08 ET]
+Table 'Diphda II' 9-max Seat #3 is the button
+Seat 1: ArfurDaley ($2.16 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.52 in chips)=20
+Seat 4: lPrestigel ($2.97 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2.03 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.02 in chips)=20
+lPrestigel: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 6c]
+NightStarUz: folds=20
+szerszenie: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: raises $0.03 to $0.05
+lPrestigel: calls $0.04
+the_wickstar is disconnected=20
+the_wickstar has timed out while disconnected
+the_wickstar: folds=20
+*** FLOP *** [4c 9c Qc]
+lPrestigel: checks=20
+starinagenry: bets $0.06
+lPrestigel: folds=20
+Uncalled bet ($0.06) returned to starinagenry
+starinagenry collected $0.12 from pot
+starinagenry: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Board [4c 9c Qc]
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry (button) collected ($0.12)
+Seat 4: lPrestigel (small blind) folded on the Flop
+Seat 5: the_wickstar (big blind) folded before Flop
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 8: szerszenie folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #170123798490:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:41:46 CUST [2017/05/08 8:41:46 ET]
+Table 'Bitias' 9-max Seat #8 is the button
+Seat 1: CherT678 ($2 in chips)=20
+Seat 2: SYROJA ($2.07 in chips)=20
+Seat 3: barabara99 ($3.82 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($3.01 in chips)=20
+Seat 6: Paul=A0Staff ($2.08 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 8: WebCamSasha ($2 in chips)=20
+Seat 9: kuvasik ($0.72 in chips)=20
+kuvasik: posts small blind $0.01
+CherT678: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 5d]
+SYROJA: folds=20
+barabara99: raises $0.10 to $0.12
+dymarko: folds=20
+ArfurDaley: folds=20
+Paul=A0Staff: calls $0.12
+the_wickstar: folds=20
+WebCamSasha: folds=20
+kuvasik: folds=20
+CherT678: folds=20
+*** FLOP *** [9h 2c 2h]
+barabara99: bets $0.36
+Paul=A0Staff: folds=20
+Uncalled bet ($0.36) returned to barabara99
+barabara99 collected $0.26 from pot
+barabara99: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [9h 2c 2h]
+Seat 1: CherT678 (big blind) folded before Flop
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 collected ($0.26)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 6: Paul=A0Staff folded on the Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: WebCamSasha (button) folded before Flop (didn't bet)
+Seat 9: kuvasik (small blind) folded before Flop
+
+
+*********** # 4 **************
+PokerStars Hand #170123795209:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:41:40 CUST [2017/05/08 8:41:40 ET]
+Table 'Diphda II' 9-max Seat #2 is the button
+Seat 1: ArfurDaley ($2.16 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.53 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.02 in chips)=20
+starinagenry: posts small blind $0.01
+lPrestigel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Td]
+the_wickstar: folds=20
+NightStarUz: raises $0.02 to $0.04
+szerszenie: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+Uncalled bet ($0.02) returned to NightStarUz
+NightStarUz collected $0.05 from pot
+NightStarUz: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert (button) folded before Flop (didn't bet)
+Seat 3: starinagenry (small blind) folded before Flop
+Seat 4: lPrestigel (big blind) folded before Flop
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz collected ($0.05)
+Seat 8: szerszenie folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #170123773240:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:40:58 CUST [2017/05/08 8:40:58 ET]
+Table 'Bitias' 9-max Seat #7 is the button
+Seat 2: SYROJA ($2.07 in chips)=20
+Seat 3: barabara99 ($3.82 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($2.98 in chips)=20
+Seat 6: Paul=A0Staff ($2.08 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 8: WebCamSasha ($2 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+WebCamSasha: posts small blind $0.01
+kuvasik: posts big blind $0.02
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Jd]
+SYROJA: folds=20
+barabara99: folds=20
+dymarko: folds=20
+ArfurDaley: raises $0.04 to $0.06
+Paul=A0Staff: folds=20
+the_wickstar: folds=20
+WebCamSasha: folds=20
+kuvasik: folds=20
+Uncalled bet ($0.04) returned to ArfurDaley
+ArfurDaley collected $0.05 from pot
+ArfurDaley: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 folded before Flop (didn't bet)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley collected ($0.05)
+Seat 6: Paul=A0Staff folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) folded before Flop (didn't bet)
+Seat 8: WebCamSasha (small blind) folded before Flop
+Seat 9: kuvasik (big blind) folded before Flop
+
+
+*********** # 6 **************
+PokerStars Hand #170123763094:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:40:39 CUST [2017/05/08 8:40:39 ET]
+Table 'Diphda II' 9-max Seat #1 is the button
+Seat 1: ArfurDaley ($2.22 in chips)=20
+Seat 2: Retinert ($1.45 in chips)=20
+Seat 3: starinagenry ($1.46 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.02 in chips)=20
+Retinert: posts small blind $0.01
+starinagenry: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8c 5d]
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+szerszenie: folds=20
+shhhappend: folds=20
+ArfurDaley: raises $0.04 to $0.06
+Retinert: folds=20
+starinagenry: calls $0.04
+*** FLOP *** [2s 9h Qs]
+starinagenry: checks=20
+ArfurDaley: checks=20
+*** TURN *** [2s 9h Qs] [8d]
+starinagenry: bets $0.04
+ArfurDaley: folds=20
+Uncalled bet ($0.04) returned to starinagenry
+starinagenry collected $0.13 from pot
+starinagenry: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [2s 9h Qs 8d]
+Seat 1: ArfurDaley (button) folded on the Turn
+Seat 2: Retinert (small blind) folded before Flop
+Seat 3: starinagenry (big blind) collected ($0.13)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 8: szerszenie folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #170123750862:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:40:15 CUST [2017/05/08 8:40:15 ET]
+Table 'Diphda II' 9-max Seat #9 is the button
+Seat 1: ArfurDaley ($2.23 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.46 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.02 in chips)=20
+ArfurDaley: posts small blind $0.01
+Retinert: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h Ah]
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+szerszenie: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Uncalled bet ($0.01) returned to Retinert
+Retinert collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: ArfurDaley (small blind) folded before Flop
+Seat 2: Retinert (big blind) collected ($0.02)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 8: szerszenie folded before Flop (didn't bet)
+Seat 9: shhhappend (button) folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #170123749660:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:40:13 CUST [2017/05/08 8:40:13 ET]
+Table 'Bitias' 9-max Seat #6 is the button
+Seat 2: SYROJA ($2.07 in chips)=20
+Seat 3: barabara99 ($3.94 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($2.98 in chips)=20
+Seat 6: Paul=A0Staff ($1.93 in chips)=20
+Seat 7: the_wickstar ($2.59 in chips)=20
+Seat 8: WebCamSasha ($2 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+the_wickstar: posts small blind $0.01
+WebCamSasha: posts big blind $0.02
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jc 5h]
+kuvasik: folds=20
+SYROJA: folds=20
+barabara99: raises $0.10 to $0.12
+dymarko: folds=20
+ArfurDaley: folds=20
+Paul=A0Staff: raises $0.18 to $0.30
+the_wickstar: folds=20
+WebCamSasha: folds=20
+barabara99: folds=20
+Uncalled bet ($0.18) returned to Paul=A0Staff
+Paul=A0Staff collected $0.27 from pot
+Paul=A0Staff: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.27 | Rake $0=20
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 folded before Flop
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 6: Paul=A0Staff (button) collected ($0.27)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: WebCamSasha (big blind) folded before Flop
+Seat 9: kuvasik folded before Flop (didn't bet)
+
+
+*********** # 9 **************
+PokerStars Hand #170123730717:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:39:37 CUST [2017/05/08 8:39:37 ET]
+Table 'Bitias' 9-max Seat #5 is the button
+Seat 2: SYROJA ($2.07 in chips)=20
+Seat 3: barabara99 ($3.94 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($2.98 in chips)=20
+Seat 6: Paul=A0Staff ($1.94 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+Paul=A0Staff: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+WebCamSasha: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s Qc]
+kuvasik: folds=20
+SYROJA: folds=20
+barabara99: folds=20
+dymarko: folds=20
+ArfurDaley: folds=20
+Paul=A0Staff: folds=20
+Uncalled bet ($0.01) returned to the_wickstar
+the_wickstar collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 folded before Flop (didn't bet)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley (button) folded before Flop (didn't bet)
+Seat 6: Paul=A0Staff (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) collected ($0.02)
+Seat 9: kuvasik folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #170123702569:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:38:44 CUST [2017/05/08 8:38:44 ET]
+Table 'Bitias' 9-max Seat #4 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($3.94 in chips)=20
+Seat 4: dymarko ($4.15 in chips)=20
+Seat 5: ArfurDaley ($2.99 in chips)=20
+Seat 6: Paul=A0Staff ($2 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+ArfurDaley: posts small blind $0.01
+Paul=A0Staff: posts big blind $0.02
+WebCamSasha: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9s 4d]
+the_wickstar: folds=20
+kuvasik: folds=20
+SYROJA: raises $0.04 to $0.06
+barabara99: folds=20
+dymarko: folds=20
+ArfurDaley: folds=20
+Paul=A0Staff: calls $0.04
+*** FLOP *** [6c 8c 4c]
+Paul=A0Staff: checks=20
+SYROJA: bets $0.10
+Paul=A0Staff: folds=20
+Uncalled bet ($0.10) returned to SYROJA
+SYROJA collected $0.13 from pot
+SYROJA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [6c 8c 4c]
+Seat 2: SYROJA collected ($0.13)
+Seat 3: barabara99 folded before Flop (didn't bet)
+Seat 4: dymarko (button) folded before Flop (didn't bet)
+Seat 5: ArfurDaley (small blind) folded before Flop
+Seat 6: Paul=A0Staff (big blind) folded on the Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: kuvasik folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #170123681928:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:38:05 CUST [2017/05/08 8:38:05 ET]
+Table 'Bitias' 9-max Seat #3 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($3.91 in chips)=20
+Seat 4: dymarko ($4.16 in chips)=20
+Seat 5: ArfurDaley ($3.01 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+dymarko: posts small blind $0.01
+ArfurDaley: posts big blind $0.02
+Paul=A0Staff: sits out=20
+WebCamSasha: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d 6c]
+the_wickstar: folds=20
+kuvasik: folds=20
+SYROJA: folds=20
+barabara99: raises $0.02 to $0.04
+dymarko: folds=20
+ArfurDaley: folds=20
+Uncalled bet ($0.02) returned to barabara99
+barabara99 collected $0.05 from pot
+barabara99: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 (button) collected ($0.05)
+Seat 4: dymarko (small blind) folded before Flop
+Seat 5: ArfurDaley (big blind) folded before Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: kuvasik folded before Flop (didn't bet)
+
+
+*********** # 12 **************
+PokerStars Hand #170123680874:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:38:03 CUST [2017/05/08 8:38:03 ET]
+Table 'Diphda II' 9-max Seat #8 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.46 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 7: S.Tino1714 ($3.39 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.04 in chips)=20
+shhhappend: posts small blind $0.01
+ArfurDaley: posts big blind $0.02
+S.Tino1714: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s 9d]
+Retinert has timed out
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+S.Tino1714 has timed out
+S.Tino1714: checks=20
+szerszenie: folds=20
+shhhappend: calls $0.01
+ArfurDaley: checks=20
+*** FLOP *** [Td 7c Qh]
+shhhappend: checks=20
+ArfurDaley: checks=20
+S.Tino1714: checks=20
+*** TURN *** [Td 7c Qh] [4s]
+shhhappend: checks=20
+ArfurDaley: bets $0.07
+S.Tino1714 has timed out
+S.Tino1714: folds=20
+shhhappend: folds=20
+Uncalled bet ($0.07) returned to ArfurDaley
+ArfurDaley collected $0.07 from pot
+ArfurDaley: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Board [Td 7c Qh 4s]
+Seat 1: ArfurDaley (big blind) collected ($0.07)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 7: S.Tino1714 folded on the Turn
+Seat 8: szerszenie (button) folded before Flop (didn't bet)
+Seat 9: shhhappend (small blind) folded on the Turn
+
+
+*********** # 13 **************
+PokerStars Hand #170123671853:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:37:45 CUST [2017/05/08 8:37:45 ET]
+Table 'Diphda II' 9-max Seat #6 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.46 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.77 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+S.Tino1714 will be allowed to play after the button
+szerszenie: posts small blind $0.01
+shhhappend: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 6h]
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+szerszenie: folds=20
+Uncalled bet ($0.01) returned to shhhappend
+shhhappend collected $0.02 from pot
+shhhappend: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz (button) folded before Flop (didn't bet)
+Seat 8: szerszenie (small blind) folded before Flop
+Seat 9: shhhappend (big blind) collected ($0.02)
+
+
+*********** # 14 **************
+PokerStars Hand #170123659997:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:37:23 CUST [2017/05/08 8:37:23 ET]
+Table 'Bitias' 9-max Seat #2 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($3.93 in chips)=20
+Seat 4: dymarko ($4.14 in chips)=20
+Seat 5: ArfurDaley ($3.01 in chips)=20
+Seat 7: the_wickstar ($2.58 in chips)=20
+Seat 9: kuvasik ($0.74 in chips)=20
+barabara99: posts small blind $0.01
+dymarko: posts big blind $0.02
+WebCamSasha: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4d Ah]
+Winturner leaves the table
+ArfurDaley: folds=20
+the_wickstar: folds=20
+kuvasik: folds=20
+SYROJA: folds=20
+barabara99: calls $0.01
+Paul=A0Staff joins the table at seat #6=20
+dymarko: raises $0.08 to $0.10
+barabara99: folds=20
+Uncalled bet ($0.08) returned to dymarko
+dymarko collected $0.04 from pot
+dymarko: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 2: SYROJA (button) folded before Flop (didn't bet)
+Seat 3: barabara99 (small blind) folded before Flop
+Seat 4: dymarko (big blind) collected ($0.04)
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: kuvasik folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #170123633807:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:36:33 CUST [2017/05/08 8:36:33 ET]
+Table 'Diphda II' 9-max Seat #5 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.46 in chips)=20
+Seat 4: lPrestigel ($2.99 in chips)=20
+Seat 5: the_wickstar ($1.74 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: szerszenie ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+NightStarUz: posts small blind $0.01
+szerszenie: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th Ts]
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: raises $0.04 to $0.06
+NightStarUz: folds=20
+szerszenie: folds=20
+Uncalled bet ($0.04) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar (button) collected ($0.05)
+Seat 6: NightStarUz (small blind) folded before Flop
+Seat 8: szerszenie (big blind) folded before Flop
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 16 **************
+PokerStars Hand #170123621224:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:36:09 CUST [2017/05/08 8:36:09 ET]
+Table 'Bitias' 9-max Seat #9 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($3.95 in chips)=20
+Seat 4: dymarko ($4.18 in chips)=20
+Seat 5: ArfurDaley ($2 in chips)=20
+Seat 6: Winturner ($0.90 in chips)=20
+Seat 7: the_wickstar ($2.62 in chips)=20
+Seat 9: kuvasik ($0.78 in chips)=20
+CherT678 will be allowed to play after the button
+SYROJA: posts small blind $0.01
+barabara99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9h Ks]
+dymarko: raises $0.02 to $0.04
+ArfurDaley: calls $0.04
+Winturner: calls $0.04
+the_wickstar: calls $0.04
+kuvasik: calls $0.04
+SYROJA: calls $0.03
+justa-earner leaves the table
+barabara99: folds=20
+*** FLOP *** [2c 3d 6d]
+WebCamSasha joins the table at seat #8=20
+SYROJA: checks=20
+dymarko: checks=20
+ArfurDaley: bets $0.25
+Winturner: raises $0.25 to $0.50
+the_wickstar: folds=20
+kuvasik: folds=20
+SYROJA: folds=20
+dymarko: folds=20
+ArfurDaley: raises $1.46 to $1.96 and is all-in
+Winturner: calls $0.36 and is all-in
+Uncalled bet ($1.10) returned to ArfurDaley
+*** TURN *** [2c 3d 6d] [Jc]
+*** RIVER *** [2c 3d 6d Jc] [2h]
+*** SHOW DOWN ***
+ArfurDaley: shows [6s 6c] (a full house, Sixes full of Deuces)
+Winturner: shows [3s 3c] (a full house, Threes full of Deuces)
+ArfurDaley collected $1.91 from pot
+*** SUMMARY ***
+Total pot $1.98 | Rake $0.07=20
+Board [2c 3d 6d Jc 2h]
+Seat 2: SYROJA (small blind) folded on the Flop
+Seat 3: barabara99 (big blind) folded before Flop
+Seat 4: dymarko folded on the Flop
+Seat 5: ArfurDaley showed [6s 6c] and won ($1.91) with a full house, Si=
+xes full of Deuces
+Seat 6: Winturner showed [3s 3c] and lost with a full house, Threes ful=
+l of Deuces
+Seat 7: the_wickstar folded on the Flop
+Seat 9: kuvasik (button) folded on the Flop
+
+
+*********** # 17 **************
+PokerStars Hand #170123607155:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:35:43 CUST [2017/05/08 8:35:43 ET]
+Table 'Diphda II' 9-max Seat #4 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.52 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.75 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+the_wickstar: posts small blind $0.01
+NightStarUz: posts big blind $0.02
+szerszenie: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 2s]
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: raises $0.04 to $0.06
+lPrestigel: calls $0.06
+the_wickstar: folds=20
+NightStarUz: calls $0.04
+*** FLOP *** [Kd 9c As]
+NightStarUz: checks=20
+starinagenry: checks=20
+lPrestigel: checks=20
+*** TURN *** [Kd 9c As] [Jc]
+NightStarUz: checks=20
+starinagenry: checks=20
+lPrestigel: checks=20
+*** RIVER *** [Kd 9c As Jc] [3c]
+NightStarUz: checks=20
+starinagenry: checks=20
+lPrestigel: checks=20
+*** SHOW DOWN ***
+NightStarUz: shows [7s 8d] (high card Ace)
+starinagenry: shows [8h 9h] (a pair of Nines)
+lPrestigel: shows [Td Jd] (a pair of Jacks)
+lPrestigel collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01=20
+Board [Kd 9c As Jc 3c]
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry showed [8h 9h] and lost with a pair of Nines
+Seat 4: lPrestigel (button) showed [Td Jd] and won ($0.18) with a pair =
+of Jacks
+Seat 5: the_wickstar (small blind) folded before Flop
+Seat 6: NightStarUz (big blind) showed [7s 8d] and lost with high card =
+Ace
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #170123582894:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:34:56 CUST [2017/05/08 8:34:56 ET]
+Table 'Bitias' 9-max Seat #7 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($3.95 in chips)=20
+Seat 4: dymarko ($4.18 in chips)=20
+Seat 5: ArfurDaley ($2 in chips)=20
+Seat 6: Winturner ($2.05 in chips)=20
+Seat 7: the_wickstar ($1.15 in chips)=20
+Seat 8: justa-earner ($0.39 in chips)=20
+Seat 9: kuvasik ($0.80 in chips)=20
+justa-earner: posts small blind $0.01
+kuvasik: posts big blind $0.02
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ah Ac]
+SYROJA: folds=20
+barabara99: folds=20
+dymarko: folds=20
+ArfurDaley: folds=20
+Winturner: raises $0.04 to $0.06
+the_wickstar: raises $0.06 to $0.12
+justa-earner: raises $0.27 to $0.39 and is all-in
+kuvasik: folds=20
+Winturner: calls $0.33
+the_wickstar: raises $0.76 to $1.15 and is all-in
+Winturner: calls $0.76
+*** FLOP *** [Ad 3d 6s]
+*** TURN *** [Ad 3d 6s] [Kh]
+*** RIVER *** [Ad 3d 6s Kh] [Ts]
+*** SHOW DOWN ***
+Winturner: shows [Qc Qs] (a pair of Queens)
+the_wickstar: shows [Ah Ac] (three of a kind, Aces)
+the_wickstar collected $1.47 from side pot
+justa-earner: shows [Jh 6h] (a pair of Sixes)
+the_wickstar collected $1.15 from main pot
+*** SUMMARY ***
+Total pot $2.71 Main pot $1.15. Side pot $1.47. | Rake $0.09=20
+Board [Ad 3d 6s Kh Ts]
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 folded before Flop (didn't bet)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 6: Winturner showed [Qc Qs] and lost with a pair of Queens
+Seat 7: the_wickstar (button) showed [Ah Ac] and won ($2.62) with three=
+ of a kind, Aces
+Seat 8: justa-earner (small blind) showed [Jh 6h] and lost with a pair =
+of Sixes
+Seat 9: kuvasik (big blind) folded before Flop
+
+
+*********** # 19 **************
+PokerStars Hand #170123566932:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:34:26 CUST [2017/05/08 8:34:26 ET]
+Table 'Diphda II' 9-max Seat #3 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($2.12 in chips)=20
+Seat 4: lPrestigel ($2.88 in chips)=20
+Seat 5: the_wickstar ($1.18 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+lPrestigel: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Js Jc]
+NightStarUz: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: raises $0.04 to $0.06
+lPrestigel: folds=20
+the_wickstar: calls $0.04
+*** FLOP *** [5d Jh Tc]
+the_wickstar: checks=20
+starinagenry: bets $0.09
+the_wickstar: calls $0.09
+*** TURN *** [5d Jh Tc] [2c]
+obama552 leaves the table
+the_wickstar: bets $0.15
+starinagenry: calls $0.15
+*** RIVER *** [5d Jh Tc 2c] [5s]
+szerszenie joins the table at seat #8=20
+the_wickstar: bets $0.30
+starinagenry: calls $0.30
+*** SHOW DOWN ***
+the_wickstar: shows [Js Jc] (a full house, Jacks full of Fives)
+starinagenry: mucks hand=20
+the_wickstar collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04=20
+Board [5d Jh Tc 2c 5s]
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry (button) mucked [Ks Ts]
+Seat 4: lPrestigel (small blind) folded before Flop
+Seat 5: the_wickstar (big blind) showed [Js Jc] and won ($1.17) with a =
+full house, Jacks full of Fives
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #170123542591:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:33:39 CUST [2017/05/08 8:33:39 ET]
+Table 'Bitias' 9-max Seat #6 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($4.05 in chips)=20
+Seat 4: dymarko ($2.11 in chips)=20
+Seat 5: ArfurDaley ($2 in chips)=20
+Seat 6: Winturner ($2.05 in chips)=20
+Seat 7: the_wickstar ($1.16 in chips)=20
+Seat 8: justa-earner ($2.50 in chips)=20
+the_wickstar: posts small blind $0.01
+justa-earner: posts big blind $0.02
+kuvasik: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s Th]
+SYROJA: folds=20
+barabara99: raises $0.08 to $0.10
+dymarko: calls $0.10
+ArfurDaley: folds=20
+Winturner: folds=20
+the_wickstar: folds=20
+justa-earner: calls $0.08
+*** FLOP *** [3h 9s Jc]
+justa-earner: bets $0.30
+barabara99: folds=20
+dymarko: raises $0.70 to $1
+justa-earner: calls $0.70
+*** TURN *** [3h 9s Jc] [8c]
+justa-earner: bets $1.40 and is all-in
+dymarko: calls $1.01 and is all-in
+Uncalled bet ($0.39) returned to justa-earner
+*** RIVER *** [3h 9s Jc 8c] [Ts]
+*** SHOW DOWN ***
+justa-earner: shows [2h Jh] (a pair of Jacks)
+dymarko: shows [9h 9d] (three of a kind, Nines)
+dymarko collected $4.18 from pot
+*** SUMMARY ***
+Total pot $4.33 | Rake $0.15=20
+Board [3h 9s Jc 8c Ts]
+Seat 2: SYROJA folded before Flop (didn't bet)
+Seat 3: barabara99 folded on the Flop
+Seat 4: dymarko showed [9h 9d] and won ($4.18) with three of a kind, Ni=
+nes
+Seat 5: ArfurDaley folded before Flop (didn't bet)
+Seat 6: Winturner (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: justa-earner (big blind) showed [2h Jh] and lost with a pair of=
+ Jacks
+
+
+*********** # 21 **************
+PokerStars Hand #170123537497:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:33:29 CUST [2017/05/08 8:33:29 ET]
+Table 'Diphda II' 9-max Seat #2 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.44 in chips)=20
+Seat 3: starinagenry ($1.93 in chips)=20
+Seat 4: lPrestigel ($3.08 in chips)=20
+Seat 5: the_wickstar ($1.18 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+starinagenry: posts small blind $0.01
+lPrestigel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 5h]
+the_wickstar: folds=20
+NightStarUz: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: calls $0.01
+lPrestigel: checks=20
+*** FLOP *** [5c Th As]
+starinagenry: bets $0.02
+lPrestigel: calls $0.02
+*** TURN *** [5c Th As] [7s]
+starinagenry: bets $0.04
+lPrestigel: raises $0.04 to $0.08
+starinagenry: calls $0.04
+*** RIVER *** [5c Th As 7s] [Ks]
+starinagenry: bets $0.08
+lPrestigel: calls $0.08
+*** SHOW DOWN ***
+starinagenry: shows [8s 3s] (a flush, Ace high)
+lPrestigel: mucks hand=20
+starinagenry collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01=20
+Board [5c Th As 7s Ks]
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert (button) folded before Flop (didn't bet)
+Seat 3: starinagenry (small blind) showed [8s 3s] and won ($0.39) with =
+a flush, Ace high
+Seat 4: lPrestigel (big blind) mucked [Ah Jd]
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #170123482689:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:31:44 CUST [2017/05/08 8:31:44 ET]
+Table 'Bitias' 9-max Seat #5 is the button
+Seat 2: SYROJA ($2 in chips)=20
+Seat 3: barabara99 ($4.05 in chips)=20
+Seat 4: dymarko ($2.11 in chips)=20
+Seat 5: ArfurDaley ($2 in chips)=20
+Seat 6: Winturner ($2.07 in chips)=20
+Seat 7: the_wickstar ($1.10 in chips)=20
+Seat 8: justa-earner ($2.52 in chips)=20
+Winturner: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+kuvasik: sits out=20
+CherT678: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad 6s]
+justa-earner: calls $0.02
+SYROJA: calls $0.02
+barabara99: folds=20
+dymarko: folds=20
+ArfurDaley has timed out
+ArfurDaley: folds=20
+Winturner: calls $0.01
+the_wickstar: checks=20
+*** FLOP *** [Jd 4h Jc]
+Winturner: checks=20
+the_wickstar: checks=20
+justa-earner: checks=20
+SYROJA: checks=20
+*** TURN *** [Jd 4h Jc] [5h]
+Winturner: checks=20
+the_wickstar: bets $0.06
+justa-earner: folds=20
+SYROJA: folds=20
+Winturner: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0=20
+Board [Jd 4h Jc 5h]
+Seat 2: SYROJA folded on the Turn
+Seat 3: barabara99 folded before Flop (didn't bet)
+Seat 4: dymarko folded before Flop (didn't bet)
+Seat 5: ArfurDaley (button) folded before Flop (didn't bet)
+Seat 6: Winturner (small blind) folded on the Turn
+Seat 7: the_wickstar (big blind) collected ($0.08)
+Seat 8: justa-earner folded on the Turn
+
+
+*********** # 23 **************
+PokerStars Hand #170123480801:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:31:41 CUST [2017/05/08 8:31:41 ET]
+Table 'Diphda II' 9-max Seat #1 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.45 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.18 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 7: S.Tino1714 ($3.42 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+Retinert: posts small blind $0.01
+starinagenry: posts big blind $0.02
+S.Tino1714: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c Th]
+lPrestigel: raises $0.04 to $0.06
+the_wickstar: folds=20
+NightStarUz: folds=20
+S.Tino1714 has timed out
+S.Tino1714: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: raises $0.12 to $0.18
+lPrestigel: calls $0.12
+*** FLOP *** [Kc 7h Ah]
+starinagenry: checks=20
+lPrestigel: bets $0.22
+starinagenry: folds=20
+Uncalled bet ($0.22) returned to lPrestigel
+lPrestigel collected $0.39 from pot
+lPrestigel: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01=20
+Board [Kc 7h Ah]
+Seat 1: ArfurDaley (button) folded before Flop (didn't bet)
+Seat 2: Retinert (small blind) folded before Flop
+Seat 3: starinagenry (big blind) folded on the Flop
+Seat 4: lPrestigel collected ($0.39)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 7: S.Tino1714 folded before Flop
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #170123434232:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:30:11 CUST [2017/05/08 8:30:11 ET]
+Table 'Diphda II' 9-max Seat #9 is the button
+Seat 1: ArfurDaley ($2.19 in chips)=20
+Seat 2: Retinert ($1.53 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.10 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+ArfurDaley: posts small blind $0.01
+Retinert: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd Qh]
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: calls $0.02
+NightStarUz: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: checks=20
+*** FLOP *** [Qs 5h Jd]
+Retinert: checks=20
+the_wickstar: checks=20
+*** TURN *** [Qs 5h Jd] [9s]
+Retinert: checks=20
+the_wickstar: bets $0.02
+Retinert: calls $0.02
+*** RIVER *** [Qs 5h Jd 9s] [2d]
+Retinert: checks=20
+the_wickstar: bets $0.04
+Retinert: calls $0.04
+*** SHOW DOWN ***
+the_wickstar: shows [Qd Qh] (three of a kind, Queens)
+Retinert: mucks hand=20
+the_wickstar collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [Qs 5h Jd 9s 2d]
+Seat 1: ArfurDaley (small blind) folded before Flop
+Seat 2: Retinert (big blind) mucked [4s 9h]
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar showed [Qd Qh] and won ($0.16) with three of a kin=
+d, Queens
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 9: shhhappend (button) folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #170123420275:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:29:44 CUST [2017/05/08 8:29:44 ET]
+Table 'Diphda II' 9-max Seat #6 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.53 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.10 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.04 in chips)=20
+shhhappend: posts small blind $0.01
+ArfurDaley: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3d 2s]
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+shhhappend: folds=20
+Uncalled bet ($0.01) returned to ArfurDaley
+ArfurDaley collected $0.02 from pot
+ArfurDaley: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: ArfurDaley (big blind) collected ($0.02)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar folded before Flop (didn't bet)
+Seat 6: NightStarUz (button) folded before Flop (didn't bet)
+Seat 9: shhhappend (small blind) folded before Flop
+
+
+*********** # 26 **************
+PokerStars Hand #170123409828:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:29:24 CUST [2017/05/08 8:29:24 ET]
+Table 'Diphda II' 9-max Seat #5 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.53 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.10 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+NightStarUz: posts small blind $0.01
+obama552: is sitting out=20
+shhhappend: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Js 3h]
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+NightStarUz: folds=20
+Uncalled bet ($0.01) returned to shhhappend
+shhhappend collected $0.02 from pot
+shhhappend: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel folded before Flop (didn't bet)
+Seat 5: the_wickstar (button) folded before Flop (didn't bet)
+Seat 6: NightStarUz (small blind) folded before Flop
+Seat 9: shhhappend (big blind) collected ($0.02)
+
+
+*********** # 27 **************
+PokerStars Hand #170123391493:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:28:48 CUST [2017/05/08 8:28:48 ET]
+Table 'Diphda II' 9-max Seat #4 is the button
+Seat 1: ArfurDaley ($2.18 in chips)=20
+Seat 2: Retinert ($1.53 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.87 in chips)=20
+Seat 5: the_wickstar ($1.08 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: obama552 ($2.05 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+the_wickstar: posts small blind $0.01
+NightStarUz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qh Ks]
+obama552: folds=20
+shhhappend: folds=20
+ArfurDaley: folds=20
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: calls $0.01
+NightStarUz: checks=20
+*** FLOP *** [8c 9d Kc]
+the_wickstar: bets $0.02
+NightStarUz: folds=20
+Uncalled bet ($0.02) returned to the_wickstar
+the_wickstar collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Board [8c 9d Kc]
+Seat 1: ArfurDaley folded before Flop (didn't bet)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry folded before Flop (didn't bet)
+Seat 4: lPrestigel (button) folded before Flop (didn't bet)
+Seat 5: the_wickstar (small blind) collected ($0.04)
+Seat 6: NightStarUz (big blind) folded on the Flop
+Seat 8: obama552 folded before Flop (didn't bet)
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #170123367918:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/05/08 22:28:03 CUST [2017/05/08 8:28:03 ET]
+Table 'Diphda II' 9-max Seat #3 is the button
+Seat 1: ArfurDaley ($2 in chips)=20
+Seat 2: Retinert ($1.53 in chips)=20
+Seat 3: starinagenry ($2.11 in chips)=20
+Seat 4: lPrestigel ($2.88 in chips)=20
+Seat 5: the_wickstar ($1.10 in chips)=20
+Seat 6: NightStarUz ($2 in chips)=20
+Seat 8: obama552 ($2.21 in chips)=20
+Seat 9: shhhappend ($2.03 in chips)=20
+lPrestigel: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 3d]
+NightStarUz: folds=20
+obama552: raises $0.04 to $0.06
+shhhappend: folds=20
+ArfurDaley: calls $0.06
+Retinert: folds=20
+starinagenry: folds=20
+lPrestigel: folds=20
+the_wickstar: folds=20
+*** FLOP *** [8s 5s Qh]
+obama552: bets $0.10
+ArfurDaley: raises $0.34 to $0.44
+obama552: folds=20
+Uncalled bet ($0.34) returned to ArfurDaley
+ArfurDaley collected $0.34 from pot
+ArfurDaley: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01=20
+Board [8s 5s Qh]
+Seat 1: ArfurDaley collected ($0.34)
+Seat 2: Retinert folded before Flop (didn't bet)
+Seat 3: starinagenry (button) folded before Flop (didn't bet)
+Seat 4: lPrestigel (small blind) folded before Flop
+Seat 5: the_wickstar (big blind) folded before Flop
+Seat 6: NightStarUz folded before Flop (didn't bet)
+Seat 8: obama552 folded on the Flop
+Seat 9: shhhappend folded before Flop (didn't bet)
+
+
+
+If you have any questions, please contact us at "PokerStars Support" <s=
+upport@pokerstars.com>
+
+

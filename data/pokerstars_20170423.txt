@@ -1,0 +1,5023 @@
+Delivered-To: sherhan.wicky@gmail.com
+Received: by 10.79.162.140 with SMTP id k12csp938307ivh;
+        Sat, 22 Apr 2017 07:02:26 -0700 (PDT)
+X-Received: by 10.223.151.6 with SMTP id r6mr1643636wrb.189.1492869745929;
+        Sat, 22 Apr 2017 07:02:25 -0700 (PDT)
+Return-Path: <support@pokerstars.com>
+Received: from mx13.pokerstars.eu (mx13.pokerstars.eu. [77.87.179.125])
+        by mx.google.com with ESMTPS id p191si7412222wmd.27.2017.04.22.07.02.25
+        for <sherhan.wicky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 22 Apr 2017 07:02:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) client-ip=77.87.179.125;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@pokerstars.com;
+       spf=pass (google.com: domain of support@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mailfrom=support@pokerstars.com
+Received: by mx13.pokerstars.eu (mailer, from userid 4004)
+	id 2154E1407D4D; Sat, 22 Apr 2017 10:02:25 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pokerstars.com; h=date
+	:from:to:subject:message-id:mime-version:content-type
+	:content-transfer-encoding; s=s1024; bh=HZ4jf3VOimoxhtae1zWaaC5a
+	sC8=; b=OwaU42u8yF+Moc41pUmQVRZJQpIQkqgru6XfFPxHJs1t32QQPNlm5jUt
+	vFWjsW5yhuUSGXnZ/ETQNPxEoD8MRd0PU1davb6H4t1bxEQLCJ418AgFqwQgi6aS
+	xAsM6FnTHYgRIfjTHKwWyoHAS4BhWwM7RWD3oB2vF3Rz+ISWlp0=
+X-PS-ID: c2hlcmhhbi53aWNreUBnbWFpbC5jb20=
+Received: from pokerstars.com (unknown [192.168.8.81])
+	by mx13.pokerstars.eu (mailer) with SMTP id 0AB871407CA2
+	for <sherhan.wicky@gmail.com>; Sat, 22 Apr 2017 10:02:25 -0400 (EDT)
+Date: Sat, 22 Apr 2017 10:02:24 -0400
+From: "PokerStars Support" <support@pokerstars.com>
+To: sherhan.wicky@gmail.com
+Subject: PokerStars Hand History Request - last 1 day of play
+Message-Id: <58FB6270.72C5B5D3C5B4C8@pokerstars.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Transcript for last 1 day of play requested by the_wickstar (sherhan.wi=
+cky@gmail.com)
+
+*********** # 1 **************
+PokerStars Hand #169397166186:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/23 0:00:54 CUST [2017/04/22 10:00:54 ET]
+Table 'Ottilia' 9-max Seat #9 is the button
+Seat 2: Medet Isk ($0.54 in chips)=20
+Seat 3: genix94 ($2.29 in chips)=20
+Seat 4: rome1983942 ($2.24 in chips)=20
+Seat 5: hardcoreMD ($2.16 in chips)=20
+Seat 6: costica1949 ($2.80 in chips)=20
+Seat 7: the_wickstar ($2.28 in chips)=20
+Seat 8: 1um3n ($2.30 in chips)=20
+Seat 9: TONIELSE ($4.10 in chips)=20
+Wypka88 will be allowed to play after the button
+Medet Isk: posts small blind $0.01
+genix94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Jd]
+rome1983942: folds=20
+hardcoreMD: raises $0.04 to $0.06
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: raises $0.10 to $0.16
+TONIELSE: folds=20
+Medet Isk: folds=20
+genix94: folds=20
+hardcoreMD: calls $0.10
+*** FLOP *** [7c 9d 9c]
+hardcoreMD: checks=20
+1um3n: bets $0.18
+hardcoreMD: folds=20
+Uncalled bet ($0.18) returned to 1um3n
+1um3n collected $0.34 from pot
+1um3n: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01=20
+Board [7c 9d 9c]
+Seat 2: Medet Isk (small blind) folded before Flop
+Seat 3: genix94 (big blind) folded before Flop
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded on the Flop
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n collected ($0.34)
+Seat 9: TONIELSE (button) folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #169397126979:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:59:45 CUST [2017/04/22 9:59:45 ET]
+Table 'Ottilia' 9-max Seat #8 is the button
+Seat 2: Medet Isk ($0.61 in chips)=20
+Seat 3: genix94 ($2.29 in chips)=20
+Seat 4: rome1983942 ($2.10 in chips)=20
+Seat 5: hardcoreMD ($2.16 in chips)=20
+Seat 6: costica1949 ($2.80 in chips)=20
+Seat 7: the_wickstar ($2.35 in chips)=20
+Seat 8: 1um3n ($2.30 in chips)=20
+Seat 9: TONIELSE ($4.11 in chips)=20
+TONIELSE: posts small blind $0.01
+Medet Isk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d 6d]
+genix94: folds=20
+rome1983942: calls $0.02
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: calls $0.02
+1um3n: folds=20
+TONIELSE: folds=20
+Medet Isk: checks=20
+*** FLOP *** [Ks 5s Jd]
+Medet Isk: checks=20
+rome1983942: checks=20
+the_wickstar: checks=20
+*** TURN *** [Ks 5s Jd] [9c]
+Medet Isk: checks=20
+rome1983942: bets $0.05
+the_wickstar: calls $0.05
+Medet Isk: calls $0.05
+*** RIVER *** [Ks 5s Jd 9c] [Ac]
+Medet Isk: checks=20
+rome1983942: bets $0.11
+the_wickstar: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.11) returned to rome1983942
+rome1983942 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01=20
+Board [Ks 5s Jd 9c Ac]
+Seat 2: Medet Isk (big blind) folded on the River
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 collected ($0.21)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded on the River
+Seat 8: 1um3n (button) folded before Flop (didn't bet)
+Seat 9: TONIELSE (small blind) folded before Flop
+
+
+*********** # 3 **************
+PokerStars Hand #169397104864:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:59:04 CUST [2017/04/22 9:59:04 ET]
+Table 'Ottilia' 9-max Seat #7 is the button
+Seat 2: Medet Isk ($0.69 in chips)=20
+Seat 3: genix94 ($2.29 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2.16 in chips)=20
+Seat 6: costica1949 ($2.80 in chips)=20
+Seat 7: the_wickstar ($2.17 in chips)=20
+Seat 8: 1um3n ($2.31 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+1um3n: posts small blind $0.01
+TONIELSE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad 8h]
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: calls $0.02
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: raises $0.06 to $0.08
+1um3n: folds=20
+TONIELSE: folds=20
+Medet Isk: calls $0.06
+rome1983942: calls $0.06
+*** FLOP *** [7h 3d 2s]
+Medet Isk: checks=20
+rome1983942: checks=20
+the_wickstar: bets $0.26
+Medet Isk: folds=20
+rome1983942: folds=20
+Uncalled bet ($0.26) returned to the_wickstar
+the_wickstar collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [7h 3d 2s]
+Seat 2: Medet Isk folded on the Flop
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded on the Flop
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) collected ($0.26)
+Seat 8: 1um3n (small blind) folded before Flop
+Seat 9: TONIELSE (big blind) folded before Flop
+
+
+*********** # 4 **************
+PokerStars Hand #169397093182:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:58:43 CUST [2017/04/22 9:58:43 ET]
+Table 'Ottilia' 9-max Seat #6 is the button
+Seat 2: Medet Isk ($0.69 in chips)=20
+Seat 3: genix94 ($2.29 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.80 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+the_wickstar: posts small blind $0.01
+1um3n: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s 9s]
+TONIELSE: folds=20
+Medet Isk: folds=20
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: raises $0.03 to $0.05
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+Uncalled bet ($0.03) returned to hardcoreMD
+hardcoreMD collected $0.05 from pot
+hardcoreMD: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 2: Medet Isk folded before Flop (didn't bet)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD collected ($0.05)
+Seat 6: costica1949 (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: 1um3n (big blind) folded before Flop
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #169397060819:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:57:43 CUST [2017/04/22 9:57:43 ET]
+Table 'Ottilia' 9-max Seat #5 is the button
+Seat 2: Medet Isk ($0.75 in chips)=20
+Seat 3: genix94 ($2.17 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.81 in chips)=20
+Seat 7: the_wickstar ($2.24 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+costica1949: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Ad]
+1um3n: folds=20
+TONIELSE: folds=20
+Medet Isk: calls $0.02
+genix94: raises $0.04 to $0.06
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: calls $0.04
+Medet Isk: calls $0.04
+*** FLOP *** [3c 9s 2d]
+the_wickstar: checks=20
+Medet Isk: checks=20
+genix94: bets $0.09
+the_wickstar: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.09) returned to genix94
+genix94 collected $0.18 from pot
+genix94: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01=20
+Board [3c 9s 2d]
+Seat 2: Medet Isk folded on the Flop
+Seat 3: genix94 collected ($0.18)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD (button) folded before Flop (didn't bet)
+Seat 6: costica1949 (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) folded on the Flop
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 6 **************
+PokerStars Hand #169397014708:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:56:18 CUST [2017/04/22 9:56:18 ET]
+Table 'Ottilia' 9-max Seat #4 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.85 in chips)=20
+Seat 3: genix94 ($2.17 in chips)=20
+Seat 4: rome1983942 ($2.20 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.24 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+hardcoreMD: posts small blind $0.01
+costica1949: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kh 4d]
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: calls $0.02
+hardcoreMD: calls $0.01
+costica1949: checks=20
+*** FLOP *** [Js Qs Tc]
+hardcoreMD: bets $0.08
+costica1949: folds=20
+Medet Isk: calls $0.08
+rome1983942: folds=20
+*** TURN *** [Js Qs Tc] [9s]
+hardcoreMD: bets $0.18
+Medet Isk: folds=20
+Uncalled bet ($0.18) returned to hardcoreMD
+hardcoreMD collected $0.23 from pot
+hardcoreMD: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01=20
+Board [Js Qs Tc 9s]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk folded on the Turn
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 (button) folded on the Flop
+Seat 5: hardcoreMD (small blind) collected ($0.23)
+Seat 6: costica1949 (big blind) folded on the Flop
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #169396984799:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:55:22 CUST [2017/04/22 9:55:22 ET]
+Table 'Ottilia' 9-max Seat #3 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.91 in chips)=20
+Seat 3: genix94 ($2.17 in chips)=20
+Seat 4: rome1983942 ($2.21 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.12 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+rome1983942: posts small blind $0.01
+hardcoreMD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc Js]
+costica1949: folds=20
+the_wickstar: raises $0.04 to $0.06
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.06
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: calls $0.04
+*** FLOP *** [Jd 2c 2h]
+hardcoreMD: checks=20
+the_wickstar: bets $0.15
+Medet Isk: folds=20
+hardcoreMD: folds=20
+Uncalled bet ($0.15) returned to the_wickstar
+the_wickstar collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01=20
+Board [Jd 2c 2h]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk folded on the Flop
+Seat 3: genix94 (button) folded before Flop (didn't bet)
+Seat 4: rome1983942 (small blind) folded before Flop
+Seat 5: hardcoreMD (big blind) folded on the Flop
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar collected ($0.18)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #169396966177:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:54:51 CUST [2017/04/22 9:54:51 ET]
+Table 'Ottilia' 9-max Seat #2 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.91 in chips)=20
+Seat 3: genix94 ($2.18 in chips)=20
+Seat 4: rome1983942 ($2.23 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.09 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+genix94: posts small blind $0.01
+rome1983942: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [As Th]
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: raises $0.04 to $0.06
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: folds=20
+genix94: folds=20
+rome1983942: folds=20
+Uncalled bet ($0.04) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk (button) folded before Flop (didn't bet)
+Seat 3: genix94 (small blind) folded before Flop
+Seat 4: rome1983942 (big blind) folded before Flop
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar collected ($0.05)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 9 **************
+PokerStars Hand #169396936100:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:54:04 CUST [2017/04/22 9:54:04 ET]
+Table 'Ottilia' 9-max Seat #1 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.95 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.23 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.09 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+Medet Isk: posts small blind $0.01
+genix94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4h 7s]
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.01
+genix94: checks=20
+*** FLOP *** [Kd Jh 5d]
+Medet Isk: checks=20
+genix94: bets $0.02
+Medet Isk: calls $0.02
+*** TURN *** [Kd Jh 5d] [3c]
+Medet Isk: checks=20
+genix94: bets $0.04
+Medet Isk: folds=20
+Uncalled bet ($0.04) returned to genix94
+genix94 collected $0.08 from pot
+genix94: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.08 | Rake $0=20
+Board [Kd Jh 5d 3c]
+Seat 1: Wypka88 (button) folded before Flop (didn't bet)
+Seat 2: Medet Isk (small blind) folded on the Turn
+Seat 3: genix94 (big blind) collected ($0.08)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #169396912933:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:53:27 CUST [2017/04/22 9:53:27 ET]
+Table 'Ottilia' 9-max Seat #9 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($1.01 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.12 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.09 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.13 in chips)=20
+Wypka88: posts small blind $0.01
+Medet Isk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8d Qd]
+genix94: folds=20
+rome1983942: raises $0.04 to $0.06
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: calls $0.05
+Medet Isk: calls $0.04
+*** FLOP *** [4d 5s 8c]
+Wypka88: checks=20
+Medet Isk: checks=20
+rome1983942: bets $0.11
+Wypka88: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.11) returned to rome1983942
+rome1983942 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01=20
+Board [4d 5s 8c]
+Seat 1: Wypka88 (small blind) folded on the Flop
+Seat 2: Medet Isk (big blind) folded on the Flop
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 collected ($0.17)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE (button) folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #169396889829:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:52:51 CUST [2017/04/22 9:52:51 ET]
+Table 'Ottilia' 9-max Seat #8 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.98 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.12 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.09 in chips)=20
+Seat 8: 1um3n ($2.33 in chips)=20
+Seat 9: TONIELSE ($4.14 in chips)=20
+TONIELSE: posts small blind $0.01
+Wypka88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 3h]
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: Wypka88 (big blind) folded before Flop
+Seat 2: Medet Isk collected ($0.05)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n (button) folded before Flop (didn't bet)
+Seat 9: TONIELSE (small blind) folded before Flop
+
+
+*********** # 12 **************
+PokerStars Hand #169396853597:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:51:54 CUST [2017/04/22 9:51:54 ET]
+Table 'Ottilia' 9-max Seat #7 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.80 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.12 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.13 in chips)=20
+Seat 8: 1um3n ($2.34 in chips)=20
+Seat 9: TONIELSE ($4.28 in chips)=20
+1um3n: posts small blind $0.01
+TONIELSE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c Jc]
+Wypka88: folds=20
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: calls $0.02
+1um3n: folds=20
+TONIELSE: checks=20
+*** FLOP *** [9h 9s Td]
+TONIELSE: checks=20
+Medet Isk: bets $0.02
+the_wickstar: calls $0.02
+TONIELSE: calls $0.02
+*** TURN *** [9h 9s Td] [5s]
+TONIELSE: checks=20
+Medet Isk: checks=20
+the_wickstar: checks=20
+*** RIVER *** [9h 9s Td 5s] [Qs]
+TONIELSE: bets $0.10
+Medet Isk: calls $0.10
+the_wickstar: folds=20
+*** SHOW DOWN ***
+TONIELSE: shows [Kh 9c] (three of a kind, Nines)
+Medet Isk: shows [9d Ad] (three of a kind, Nines - Ace kicker)
+Medet Isk collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01=20
+Board [9h 9s Td 5s Qs]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk showed [9d Ad] and won ($0.32) with three of a kind, =
+Nines
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) folded on the River
+Seat 8: 1um3n (small blind) folded before Flop
+Seat 9: TONIELSE (big blind) showed [Kh 9c] and lost with three of a ki=
+nd, Nines
+
+
+*********** # 13 **************
+PokerStars Hand #169396821435:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:51:03 CUST [2017/04/22 9:51:03 ET]
+Table 'Ottilia' 9-max Seat #6 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.83 in chips)=20
+Seat 7: the_wickstar ($2.14 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($4.28 in chips)=20
+the_wickstar: posts small blind $0.01
+1um3n: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9s 2d]
+TONIELSE: folds=20
+Wypka88: folds=20
+genix94: folds=20
+rome1983942: raises $0.04 to $0.06
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: raises $0.14 to $0.20
+rome1983942: folds=20
+Uncalled bet ($0.14) returned to 1um3n
+1um3n collected $0.13 from pot
+1um3n: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: 1um3n (big blind) collected ($0.13)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 14 **************
+PokerStars Hand #169396787279:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:50:09 CUST [2017/04/22 9:50:09 ET]
+Table 'Ottilia' 9-max Seat #5 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.55 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.84 in chips)=20
+Seat 7: the_wickstar ($2.16 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+costica1949: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d Jc]
+1um3n: folds=20
+TONIELSE: raises $0.05 to $0.07
+Wypka88: folds=20
+Medet Isk: raises $0.48 to $0.55 and is all-in
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+TONIELSE: calls $0.48
+*** FLOP *** [8s 9d 3s]
+*** TURN *** [8s 9d 3s] [7c]
+*** RIVER *** [8s 9d 3s 7c] [2d]
+*** SHOW DOWN ***
+TONIELSE: shows [Ks Kc] (a pair of Kings)
+Medet Isk: shows [6h Qh] (high card Queen)
+TONIELSE collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04=20
+Board [8s 9d 3s 7c 2d]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk showed [6h Qh] and lost with high card Queen
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD (button) folded before Flop (didn't bet)
+Seat 6: costica1949 (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) folded before Flop
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE showed [Ks Kc] and won ($1.09) with a pair of Kings
+
+
+*********** # 15 **************
+PokerStars Hand #169396750452:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:49:11 CUST [2017/04/22 9:49:11 ET]
+Table 'Ottilia' 9-max Seat #4 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.50 in chips)=20
+Seat 3: genix94 ($2.14 in chips)=20
+Seat 4: rome1983942 ($2.18 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+hardcoreMD: posts small blind $0.01
+costica1949: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ac 8d]
+the_wickstar: calls $0.02
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: raises $0.48 to $0.50 and is all-in
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.48) returned to Medet Isk
+Medet Isk collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk collected ($0.07)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 (button) folded before Flop (didn't bet)
+Seat 5: hardcoreMD (small blind) folded before Flop
+Seat 6: costica1949 (big blind) folded before Flop
+Seat 7: the_wickstar folded before Flop
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 16 **************
+PokerStars Hand #169396713976:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:48:14 CUST [2017/04/22 9:48:14 ET]
+Table 'Ottilia' 9-max Seat #3 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.62 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.19 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+rome1983942: posts small blind $0.01
+hardcoreMD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts 3s]
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.02
+genix94: raises $0.04 to $0.06
+rome1983942: folds=20
+hardcoreMD: folds=20
+Medet Isk: calls $0.04
+*** FLOP *** [8d 9d Kc]
+Medet Isk: bets $0.02
+genix94: calls $0.02
+*** TURN *** [8d 9d Kc] [4h]
+Medet Isk: bets $0.02
+genix94: calls $0.02
+*** RIVER *** [8d 9d Kc 4h] [6c]
+Medet Isk: bets $0.02
+genix94: calls $0.02
+*** SHOW DOWN ***
+Medet Isk: shows [6d Jd] (a pair of Sixes)
+genix94: shows [8s Ac] (a pair of Eights)
+genix94 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [8d 9d Kc 4h 6c]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk showed [6d Jd] and lost with a pair of Sixes
+Seat 3: genix94 (button) showed [8s Ac] and won ($0.26) with a pair of =
+Eights
+Seat 4: rome1983942 (small blind) folded before Flop
+Seat 5: hardcoreMD (big blind) folded before Flop
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 17 **************
+PokerStars Hand #169396655746:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:46:45 CUST [2017/04/22 9:46:45 ET]
+Table 'Ottilia' 9-max Seat #2 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.62 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+genix94: posts small blind $0.01
+rome1983942: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d 9d]
+hardcoreMD: raises $0.04 to $0.06
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: folds=20
+genix94: folds=20
+rome1983942: calls $0.04
+*** FLOP *** [Qh Js 4d]
+rome1983942: checks=20
+hardcoreMD: bets $0.08
+rome1983942: calls $0.08
+*** TURN *** [Qh Js 4d] [4c]
+rome1983942: checks=20
+hardcoreMD: checks=20
+*** RIVER *** [Qh Js 4d 4c] [Kh]
+rome1983942: bets $0.14
+hardcoreMD: folds=20
+Uncalled bet ($0.14) returned to rome1983942
+rome1983942 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01=20
+Board [Qh Js 4d 4c Kh]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk (button) folded before Flop (didn't bet)
+Seat 3: genix94 (small blind) folded before Flop
+Seat 4: rome1983942 (big blind) collected ($0.28)
+Seat 5: hardcoreMD folded on the River
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #169396629711:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:46:04 CUST [2017/04/22 9:46:04 ET]
+Table 'Ottilia' 9-max Seat #1 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.60 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($2.18 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+Medet Isk: posts small blind $0.01
+genix94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 7h]
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.01
+genix94: checks=20
+*** FLOP *** [Qc 7d 4d]
+Medet Isk: checks=20
+genix94: checks=20
+*** TURN *** [Qc 7d 4d] [3d]
+Medet Isk: checks=20
+genix94: checks=20
+*** RIVER *** [Qc 7d 4d 3d] [5h]
+Medet Isk: checks=20
+genix94: checks=20
+*** SHOW DOWN ***
+Medet Isk: shows [Ts 2h] (high card Queen)
+genix94: mucks hand=20
+Medet Isk collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Board [Qc 7d 4d 3d 5h]
+Seat 1: Wypka88 (button) folded before Flop (didn't bet)
+Seat 2: Medet Isk (small blind) showed [Ts 2h] and won ($0.04) with hig=
+h card Queen
+Seat 3: genix94 (big blind) mucked [9s 2c]
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #169396605536:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:45:26 CUST [2017/04/22 9:45:26 ET]
+Table 'Ottilia' 9-max Seat #9 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.53 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($2.24 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.74 in chips)=20
+Wypka88: posts small blind $0.01
+Medet Isk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 3h]
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: raises $0.04 to $0.06
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.04
+*** FLOP *** [3c 2c Qd]
+Medet Isk: bets $0.47 and is all-in
+the_wickstar: folds=20
+Uncalled bet ($0.47) returned to Medet Isk
+Medet Isk collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [3c 2c Qd]
+Seat 1: Wypka88 (small blind) folded before Flop
+Seat 2: Medet Isk (big blind) collected ($0.13)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded on the Flop
+Seat 8: 1um3n folded before Flop (didn't bet)
+Seat 9: TONIELSE (button) folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #169396557284:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:44:11 CUST [2017/04/22 9:44:11 ET]
+Table 'Ottilia' 9-max Seat #8 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.87 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.86 in chips)=20
+Seat 7: the_wickstar ($1.89 in chips)=20
+Seat 8: 1um3n ($2.27 in chips)=20
+Seat 9: TONIELSE ($3.75 in chips)=20
+TONIELSE: posts small blind $0.01
+Wypka88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kh 8d]
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: calls $0.02
+1um3n: folds=20
+TONIELSE: folds=20
+Wypka88: checks=20
+*** FLOP *** [Ks Qh Td]
+Wypka88: checks=20
+Medet Isk: bets $0.16
+the_wickstar: calls $0.16
+Wypka88: folds=20
+*** TURN *** [Ks Qh Td] [As]
+Medet Isk: bets $0.16
+the_wickstar: raises $1.55 to $1.71 and is all-in
+Medet Isk: folds=20
+Uncalled bet ($1.55) returned to the_wickstar
+the_wickstar collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02=20
+Board [Ks Qh Td As]
+Seat 1: Wypka88 (big blind) folded on the Flop
+Seat 2: Medet Isk folded on the Turn
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar collected ($0.69)
+Seat 8: 1um3n (button) folded before Flop (didn't bet)
+Seat 9: TONIELSE (small blind) folded before Flop
+
+
+*********** # 21 **************
+PokerStars Hand #169396519457:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:43:11 CUST [2017/04/22 9:43:11 ET]
+Table 'Ottilia' 9-max Seat #7 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.87 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.78 in chips)=20
+Seat 7: the_wickstar ($1.95 in chips)=20
+Seat 8: 1um3n ($2.28 in chips)=20
+Seat 9: TONIELSE ($3.77 in chips)=20
+1um3n: posts small blind $0.01
+TONIELSE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4d Kd]
+Wypka88: folds=20
+Medet Isk: folds=20
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: raises $0.04 to $0.06
+the_wickstar: calls $0.06
+1um3n: folds=20
+TONIELSE: folds=20
+*** FLOP *** [6s Tc 7c]
+costica1949: bets $0.06
+the_wickstar: folds=20
+Uncalled bet ($0.06) returned to costica1949
+costica1949 collected $0.14 from pot
+costica1949: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01=20
+Board [6s Tc 7c]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk folded before Flop (didn't bet)
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 collected ($0.14)
+Seat 7: the_wickstar (button) folded on the Flop
+Seat 8: 1um3n (small blind) folded before Flop
+Seat 9: TONIELSE (big blind) folded before Flop
+
+
+*********** # 22 **************
+PokerStars Hand #169396498201:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:42:38 CUST [2017/04/22 9:42:38 ET]
+Table 'Ottilia' 9-max Seat #6 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.40 in chips)=20
+Seat 3: genix94 ($2.10 in chips)=20
+Seat 4: rome1983942 ($2.05 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.78 in chips)=20
+Seat 7: the_wickstar ($1.96 in chips)=20
+Seat 8: 1um3n ($2.30 in chips)=20
+Seat 9: TONIELSE ($3.84 in chips)=20
+the_wickstar: posts small blind $0.01
+1um3n: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 7s]
+TONIELSE: raises $0.05 to $0.07
+Wypka88: folds=20
+Medet Isk: raises $0.33 to $0.40 and is all-in
+genix94: raises $1.70 to $2.10 and is all-in
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+1um3n: folds=20
+TONIELSE: folds=20
+Uncalled bet ($1.70) returned to genix94
+*** FLOP *** [9s 6c 2c]
+*** TURN *** [9s 6c 2c] [Qs]
+*** RIVER *** [9s 6c 2c Qs] [8d]
+*** SHOW DOWN ***
+Medet Isk: shows [5h Qh] (a pair of Queens)
+genix94: shows [Th Ts] (a pair of Tens)
+Medet Isk collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03=20
+Board [9s 6c 2c Qs 8d]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk showed [5h Qh] and won ($0.87) with a pair of Queens
+Seat 3: genix94 showed [Th Ts] and lost with a pair of Tens
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) folded before Flop
+Seat 8: 1um3n (big blind) folded before Flop
+Seat 9: TONIELSE folded before Flop
+
+
+*********** # 23 **************
+PokerStars Hand #169396476758:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:42:04 CUST [2017/04/22 9:42:04 ET]
+Table 'Ottilia' 9-max Seat #5 is the button
+Seat 2: Medet Isk ($0.42 in chips)=20
+Seat 3: genix94 ($2.10 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.10 in chips)=20
+Seat 6: costica1949 ($2.79 in chips)=20
+Seat 7: the_wickstar ($1.98 in chips)=20
+Seat 9: TONIELSE ($3.84 in chips)=20
+costica1949: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+1um3n: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 7d]
+TONIELSE: folds=20
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: calls $0.02
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: checks=20
+*** FLOP *** [Kh 5d Kc]
+the_wickstar: checks=20
+Medet Isk: checks=20
+rome1983942: bets $0.05
+the_wickstar: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.05) returned to rome1983942
+rome1983942 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Board [Kh 5d Kc]
+Seat 2: Medet Isk folded on the Flop
+Seat 3: genix94 folded before Flop (didn't bet)
+Seat 4: rome1983942 collected ($0.07)
+Seat 5: hardcoreMD (button) folded before Flop (didn't bet)
+Seat 6: costica1949 (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) folded on the Flop
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #169396429410:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:40:49 CUST [2017/04/22 9:40:49 ET]
+Table 'Ottilia' 9-max Seat #4 is the button
+Seat 2: Medet Isk ($0.42 in chips)=20
+Seat 3: genix94 ($2.23 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.11 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($1.98 in chips)=20
+Seat 9: TONIELSE ($3.84 in chips)=20
+hardcoreMD: posts small blind $0.01
+costica1949: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2s Th]
+the_wickstar: folds=20
+TONIELSE: folds=20
+Medet Isk: folds=20
+genix94: raises $0.04 to $0.06
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: calls $0.04
+*** FLOP *** [7s 7c Qh]
+costica1949: checks=20
+genix94: bets $0.07
+costica1949: calls $0.07
+*** TURN *** [7s 7c Qh] [As]
+costica1949: checks=20
+genix94: checks=20
+*** RIVER *** [7s 7c Qh As] [Kd]
+costica1949: bets $0.14
+genix94: folds=20
+Uncalled bet ($0.14) returned to costica1949
+costica1949 collected $0.26 from pot
+costica1949: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [7s 7c Qh As Kd]
+Seat 2: Medet Isk folded before Flop (didn't bet)
+Seat 3: genix94 folded on the River
+Seat 4: rome1983942 (button) folded before Flop (didn't bet)
+Seat 5: hardcoreMD (small blind) folded before Flop
+Seat 6: costica1949 (big blind) collected ($0.26)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #169396410476:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:40:19 CUST [2017/04/22 9:40:19 ET]
+Table 'Ottilia' 9-max Seat #3 is the button
+Seat 2: Medet Isk ($0.39 in chips)=20
+Seat 3: genix94 ($2.23 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($1.98 in chips)=20
+Seat 9: TONIELSE ($3.84 in chips)=20
+rome1983942: posts small blind $0.01
+hardcoreMD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jh 6d]
+costica1949: folds=20
+the_wickstar: folds=20
+TONIELSE: folds=20
+Medet Isk: calls $0.02
+genix94: folds=20
+rome1983942: folds=20
+hardcoreMD: checks=20
+*** FLOP *** [As 7c 5c]
+hardcoreMD: checks=20
+Medet Isk: bets $0.02
+hardcoreMD: folds=20
+Uncalled bet ($0.02) returned to Medet Isk
+Medet Isk collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [As 7c 5c]
+Seat 2: Medet Isk collected ($0.05)
+Seat 3: genix94 (button) folded before Flop (didn't bet)
+Seat 4: rome1983942 (small blind) folded before Flop
+Seat 5: hardcoreMD (big blind) folded on the Flop
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #169396348716:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:38:42 CUST [2017/04/22 9:38:42 ET]
+Table 'Ottilia' 9-max Seat #2 is the button
+Seat 1: Wypka88 ($2 in chips)=20
+Seat 2: Medet Isk ($0.57 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($2.02 in chips)=20
+Seat 9: TONIELSE ($3.84 in chips)=20
+genix94: posts small blind $0.01
+rome1983942: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qc 8s]
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: calls $0.02
+TONIELSE: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.02
+genix94: calls $0.01
+rome1983942: checks=20
+*** FLOP *** [9h 8h Jh]
+genix94: bets $0.02
+rome1983942: folds=20
+the_wickstar: calls $0.02
+Medet Isk: calls $0.02
+*** TURN *** [9h 8h Jh] [6c]
+genix94: bets $0.04
+the_wickstar: folds=20
+Medet Isk: calls $0.04
+*** RIVER *** [9h 8h Jh 6c] [6s]
+genix94: bets $0.10
+Medet Isk: calls $0.10
+*** SHOW DOWN ***
+genix94: shows [Th Qs] (a straight, Eight to Queen)
+Medet Isk: mucks hand=20
+genix94 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01=20
+Board [9h 8h Jh 6c 6s]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk (button) mucked [7c 7s]
+Seat 3: genix94 (small blind) showed [Th Qs] and won ($0.41) with a str=
+aight, Eight to Queen
+Seat 4: rome1983942 (big blind) folded on the Flop
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded on the Turn
+Seat 9: TONIELSE folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #169396307974:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:37:38 CUST [2017/04/22 9:37:38 ET]
+Table 'Ottilia' 9-max Seat #1 is the button
+Seat 1: Wypka88 ($1.90 in chips)=20
+Seat 2: Medet Isk ($0.64 in chips)=20
+Seat 3: genix94 ($2 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($2.02 in chips)=20
+Seat 9: TONIELSE ($3.71 in chips)=20
+Medet Isk: posts small blind $0.01
+genix94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 5c]
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: folds=20
+TONIELSE: raises $0.05 to $0.07
+Wypka88: folds=20
+Medet Isk: calls $0.06
+genix94: calls $0.05
+*** FLOP *** [2c 3h Ts]
+Medet Isk: checks=20
+genix94: checks=20
+TONIELSE: checks=20
+*** TURN *** [2c 3h Ts] [Tc]
+Medet Isk: checks=20
+genix94: checks=20
+TONIELSE: checks=20
+*** RIVER *** [2c 3h Ts Tc] [5h]
+Medet Isk: checks=20
+genix94: checks=20
+TONIELSE: checks=20
+*** SHOW DOWN ***
+Medet Isk: shows [8s 9c] (a pair of Tens)
+genix94: shows [Ks Qh] (a pair of Tens - King kicker)
+TONIELSE: shows [7h Ah] (a pair of Tens - Ace kicker)
+TONIELSE collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01=20
+Board [2c 3h Ts Tc 5h]
+Seat 1: Wypka88 (button) folded before Flop (didn't bet)
+Seat 2: Medet Isk (small blind) showed [8s 9c] and lost with a pair of =
+Tens
+Seat 3: genix94 (big blind) showed [Ks Qh] and lost with a pair of Tens
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar folded before Flop (didn't bet)
+Seat 9: TONIELSE showed [7h Ah] and won ($0.20) with a pair of Tens
+
+
+*********** # 28 **************
+PokerStars Hand #169396269335:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:36:38 CUST [2017/04/22 9:36:38 ET]
+Table 'Ottilia' 9-max Seat #9 is the button
+Seat 1: Wypka88 ($1.91 in chips)=20
+Seat 2: Medet Isk ($1.47 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2.13 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($1.18 in chips)=20
+Seat 9: TONIELSE ($3.77 in chips)=20
+Wypka88: posts small blind $0.01
+Medet Isk: posts big blind $0.02
+genix94: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc Ks]
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: raises $0.04 to $0.06
+TONIELSE: calls $0.06
+Wypka88: folds=20
+Medet Isk: calls $0.04
+*** FLOP *** [Jh Qh Kh]
+Medet Isk: checks=20
+the_wickstar: bets $0.18
+TONIELSE: folds=20
+Medet Isk: calls $0.18
+*** TURN *** [Jh Qh Kh] [Js]
+Medet Isk: bets $0.02
+the_wickstar: calls $0.02
+*** RIVER *** [Jh Qh Kh Js] [5d]
+Medet Isk: bets $0.02
+the_wickstar: raises $0.55 to $0.57
+Medet Isk: calls $0.55
+*** SHOW DOWN ***
+the_wickstar: shows [Tc Ks] (two pair, Kings and Jacks)
+Medet Isk: mucks hand=20
+the_wickstar collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.06=20
+Board [Jh Qh Kh Js 5d]
+Seat 1: Wypka88 (small blind) folded before Flop
+Seat 2: Medet Isk (big blind) mucked [Ad 4s]
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar showed [Tc Ks] and won ($1.67) with two pair, King=
+s and Jacks
+Seat 9: TONIELSE (button) folded on the Flop
+
+
+*********** # 29 **************
+PokerStars Hand #169396246857:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:36:02 CUST [2017/04/22 9:36:02 ET]
+Table 'Ottilia' 9-max Seat #7 is the button
+Seat 1: Wypka88 ($1.93 in chips)=20
+Seat 2: Medet Isk ($1.53 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($1.18 in chips)=20
+Seat 9: TONIELSE ($3.83 in chips)=20
+TONIELSE: posts small blind $0.01
+Wypka88: posts big blind $0.02
+genix94: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4c 9h]
+Medet Isk: calls $0.02
+rome1983942: folds=20
+hardcoreMD: raises $0.04 to $0.06
+costica1949: folds=20
+the_wickstar: folds=20
+TONIELSE: calls $0.05
+Wypka88: folds=20
+Medet Isk: calls $0.04
+*** FLOP *** [3c Kh 8d]
+TONIELSE: checks=20
+Medet Isk: checks=20
+hardcoreMD: bets $0.12
+TONIELSE: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.12) returned to hardcoreMD
+hardcoreMD collected $0.19 from pot
+hardcoreMD: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01=20
+Board [3c Kh 8d]
+Seat 1: Wypka88 (big blind) folded before Flop
+Seat 2: Medet Isk folded on the Flop
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD collected ($0.19)
+Seat 6: costica1949 folded before Flop (didn't bet)
+Seat 7: the_wickstar (button) folded before Flop (didn't bet)
+Seat 9: TONIELSE (small blind) folded on the Flop
+
+
+*********** # 30 **************
+PokerStars Hand #169396213141:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:35:09 CUST [2017/04/22 9:35:09 ET]
+Table 'Ottilia' 9-max Seat #6 is the button
+Seat 1: Wypka88 ($1.99 in chips)=20
+Seat 2: Medet Isk ($1.59 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.66 in chips)=20
+Seat 7: the_wickstar ($1.05 in chips)=20
+Seat 9: TONIELSE ($3.85 in chips)=20
+the_wickstar: posts small blind $0.01
+1um3n: is sitting out=20
+TONIELSE: posts big blind $0.02
+genix94: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s 9h]
+Wypka88: calls $0.02
+Medet Isk: calls $0.02
+rome1983942: folds=20
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: raises $0.04 to $0.06
+TONIELSE: folds=20
+Wypka88: calls $0.04
+Medet Isk: calls $0.04
+*** FLOP *** [8h 9d Ad]
+the_wickstar: bets $0.19
+Wypka88: folds=20
+Medet Isk: folds=20
+Uncalled bet ($0.19) returned to the_wickstar
+the_wickstar collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01=20
+Board [8h 9d Ad]
+Seat 1: Wypka88 folded on the Flop
+Seat 2: Medet Isk folded on the Flop
+Seat 4: rome1983942 folded before Flop (didn't bet)
+Seat 5: hardcoreMD folded before Flop (didn't bet)
+Seat 6: costica1949 (button) folded before Flop (didn't bet)
+Seat 7: the_wickstar (small blind) collected ($0.19)
+Seat 9: TONIELSE (big blind) folded before Flop
+
+
+*********** # 31 **************
+PokerStars Hand #169396190555:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:34:33 CUST [2017/04/22 9:34:33 ET]
+Table 'Ottilia' 9-max Seat #5 is the button
+Seat 1: Wypka88 ($1.99 in chips)=20
+Seat 2: Medet Isk ($1.61 in chips)=20
+Seat 4: rome1983942 ($2 in chips)=20
+Seat 5: hardcoreMD ($2 in chips)=20
+Seat 6: costica1949 ($2.67 in chips)=20
+Seat 7: the_wickstar ($1 in chips)=20
+Seat 8: 1um3n ($2.30 in chips)=20
+costica1949: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+genix94: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d Ac]
+1um3n: folds=20
+Wypka88: folds=20
+Medet Isk: calls $0.02
+rome1983942: calls $0.02
+hardcoreMD: folds=20
+costica1949: folds=20
+the_wickstar: checks=20
+*** FLOP *** [Ks Kc Jd]
+the_wickstar: bets $0.07
+Medet Isk: folds=20
+rome1983942: folds=20
+Uncalled bet ($0.07) returned to the_wickstar
+the_wickstar collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Board [Ks Kc Jd]
+Seat 1: Wypka88 folded before Flop (didn't bet)
+Seat 2: Medet Isk folded on the Flop
+Seat 4: rome1983942 folded on the Flop
+Seat 5: hardcoreMD (button) folded before Flop (didn't bet)
+Seat 6: costica1949 (small blind) folded before Flop
+Seat 7: the_wickstar (big blind) collected ($0.07)
+Seat 8: 1um3n folded before Flop (didn't bet)
+
+
+*********** # 32 **************
+PokerStars Hand #169396030286:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:30:21 CUST [2017/04/22 9:30:21 ET]
+Table 'Isergina' 9-max Seat #3 is the button
+Seat 1: PepitaDeAji ($2.09 in chips)=20
+Seat 3: the_wickstar ($0.52 in chips)=20
+Seat 5: PetrPodukov ($2.78 in chips)=20
+Seat 6: clasicos ($2 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.74 in chips)=20
+Seat 9: vasiliy-7150 ($1.57 in chips)=20
+PetrPodukov: posts small blind $0.01
+clasicos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd 9h]
+menik777: folds=20
+VictorM2301: raises $0.02 to $0.04
+vasiliy-7150: folds=20
+PepitaDeAji: folds=20
+the_wickstar: calls $0.04
+PetrPodukov: folds=20
+clasicos: calls $0.02
+*** FLOP *** [Tc Qc Ah]
+clasicos: checks=20
+VictorM2301: checks=20
+the_wickstar: bets $0.13
+clasicos: folds=20
+VictorM2301: calls $0.13
+*** TURN *** [Tc Qc Ah] [7s]
+VictorM2301: bets $0.50
+the_wickstar: calls $0.35 and is all-in
+Uncalled bet ($0.15) returned to VictorM2301
+*** RIVER *** [Tc Qc Ah 7s] [4d]
+*** SHOW DOWN ***
+VictorM2301: shows [7d Qh] (two pair, Queens and Sevens)
+the_wickstar: shows [Qd 9h] (a pair of Queens)
+VictorM2301 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04=20
+Board [Tc Qc Ah 7s 4d]
+Seat 1: PepitaDeAji folded before Flop (didn't bet)
+Seat 3: the_wickstar (button) showed [Qd 9h] and lost with a pair of Qu=
+eens
+Seat 5: PetrPodukov (small blind) folded before Flop
+Seat 6: clasicos (big blind) folded on the Flop
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 showed [7d Qh] and won ($1.05) with two pair, Queen=
+s and Sevens
+Seat 9: vasiliy-7150 folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #169395994476:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:29:25 CUST [2017/04/22 9:29:25 ET]
+Table 'Isergina' 9-max Seat #1 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.53 in chips)=20
+Seat 5: PetrPodukov ($2.80 in chips)=20
+Seat 6: clasicos ($2 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.78 in chips)=20
+Seat 9: vasiliy-7150 ($1.57 in chips)=20
+the_wickstar: posts small blind $0.01
+PetrPodukov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc 4d]
+clasicos: folds=20
+menik777: calls $0.02
+VictorM2301: raises $0.02 to $0.04
+vasiliy-7150: folds=20
+PepitaDeAji: raises $0.16 to $0.20
+the_wickstar: folds=20
+PetrPodukov: folds=20
+menik777: folds=20
+VictorM2301: folds=20
+Uncalled bet ($0.16) returned to PepitaDeAji
+PepitaDeAji collected $0.13 from pot
+PepitaDeAji: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Seat 1: PepitaDeAji (button) collected ($0.13)
+Seat 3: the_wickstar (small blind) folded before Flop
+Seat 5: PetrPodukov (big blind) folded before Flop
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop
+Seat 8: VictorM2301 folded before Flop
+Seat 9: vasiliy-7150 folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #169395950821:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:28:16 CUST [2017/04/22 9:28:16 ET]
+Table 'Isergina' 9-max Seat #9 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.61 in chips)=20
+Seat 5: PetrPodukov ($2.80 in chips)=20
+Seat 6: clasicos ($2 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.69 in chips)=20
+Seat 9: vasiliy-7150 ($1.57 in chips)=20
+PepitaDeAji: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ah Td]
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: raises $0.02 to $0.04
+vasiliy-7150: folds=20
+PepitaDeAji: folds=20
+the_wickstar: raises $0.04 to $0.08
+VictorM2301: raises $1.36 to $1.44
+the_wickstar: folds=20
+Uncalled bet ($1.36) returned to VictorM2301
+VictorM2301 collected $0.17 from pot
+VictorM2301: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.17 | Rake $0=20
+Seat 1: PepitaDeAji (small blind) folded before Flop
+Seat 3: the_wickstar (big blind) folded before Flop
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 collected ($0.17)
+Seat 9: vasiliy-7150 (button) folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #169395911808:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:27:14 CUST [2017/04/22 9:27:14 ET]
+Table 'Isergina' 9-max Seat #8 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.68 in chips)=20
+Seat 5: PetrPodukov ($2.71 in chips)=20
+Seat 6: clasicos ($2 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.69 in chips)=20
+Seat 9: vasiliy-7150 ($1.58 in chips)=20
+vasiliy-7150: posts small blind $0.01
+PepitaDeAji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c As]
+the_wickstar: calls $0.02
+PetrPodukov: raises $0.05 to $0.07
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: folds=20
+vasiliy-7150: folds=20
+PepitaDeAji: folds=20
+the_wickstar: calls $0.05
+*** FLOP *** [4c 8d 2d]
+the_wickstar: checks=20
+PetrPodukov: bets $0.08
+the_wickstar: folds=20
+Uncalled bet ($0.08) returned to PetrPodukov
+PetrPodukov collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01=20
+Board [4c 8d 2d]
+Seat 1: PepitaDeAji (big blind) folded before Flop
+Seat 3: the_wickstar folded on the Flop
+Seat 5: PetrPodukov collected ($0.16)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 (button) folded before Flop (didn't bet)
+Seat 9: vasiliy-7150 (small blind) folded before Flop
+
+
+*********** # 36 **************
+PokerStars Hand #169395883564:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:26:29 CUST [2017/04/22 9:26:29 ET]
+Table 'Isergina' 9-max Seat #7 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.68 in chips)=20
+Seat 5: PetrPodukov ($2.71 in chips)=20
+Seat 6: clasicos ($1.97 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.70 in chips)=20
+Seat 9: vasiliy-7150 ($1.60 in chips)=20
+VictorM2301: posts small blind $0.01
+vasiliy-7150: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 2c]
+PepitaDeAji: folds=20
+the_wickstar: folds=20
+PetrPodukov: folds=20
+clasicos: raises $0.04 to $0.06
+menik777: folds=20
+VictorM2301: folds=20
+vasiliy-7150: folds=20
+Uncalled bet ($0.04) returned to clasicos
+clasicos collected $0.05 from pot
+clasicos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: PepitaDeAji folded before Flop (didn't bet)
+Seat 3: the_wickstar folded before Flop (didn't bet)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos collected ($0.05)
+Seat 7: menik777 (button) folded before Flop (didn't bet)
+Seat 8: VictorM2301 (small blind) folded before Flop
+Seat 9: vasiliy-7150 (big blind) folded before Flop
+
+
+*********** # 37 **************
+PokerStars Hand #169395853230:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:25:41 CUST [2017/04/22 9:25:41 ET]
+Table 'Isergina' 9-max Seat #6 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.65 in chips)=20
+Seat 5: PetrPodukov ($2.71 in chips)=20
+Seat 6: clasicos ($1.97 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.72 in chips)=20
+menik777: posts small blind $0.01
+VictorM2301: posts big blind $0.02
+vasiliy-7150: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6h 5s]
+PepitaDeAji: folds=20
+the_wickstar: calls $0.02
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: checks=20
+*** FLOP *** [2d Qh Kh]
+VictorM2301: checks=20
+the_wickstar: bets $0.05
+VictorM2301: folds=20
+Uncalled bet ($0.05) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [2d Qh Kh]
+Seat 1: PepitaDeAji folded before Flop (didn't bet)
+Seat 3: the_wickstar collected ($0.05)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos (button) folded before Flop (didn't bet)
+Seat 7: menik777 (small blind) folded before Flop
+Seat 8: VictorM2301 (big blind) folded on the Flop
+
+
+*********** # 38 **************
+PokerStars Hand #169395833901:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:25:10 CUST [2017/04/22 9:25:10 ET]
+Table 'Isergina' 9-max Seat #5 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.69 in chips)=20
+Seat 5: PetrPodukov ($2.71 in chips)=20
+Seat 6: clasicos ($1.87 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.76 in chips)=20
+clasicos: posts small blind $0.01
+menik777: posts big blind $0.02
+vasiliy-7150: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 6d]
+VictorM2301: raises $0.02 to $0.04
+PepitaDeAji: folds=20
+the_wickstar: calls $0.04
+PetrPodukov: folds=20
+clasicos: raises $1.83 to $1.87 and is all-in
+menik777: folds=20
+VictorM2301: folds=20
+the_wickstar: folds=20
+Uncalled bet ($1.83) returned to clasicos
+clasicos collected $0.14 from pot
+clasicos: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.14 | Rake $0=20
+Seat 1: PepitaDeAji folded before Flop (didn't bet)
+Seat 3: the_wickstar folded before Flop
+Seat 5: PetrPodukov (button) folded before Flop (didn't bet)
+Seat 6: clasicos (small blind) collected ($0.14)
+Seat 7: menik777 (big blind) folded before Flop
+Seat 8: VictorM2301 folded before Flop
+
+
+*********** # 39 **************
+PokerStars Hand #169395814323:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:24:39 CUST [2017/04/22 9:24:39 ET]
+Table 'Isergina' 9-max Seat #3 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.64 in chips)=20
+Seat 5: PetrPodukov ($2.72 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.78 in chips)=20
+PetrPodukov: posts small blind $0.01
+clasicos: posts big blind $0.02
+vasiliy-7150: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ks Ah]
+menik777: folds=20
+VictorM2301: calls $0.02
+PepitaDeAji: folds=20
+the_wickstar: raises $0.08 to $0.10
+PetrPodukov: folds=20
+clasicos: folds=20
+VictorM2301: folds=20
+Uncalled bet ($0.08) returned to the_wickstar
+the_wickstar collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: PepitaDeAji folded before Flop (didn't bet)
+Seat 3: the_wickstar (button) collected ($0.07)
+Seat 5: PetrPodukov (small blind) folded before Flop
+Seat 6: clasicos (big blind) folded before Flop
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #169395761073:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:23:14 CUST [2017/04/22 9:23:14 ET]
+Table 'Isergina' 9-max Seat #1 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($1.06 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.37 in chips)=20
+Seat 9: Flint<c> ($4.07 in chips)=20
+the_wickstar: posts small blind $0.01
+PetrPodukov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd Jh]
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: raises $0.10 to $0.12
+Flint<c>: folds=20
+Flint<c> leaves the table
+PepitaDeAji: folds=20
+the_wickstar: calls $0.11
+PetrPodukov: folds=20
+*** FLOP *** [3h Qs Ah]
+the_wickstar: checks=20
+vasiliy-7150 joins the table at seat #9=20
+VictorM2301: bets $0.10
+the_wickstar: calls $0.10
+*** TURN *** [3h Qs Ah] [2d]
+the_wickstar: checks=20
+VictorM2301: bets $0.10
+the_wickstar: calls $0.10
+*** RIVER *** [3h Qs Ah 2d] [8s]
+the_wickstar: checks=20
+VictorM2301: bets $0.10
+the_wickstar: calls $0.10
+*** SHOW DOWN ***
+VictorM2301: shows [As 5s] (a pair of Aces)
+the_wickstar: mucks hand=20
+VictorM2301 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03=20
+Board [3h Qs Ah 2d 8s]
+Seat 1: PepitaDeAji (button) folded before Flop (didn't bet)
+Seat 3: the_wickstar (small blind) mucked [Qd Jh]
+Seat 5: PetrPodukov (big blind) folded before Flop
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 showed [As 5s] and won ($0.83) with a pair of Aces
+Seat 9: Flint<c> folded before Flop (didn't bet)
+
+
+*********** # 41 **************
+PokerStars Hand #169395737787:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:22:37 CUST [2017/04/22 9:22:37 ET]
+Table 'Isergina' 9-max Seat #9 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($1.08 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.39 in chips)=20
+Seat 9: Flint<c> ($4.02 in chips)=20
+PepitaDeAji: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d 8h]
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: calls $0.02
+Flint<c>: raises $0.22 to $0.24
+PepitaDeAji: folds=20
+the_wickstar: folds=20
+VictorM2301: folds=20
+Uncalled bet ($0.22) returned to Flint<c>
+Flint<c> collected $0.07 from pot
+Flint<c>: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: PepitaDeAji (small blind) folded before Flop
+Seat 3: the_wickstar (big blind) folded before Flop
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 folded before Flop
+Seat 9: Flint<c> (button) collected ($0.07)
+
+
+*********** # 42 **************
+PokerStars Hand #169395712068:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:21:56 CUST [2017/04/22 9:21:56 ET]
+Table 'Isergina' 9-max Seat #8 is the button
+Seat 1: PepitaDeAji ($2 in chips)=20
+Seat 3: the_wickstar ($0.98 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.47 in chips)=20
+Seat 9: Flint<c> ($4.03 in chips)=20
+Flint<c>: posts small blind $0.01
+PepitaDeAji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad Ac]
+the_wickstar: raises $0.06 to $0.08
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: calls $0.08
+Flint<c>: folds=20
+PepitaDeAji: folds=20
+*** FLOP *** [6d Jd 3d]
+the_wickstar: bets $0.18
+VictorM2301: folds=20
+Uncalled bet ($0.18) returned to the_wickstar
+the_wickstar collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01=20
+Board [6d Jd 3d]
+Seat 1: PepitaDeAji (big blind) folded before Flop
+Seat 3: the_wickstar collected ($0.18)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 (button) folded on the Flop
+Seat 9: Flint<c> (small blind) folded before Flop
+
+
+*********** # 43 **************
+PokerStars Hand #169395680921:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:21:06 CUST [2017/04/22 9:21:06 ET]
+Table 'Isergina' 9-max Seat #7 is the button
+Seat 3: the_wickstar ($0.98 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.25 in chips)=20
+Seat 9: Flint<c> ($4.27 in chips)=20
+VictorM2301: posts small blind $0.01
+Flint<c>: posts big blind $0.02
+PepitaDeAji: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Td]
+the_wickstar: folds=20
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: raises $0.02 to $0.04
+Flint<c>: raises $0.08 to $0.12
+VictorM2301: calls $0.08
+*** FLOP *** [3d 4h 2c]
+VictorM2301: bets $0.12
+Flint<c>: calls $0.12
+*** TURN *** [3d 4h 2c] [Kh]
+VictorM2301: bets $0.12
+Flint<c>: folds=20
+Uncalled bet ($0.12) returned to VictorM2301
+VictorM2301 collected $0.46 from pot
+VictorM2301: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02=20
+Board [3d 4h 2c Kh]
+Seat 3: the_wickstar folded before Flop (didn't bet)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 (button) folded before Flop (didn't bet)
+Seat 8: VictorM2301 (small blind) collected ($0.46)
+Seat 9: Flint<c> (big blind) folded on the Turn
+
+
+*********** # 44 **************
+PokerStars Hand #169395663483:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:20:38 CUST [2017/04/22 9:20:38 ET]
+Table 'Isergina' 9-max Seat #6 is the button
+Seat 3: the_wickstar ($0.98 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.89 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.18 in chips)=20
+Seat 9: Flint<c> ($4.33 in chips)=20
+menik777: posts small blind $0.01
+VictorM2301: posts big blind $0.02
+PepitaDeAji: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d Kh]
+Flint<c>: raises $0.04 to $0.06
+the_wickstar: folds=20
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: calls $0.04
+*** FLOP *** [Td 3d 7d]
+VictorM2301: bets $0.02
+Flint<c>: folds=20
+Uncalled bet ($0.02) returned to VictorM2301
+VictorM2301 collected $0.13 from pot
+VictorM2301: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [Td 3d 7d]
+Seat 3: the_wickstar folded before Flop (didn't bet)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos (button) folded before Flop (didn't bet)
+Seat 7: menik777 (small blind) folded before Flop
+Seat 8: VictorM2301 (big blind) collected ($0.13)
+Seat 9: Flint<c> folded on the Flop
+
+
+*********** # 45 **************
+PokerStars Hand #169395595828:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:19:05 CUST [2017/04/22 9:19:05 ET]
+Table 'Isergina' 9-max Seat #5 is the button
+Seat 3: the_wickstar ($0.87 in chips)=20
+Seat 5: PetrPodukov ($2.74 in chips)=20
+Seat 6: clasicos ($1.90 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.27 in chips)=20
+Seat 9: Flint<c> ($4.33 in chips)=20
+clasicos: posts small blind $0.01
+menik777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [6c 4s]
+VictorM2301: calls $0.02
+Flint<c>: folds=20
+the_wickstar: calls $0.02
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: checks=20
+*** FLOP *** [9s Ts Qh]
+menik777: checks=20
+kapitan09047 leaves the table
+PepitaDeAji joins the table at seat #1=20
+VictorM2301: checks=20
+the_wickstar: bets $0.07
+menik777: folds=20
+VictorM2301: calls $0.07
+*** TURN *** [9s Ts Qh] [6d]
+VictorM2301: checks=20
+the_wickstar: bets $0.20
+VictorM2301: folds=20
+Uncalled bet ($0.20) returned to the_wickstar
+the_wickstar collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01=20
+Board [9s Ts Qh 6d]
+Seat 3: the_wickstar collected ($0.20)
+Seat 5: PetrPodukov (button) folded before Flop (didn't bet)
+Seat 6: clasicos (small blind) folded before Flop
+Seat 7: menik777 (big blind) folded on the Flop
+Seat 8: VictorM2301 folded on the Turn
+Seat 9: Flint<c> folded before Flop (didn't bet)
+
+
+*********** # 46 **************
+PokerStars Hand #169395567220:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:18:19 CUST [2017/04/22 9:18:19 ET]
+Table 'Isergina' 9-max Seat #3 is the button
+Seat 3: the_wickstar ($0.69 in chips)=20
+Seat 5: PetrPodukov ($2.75 in chips)=20
+Seat 6: clasicos ($1.92 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.35 in chips)=20
+Seat 9: Flint<c> ($4.41 in chips)=20
+PetrPodukov: posts small blind $0.01
+clasicos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd Tc]
+menik777: folds=20
+VictorM2301: calls $0.02
+Flint<c>: raises $0.06 to $0.08
+the_wickstar: calls $0.08
+PetrPodukov: folds=20
+clasicos: folds=20
+VictorM2301: calls $0.06
+*** FLOP *** [5s 3d 3c]
+VictorM2301: checks=20
+Flint<c>: checks=20
+the_wickstar: bets $0.26
+VictorM2301: folds=20
+Flint<c>: folds=20
+Uncalled bet ($0.26) returned to the_wickstar
+the_wickstar collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01=20
+Board [5s 3d 3c]
+Seat 3: the_wickstar (button) collected ($0.26)
+Seat 5: PetrPodukov (small blind) folded before Flop
+Seat 6: clasicos (big blind) folded before Flop
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 folded on the Flop
+Seat 9: Flint<c> folded on the Flop
+
+
+*********** # 47 **************
+PokerStars Hand #169395511761:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:16:50 CUST [2017/04/22 9:16:50 ET]
+Table 'Isergina' 9-max Seat #9 is the button
+Seat 3: the_wickstar ($1.03 in chips)=20
+Seat 5: PetrPodukov ($2.34 in chips)=20
+Seat 6: clasicos ($1.94 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.43 in chips)=20
+Seat 9: Flint<c> ($4.41 in chips)=20
+the_wickstar: posts small blind $0.01
+PetrPodukov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Js 4h]
+clasicos: calls $0.02
+menik777: folds=20
+VictorM2301: calls $0.02
+Flint<c>: folds=20
+the_wickstar: calls $0.01
+PetrPodukov: checks=20
+*** FLOP *** [Kc 3d Jh]
+the_wickstar: bets $0.06
+PetrPodukov: calls $0.06
+clasicos: folds=20
+VictorM2301: calls $0.06
+*** TURN *** [Kc 3d Jh] [6d]
+the_wickstar: checks=20
+PetrPodukov: checks=20
+VictorM2301: checks=20
+*** RIVER *** [Kc 3d Jh 6d] [2c]
+the_wickstar: checks=20
+PetrPodukov: bets $0.13
+VictorM2301: folds=20
+the_wickstar: raises $0.13 to $0.26
+PetrPodukov: calls $0.13
+*** SHOW DOWN ***
+the_wickstar: shows [Js 4h] (a pair of Jacks)
+PetrPodukov: shows [Kd 3c] (two pair, Kings and Threes)
+PetrPodukov collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03=20
+Board [Kc 3d Jh 6d 2c]
+Seat 3: the_wickstar (small blind) showed [Js 4h] and lost with a pair =
+of Jacks
+Seat 5: PetrPodukov (big blind) showed [Kd 3c] and won ($0.75) with two=
+ pair, Kings and Threes
+Seat 6: clasicos folded on the Flop
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 folded on the River
+Seat 9: Flint<c> (button) folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #169395479814:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:15:59 CUST [2017/04/22 9:15:59 ET]
+Table 'Isergina' 9-max Seat #8 is the button
+Seat 3: the_wickstar ($1 in chips)=20
+Seat 5: PetrPodukov ($2.34 in chips)=20
+Seat 6: clasicos ($1.94 in chips)=20
+Seat 7: menik777 ($2 in chips)=20
+Seat 8: VictorM2301 ($1.45 in chips)=20
+Seat 9: Flint<c> ($4.42 in chips)=20
+Flint<c>: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c Qc]
+PetrPodukov: folds=20
+clasicos: folds=20
+menik777: folds=20
+VictorM2301: calls $0.02
+Flint<c>: folds=20
+the_wickstar: checks=20
+*** FLOP *** [2s Td Tc]
+the_wickstar: bets $0.03
+VictorM2301: folds=20
+Uncalled bet ($0.03) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [2s Td Tc]
+Seat 3: the_wickstar (big blind) collected ($0.05)
+Seat 5: PetrPodukov folded before Flop (didn't bet)
+Seat 6: clasicos folded before Flop (didn't bet)
+Seat 7: menik777 folded before Flop (didn't bet)
+Seat 8: VictorM2301 (button) folded on the Flop
+Seat 9: Flint<c> (small blind) folded before Flop
+
+
+*********** # 49 **************
+PokerStars Hand #169395303509:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:11:15 CUST [2017/04/22 9:11:15 ET]
+Table 'Thusnelda' 9-max Seat #7 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.04 in chips)=20
+Seat 4: maksimsytian ($2 in chips)=20
+Seat 5: koala2010697 ($1.74 in chips)=20
+Seat 6: the_wickstar ($1.05 in chips)=20
+Seat 7: LLLLLeo ($2.44 in chips)=20
+Seat 9: serjo321 ($1.20 in chips)=20
+serjo321: posts small blind $0.01
+tetro54: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4d 8h]
+42SILVER42: folds=20
+MMAKSIMM13: raises $0.02 to $0.04
+maksimsytian: calls $0.04
+koala2010697: folds=20
+the_wickstar: folds=20
+the_wickstar leaves the table
+LLLLLeo: folds=20
+serjo321: folds=20
+tetro54: folds=20
+*** FLOP *** [Kh As 5h]
+Oleg $tenY joins the table at seat #6=20
+MMAKSIMM13: bets $0.06
+maksimsytian: folds=20
+Uncalled bet ($0.06) returned to MMAKSIMM13
+MMAKSIMM13 collected $0.11 from pot
+MMAKSIMM13: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Board [Kh As 5h]
+Seat 1: tetro54 (big blind) folded before Flop
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 collected ($0.11)
+Seat 4: maksimsytian folded on the Flop
+Seat 5: koala2010697 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo (button) folded before Flop (didn't bet)
+Seat 9: serjo321 (small blind) folded before Flop
+
+
+*********** # 50 **************
+PokerStars Hand #169395268128:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:10:18 CUST [2017/04/22 9:10:18 ET]
+Table 'Thusnelda' 9-max Seat #6 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.06 in chips)=20
+Seat 4: maksimsytian ($2 in chips)=20
+Seat 5: koala2010697 ($1.74 in chips)=20
+Seat 6: the_wickstar ($1 in chips)=20
+Seat 7: LLLLLeo ($2.45 in chips)=20
+Seat 9: serjo321 ($1.22 in chips)=20
+LLLLLeo: posts small blind $0.01
+serjo321: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s Td]
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: calls $0.02
+maksimsytian: folds=20
+koala2010697: folds=20
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+serjo321: checks=20
+*** FLOP *** [9h Ad 3h]
+serjo321: checks=20
+MMAKSIMM13: checks=20
+the_wickstar: bets $0.06
+serjo321: folds=20
+MMAKSIMM13: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Board [9h Ad 3h]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded on the Flop
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: koala2010697 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) collected ($0.07)
+Seat 7: LLLLLeo (small blind) folded before Flop
+Seat 9: serjo321 (big blind) folded on the Flop
+
+
+*********** # 51 **************
+PokerStars Hand #169395234140:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:09:23 CUST [2017/04/22 9:09:23 ET]
+Table 'Thusnelda' 9-max Seat #5 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.08 in chips)=20
+Seat 4: maksimsytian ($2 in chips)=20
+Seat 5: koala2010697 ($1.82 in chips)=20
+Seat 6: the_wickstar ($1.01 in chips)=20
+Seat 7: LLLLLeo ($2.34 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.22 in chips)=20
+the_wickstar: posts small blind $0.01
+LLLLLeo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s Td]
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: calls $0.02
+maksimsytian: folds=20
+koala2010697: raises $0.06 to $0.08
+the_wickstar: folds=20
+LLLLLeo: raises $0.19 to $0.27
+MMAKSIMM13: folds=20
+koala2010697: folds=20
+Uncalled bet ($0.19) returned to LLLLLeo
+LLLLLeo collected $0.19 from pot
+LLLLLeo: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.19 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded before Flop
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: koala2010697 (button) folded before Flop
+Seat 6: the_wickstar (small blind) folded before Flop
+Seat 7: LLLLLeo (big blind) collected ($0.19)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 52 **************
+PokerStars Hand #169395192977:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:08:17 CUST [2017/04/22 9:08:17 ET]
+Table 'Thusnelda' 9-max Seat #4 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.08 in chips)=20
+Seat 4: maksimsytian ($2.06 in chips)=20
+Seat 5: koala2010697 ($1.55 in chips)=20
+Seat 6: the_wickstar ($1.03 in chips)=20
+Seat 7: LLLLLeo ($2.34 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.22 in chips)=20
+koala2010697: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d 9c]
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+maksimsytian: raises $0.04 to $0.06
+koala2010697: calls $0.05
+the_wickstar: folds=20
+*** FLOP *** [4s As 8h]
+koala2010697: checks=20
+maksimsytian: bets $0.11
+koala2010697: calls $0.11
+*** TURN *** [4s As 8h] [Qs]
+koala2010697: checks=20
+maksimsytian: checks=20
+*** RIVER *** [4s As 8h Qs] [Td]
+koala2010697: bets $0.10
+maksimsytian: calls $0.10
+*** SHOW DOWN ***
+koala2010697: shows [7s Ks] (a flush, Ace high)
+maksimsytian: mucks hand=20
+koala2010697 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02=20
+Board [4s As 8h Qs Td]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded before Flop (didn't bet)
+Seat 4: maksimsytian (button) mucked [5c Ah]
+Seat 5: koala2010697 (small blind) showed [7s Ks] and won ($0.54) with =
+a flush, Ace high
+Seat 6: the_wickstar (big blind) folded before Flop
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #169395173267:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:07:45 CUST [2017/04/22 9:07:45 ET]
+Table 'Thusnelda' 9-max Seat #3 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.08 in chips)=20
+Seat 4: maksimsytian ($2.07 in chips)=20
+Seat 5: koala2010697 ($1.54 in chips)=20
+Seat 6: the_wickstar ($1.03 in chips)=20
+Seat 7: LLLLLeo ($2.34 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.22 in chips)=20
+maksimsytian: posts small blind $0.01
+koala2010697: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 3h]
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+maksimsytian: folds=20
+Uncalled bet ($0.01) returned to koala2010697
+koala2010697 collected $0.02 from pot
+koala2010697: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 (button) folded before Flop (didn't bet)
+Seat 4: maksimsytian (small blind) folded before Flop
+Seat 5: koala2010697 (big blind) collected ($0.02)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #169395152087:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:07:11 CUST [2017/04/22 9:07:11 ET]
+Table 'Thusnelda' 9-max Seat #2 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.71 in chips)=20
+Seat 3: MMAKSIMM13 ($4.09 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: koala2010697 ($1.54 in chips)=20
+Seat 6: the_wickstar ($1.03 in chips)=20
+Seat 7: LLLLLeo ($2.34 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.19 in chips)=20
+MMAKSIMM13: posts small blind $0.01
+maksimsytian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7c 4c]
+koala2010697: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: raises $0.04 to $0.06
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+maksimsytian: folds=20
+Uncalled bet ($0.04) returned to serjo321
+serjo321 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (button) folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 (small blind) folded before Flop
+Seat 4: maksimsytian (big blind) folded before Flop
+Seat 5: koala2010697 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 collected ($0.05)
+
+
+*********** # 55 **************
+PokerStars Hand #169395115157:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:06:11 CUST [2017/04/22 9:06:11 ET]
+Table 'Thusnelda' 9-max Seat #1 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.72 in chips)=20
+Seat 3: MMAKSIMM13 ($4.02 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: koala2010697 ($1.54 in chips)=20
+Seat 6: the_wickstar ($1.03 in chips)=20
+Seat 7: LLLLLeo ($2.40 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.19 in chips)=20
+42SILVER42: posts small blind $0.01
+MMAKSIMM13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h Tc]
+maksimsytian: folds=20
+koala2010697: folds=20
+the_wickstar: folds=20
+LLLLLeo: calls $0.02
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: raises $0.04 to $0.06
+LLLLLeo: calls $0.04
+*** FLOP *** [6h 8h 6d]
+MMAKSIMM13: checks=20
+LLLLLeo: checks=20
+*** TURN *** [6h 8h 6d] [Td]
+MMAKSIMM13: bets $0.06
+LLLLLeo: folds=20
+Uncalled bet ($0.06) returned to MMAKSIMM13
+MMAKSIMM13 collected $0.13 from pot
+MMAKSIMM13: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.13 | Rake $0=20
+Board [6h 8h 6d Td]
+Seat 1: tetro54 (button) folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (small blind) folded before Flop
+Seat 3: MMAKSIMM13 (big blind) collected ($0.13)
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: koala2010697 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded on the Turn
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 56 **************
+PokerStars Hand #169395049570:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:04:23 CUST [2017/04/22 9:04:23 ET]
+Table 'Thusnelda' 9-max Seat #9 is the button
+Seat 1: tetro54 ($2.49 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: koala2010697 ($1.60 in chips)=20
+Seat 6: the_wickstar ($0.87 in chips)=20
+Seat 7: LLLLLeo ($2.40 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.25 in chips)=20
+tetro54: posts small blind $0.01
+42SILVER42: posts big blind $0.02
+MMAKSIMM13: sits out=20
+koala2010697: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9s Ad]
+maksimsytian: folds=20
+koala2010697: checks=20
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+PAMEGERA: calls $0.02
+serjo321: calls $0.02
+tetro54: folds=20
+42SILVER42: checks=20
+*** FLOP *** [5h 2c 7c]
+42SILVER42: checks=20
+koala2010697: checks=20
+the_wickstar: checks=20
+PAMEGERA: checks=20
+serjo321: checks=20
+*** TURN *** [5h 2c 7c] [6s]
+42SILVER42: checks=20
+koala2010697: bets $0.04
+the_wickstar: calls $0.04
+PAMEGERA: folds=20
+serjo321: calls $0.04
+42SILVER42: folds=20
+*** RIVER *** [5h 2c 7c 6s] [Ts]
+koala2010697: checks=20
+the_wickstar: bets $0.22
+serjo321: folds=20
+koala2010697: folds=20
+Uncalled bet ($0.22) returned to the_wickstar
+the_wickstar collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01=20
+Board [5h 2c 7c 6s Ts]
+Seat 1: tetro54 (small blind) folded before Flop
+Seat 2: 42SILVER42 (big blind) folded on the Turn
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: koala2010697 folded on the River
+Seat 6: the_wickstar collected ($0.22)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded on the Turn
+Seat 9: serjo321 (button) folded on the River
+
+
+*********** # 57 **************
+PokerStars Hand #169395010247:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:03:17 CUST [2017/04/22 9:03:17 ET]
+Table 'Thusnelda' 9-max Seat #8 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 6: the_wickstar ($0.84 in chips)=20
+Seat 7: LLLLLeo ($2.40 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.26 in chips)=20
+serjo321: posts small blind $0.01
+tetro54: posts big blind $0.02
+MMAKSIMM13: sits out=20
+koala2010697: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qd Kd]
+42SILVER42: folds=20
+maksimsytian: folds=20
+the_wickstar: raises $0.04 to $0.06
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+Uncalled bet ($0.04) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 (big blind) folded before Flop
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.05)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA (button) folded before Flop (didn't bet)
+Seat 9: serjo321 (small blind) folded before Flop
+
+
+*********** # 58 **************
+PokerStars Hand #169394971806:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:02:11 CUST [2017/04/22 9:02:11 ET]
+Table 'Thusnelda' 9-max Seat #7 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 6: the_wickstar ($0.84 in chips)=20
+Seat 7: LLLLLeo ($2.40 in chips)=20
+Seat 8: PAMEGERA ($2.59 in chips)=20
+Seat 9: serjo321 ($1.28 in chips)=20
+PAMEGERA: posts small blind $0.01
+serjo321: posts big blind $0.02
+MMAKSIMM13: sits out=20
+koala2010697: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [6s 3c]
+tetro54: folds=20
+42SILVER42: folds=20
+maksimsytian: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: raises $0.03 to $0.05
+serjo321: folds=20
+Uncalled bet ($0.03) returned to PAMEGERA
+PAMEGERA collected $0.04 from pot
+PAMEGERA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo (button) folded before Flop (didn't bet)
+Seat 8: PAMEGERA (small blind) collected ($0.04)
+Seat 9: serjo321 (big blind) folded before Flop
+
+
+*********** # 59 **************
+PokerStars Hand #169394930773:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 23:00:59 CUST [2017/04/22 9:00:59 ET]
+Table 'Thusnelda' 9-max Seat #6 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: slonik1000 ($1 in chips)=20
+Seat 6: the_wickstar ($0.84 in chips)=20
+Seat 7: LLLLLeo ($2.41 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.28 in chips)=20
+LLLLLeo: posts small blind $0.01
+PAMEGERA: posts big blind $0.02
+MMAKSIMM13: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c Qs]
+serjo321: folds=20
+tetro54: raises $0.04 to $0.06
+42SILVER42: folds=20
+maksimsytian: folds=20
+slonik1000: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+slonik1000 leaves the table
+koala2010697 joins the table at seat #5=20
+PAMEGERA: folds=20
+Uncalled bet ($0.04) returned to tetro54
+tetro54 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 collected ($0.05)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) folded before Flop (didn't bet)
+Seat 7: LLLLLeo (small blind) folded before Flop
+Seat 8: PAMEGERA (big blind) folded before Flop
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #169394894877:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:59:51 CUST [2017/04/22 8:59:51 ET]
+Table 'Thusnelda' 9-max Seat #5 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: slonik1000 ($1 in chips)=20
+Seat 6: the_wickstar ($0.85 in chips)=20
+Seat 7: LLLLLeo ($2.43 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.25 in chips)=20
+the_wickstar: posts small blind $0.01
+LLLLLeo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ts 9d]
+PAMEGERA: folds=20
+serjo321: raises $0.04 to $0.06
+tetro54: folds=20
+42SILVER42: folds=20
+maksimsytian: folds=20
+slonik1000: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+Uncalled bet ($0.04) returned to serjo321
+serjo321 collected $0.05 from pot
+serjo321: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 4: maksimsytian folded before Flop (didn't bet)
+Seat 5: slonik1000 (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) folded before Flop
+Seat 7: LLLLLeo (big blind) folded before Flop
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 collected ($0.05)
+
+
+*********** # 61 **************
+PokerStars Hand #169394858216:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:58:38 CUST [2017/04/22 8:58:38 ET]
+Table 'Thusnelda' 9-max Seat #4 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.09 in chips)=20
+Seat 5: slonik1000 ($1.44 in chips)=20
+Seat 6: the_wickstar ($0.87 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.25 in chips)=20
+slonik1000: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [7h 2h]
+LLLLLeo: raises $0.05 to $0.07
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+maksimsytian: folds=20
+slonik1000: calls $0.06
+the_wickstar: folds=20
+*** FLOP *** [4d 7c As]
+slonik1000: bets $0.15
+LLLLLeo: calls $0.15
+*** TURN *** [4d 7c As] [Qd]
+slonik1000: bets $0.22
+LLLLLeo: calls $0.22
+*** RIVER *** [4d 7c As Qd] [2d]
+slonik1000: checks=20
+LLLLLeo: checks=20
+*** SHOW DOWN ***
+slonik1000: shows [Jd Js] (a pair of Jacks)
+LLLLLeo: shows [Ah Jh] (a pair of Aces)
+LLLLLeo collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03=20
+Board [4d 7c As Qd 2d]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 4: maksimsytian (button) folded before Flop (didn't bet)
+Seat 5: slonik1000 (small blind) showed [Jd Js] and lost with a pair of=
+ Jacks
+Seat 6: the_wickstar (big blind) folded before Flop
+Seat 7: LLLLLeo showed [Ah Jh] and won ($0.87) with a pair of Aces
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #169394835336:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:57:52 CUST [2017/04/22 8:57:52 ET]
+Table 'Thusnelda' 9-max Seat #2 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.74 in chips)=20
+Seat 4: maksimsytian ($2.01 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($0.87 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.31 in chips)=20
+maksimsytian: posts small blind $0.01
+slonik1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9s 7c]
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: raises $0.04 to $0.06
+tetro54: folds=20
+42SILVER42: folds=20
+maksimsytian: raises $0.14 to $0.20
+slonik1000: folds=20
+serjo321: folds=20
+Uncalled bet ($0.14) returned to maksimsytian
+maksimsytian collected $0.14 from pot
+maksimsytian: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.14 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (button) folded before Flop (didn't bet)
+Seat 4: maksimsytian (small blind) collected ($0.14)
+Seat 5: slonik1000 (big blind) folded before Flop
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop
+
+
+*********** # 63 **************
+PokerStars Hand #169394822966:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:57:27 CUST [2017/04/22 8:57:27 ET]
+Table 'Thusnelda' 9-max Seat #1 is the button
+Seat 1: tetro54 ($2.48 in chips)=20
+Seat 2: 42SILVER42 ($2.75 in chips)=20
+Seat 4: maksimsytian ($2 in chips)=20
+Seat 6: the_wickstar ($0.87 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.61 in chips)=20
+Seat 9: serjo321 ($1.31 in chips)=20
+42SILVER42: posts small blind $0.01
+maksimsytian: posts big blind $0.02
+slonik1000: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 5c]
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+Uncalled bet ($0.01) returned to maksimsytian
+maksimsytian collected $0.02 from pot
+maksimsytian: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: tetro54 (button) folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (small blind) folded before Flop
+Seat 4: maksimsytian (big blind) collected ($0.02)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: serjo321 folded before Flop (didn't bet)
+
+
+*********** # 64 **************
+PokerStars Hand #169394801485:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:56:44 CUST [2017/04/22 8:56:44 ET]
+Table 'Thusnelda' 9-max Seat #9 is the button
+Seat 1: tetro54 ($2.49 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 6: the_wickstar ($0.89 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.56 in chips)=20
+Seat 9: serjo321 ($1.31 in chips)=20
+tetro54: posts small blind $0.01
+42SILVER42: posts big blind $0.02
+maksimsytian: sits out=20
+slonik1000: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h Th]
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+PAMEGERA: raises $0.08 to $0.10
+serjo321: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+the_wickstar: folds=20
+Uncalled bet ($0.08) returned to PAMEGERA
+PAMEGERA collected $0.07 from pot
+PAMEGERA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.07 | Rake $0=20
+Seat 1: tetro54 (small blind) folded before Flop
+Seat 2: 42SILVER42 (big blind) folded before Flop
+Seat 6: the_wickstar folded before Flop
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA collected ($0.07)
+Seat 9: serjo321 (button) folded before Flop (didn't bet)
+
+
+*********** # 65 **************
+PokerStars Hand #169394783575:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:56:08 CUST [2017/04/22 8:56:08 ET]
+Table 'Thusnelda' 9-max Seat #8 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 6: the_wickstar ($0.89 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.53 in chips)=20
+Seat 9: serjo321 ($1.32 in chips)=20
+serjo321: posts small blind $0.01
+tetro54: posts big blind $0.02
+maksimsytian: sits out=20
+slonik1000: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c 3h]
+42SILVER42 has timed out
+42SILVER42: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: raises $0.04 to $0.06
+serjo321: folds=20
+tetro54: folds=20
+Uncalled bet ($0.04) returned to PAMEGERA
+PAMEGERA collected $0.05 from pot
+PAMEGERA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 (big blind) folded before Flop
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA (button) collected ($0.05)
+Seat 9: serjo321 (small blind) folded before Flop
+
+
+*********** # 66 **************
+PokerStars Hand #169394757142:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:55:15 CUST [2017/04/22 8:55:15 ET]
+Table 'Thusnelda' 9-max Seat #7 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 6: the_wickstar ($0.86 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.54 in chips)=20
+Seat 9: serjo321 ($1.34 in chips)=20
+PAMEGERA: posts small blind $0.01
+serjo321: posts big blind $0.02
+maksimsytian: sits out=20
+slonik1000: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [4s Ah]
+tetro54: folds=20
+42SILVER42: folds=20
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+serjo321: checks=20
+*** FLOP *** [As Kd 8d]
+serjo321: checks=20
+the_wickstar: bets $0.05
+serjo321: folds=20
+Uncalled bet ($0.05) returned to the_wickstar
+the_wickstar collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Board [As Kd 8d]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.05)
+Seat 7: LLLLLeo (button) folded before Flop (didn't bet)
+Seat 8: PAMEGERA (small blind) folded before Flop
+Seat 9: serjo321 (big blind) folded on the Flop
+
+
+*********** # 67 **************
+PokerStars Hand #169394706018:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:53:46 CUST [2017/04/22 8:53:46 ET]
+Table 'Thusnelda' 9-max Seat #6 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 6: the_wickstar ($1.05 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.80 in chips)=20
+LLLLLeo: posts small blind $0.01
+PAMEGERA: posts big blind $0.02
+maksimsytian: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s Jh]
+nkvdes: folds=20
+nkvdes leaves the table
+tetro54: folds=20
+42SILVER42: folds=20
+the_wickstar: raises $0.04 to $0.06
+LLLLLeo: folds=20
+PAMEGERA: calls $0.04
+*** FLOP *** [6d Qh 3h]
+PAMEGERA: checks=20
+the_wickstar: checks=20
+*** TURN *** [6d Qh 3h] [As]
+serjo321 joins the table at seat #9=20
+PAMEGERA: checks=20
+the_wickstar: bets $0.13
+PAMEGERA: calls $0.13
+*** RIVER *** [6d Qh 3h As] [6h]
+PAMEGERA: checks=20
+the_wickstar: checks=20
+*** SHOW DOWN ***
+PAMEGERA: shows [Jd Qc] (two pair, Queens and Sixes)
+the_wickstar: mucks hand=20
+PAMEGERA collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01=20
+Board [6d Qh 3h As 6h]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) mucked [8s Jh]
+Seat 7: LLLLLeo (small blind) folded before Flop
+Seat 8: PAMEGERA (big blind) showed [Jd Qc] and won ($0.38) with two pa=
+ir, Queens and Sixes
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #169394684093:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:53:08 CUST [2017/04/22 8:53:08 ET]
+Table 'Thusnelda' 9-max Seat #3 is the button
+Seat 1: tetro54 ($2.51 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 3: MMAKSIMM13 ($3.99 in chips)=20
+Seat 6: the_wickstar ($1.06 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.80 in chips)=20
+maksimsytian will be allowed to play after the button
+the_wickstar: posts small blind $0.01
+LLLLLeo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2h 4c]
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: raises $0.08 to $0.10
+the_wickstar: folds=20
+LLLLLeo: folds=20
+Uncalled bet ($0.08) returned to MMAKSIMM13
+MMAKSIMM13 collected $0.05 from pot
+MMAKSIMM13: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 (button) collected ($0.05)
+Seat 6: the_wickstar (small blind) folded before Flop
+Seat 7: LLLLLeo (big blind) folded before Flop
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 69 **************
+PokerStars Hand #169394632454:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:51:39 CUST [2017/04/22 8:51:39 ET]
+Table 'Thusnelda' 9-max Seat #2 is the button
+Seat 1: tetro54 ($2.05 in chips)=20
+Seat 2: 42SILVER42 ($2.77 in chips)=20
+Seat 3: MMAKSIMM13 ($4 in chips)=20
+Seat 6: the_wickstar ($1.54 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.80 in chips)=20
+MMAKSIMM13: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc Td]
+maksimsytian joins the table at seat #4=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: raises $0.03 to $0.05
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+the_wickstar: calls $0.03
+*** FLOP *** [6s 7h Js]
+the_wickstar: checks=20
+tetro54: checks=20
+*** TURN *** [6s 7h Js] [4d]
+the_wickstar: bets $0.11
+tetro54: calls $0.11
+*** RIVER *** [6s 7h Js 4d] [8d]
+the_wickstar: bets $0.32
+tetro54: calls $0.32
+*** SHOW DOWN ***
+the_wickstar: shows [Kc Td] (high card King)
+tetro54: shows [4s 4c] (three of a kind, Fours)
+tetro54 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03=20
+Board [6s 7h Js 4d 8d]
+Seat 1: tetro54 showed [4s 4c] and won ($0.94) with three of a kind, Fo=
+urs
+Seat 2: 42SILVER42 (button) folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 (small blind) folded before Flop
+Seat 6: the_wickstar (big blind) showed [Kc Td] and lost with high card=
+ King
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #169394616444:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:51:11 CUST [2017/04/22 8:51:11 ET]
+Table 'Thusnelda' 9-max Seat #1 is the button
+Seat 1: tetro54 ($2.05 in chips)=20
+Seat 2: 42SILVER42 ($2.78 in chips)=20
+Seat 3: MMAKSIMM13 ($3.99 in chips)=20
+Seat 4: Urij2014 ($2 in chips)=20
+Seat 6: the_wickstar ($1.54 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.80 in chips)=20
+42SILVER42: posts small blind $0.01
+MMAKSIMM13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3c 4s]
+Urij2014: folds=20
+the_wickstar: folds=20
+PAMEGERA: folds=20
+Urij2014 leaves the table
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+Uncalled bet ($0.01) returned to MMAKSIMM13
+MMAKSIMM13 collected $0.02 from pot
+MMAKSIMM13: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.02 | Rake $0=20
+Seat 1: tetro54 (button) folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (small blind) folded before Flop
+Seat 3: MMAKSIMM13 (big blind) collected ($0.02)
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 71 **************
+PokerStars Hand #169394541882:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:49:02 CUST [2017/04/22 8:49:02 ET]
+Table 'Thusnelda' 9-max Seat #9 is the button
+Seat 1: tetro54 ($2.06 in chips)=20
+Seat 2: 42SILVER42 ($1.93 in chips)=20
+Seat 3: MMAKSIMM13 ($4.07 in chips)=20
+Seat 4: Urij2014 ($2.03 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($1.54 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.80 in chips)=20
+tetro54: posts small blind $0.01
+42SILVER42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Js]
+MMAKSIMM13: raises $0.02 to $0.04
+Urij2014: calls $0.04
+slonik1000: folds=20
+the_wickstar: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: calls $0.02
+*** FLOP *** [4s Td Kc]
+42SILVER42: checks=20
+MMAKSIMM13: checks=20
+Urij2014: bets $0.04
+42SILVER42: calls $0.04
+MMAKSIMM13: calls $0.04
+*** TURN *** [4s Td Kc] [4h]
+42SILVER42: checks=20
+MMAKSIMM13: checks=20
+Urij2014: bets $0.04
+42SILVER42: raises $0.12 to $0.16
+MMAKSIMM13: folds=20
+Urij2014: calls $0.12
+*** RIVER *** [4s Td Kc 4h] [3d]
+42SILVER42: bets $0.58
+Urij2014: calls $0.58
+*** SHOW DOWN ***
+42SILVER42: shows [4d 8d] (three of a kind, Fours)
+Urij2014: mucks hand=20
+42SILVER42 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.06=20
+Board [4s Td Kc 4h 3d]
+Seat 1: tetro54 (small blind) folded before Flop
+Seat 2: 42SILVER42 (big blind) showed [4d 8d] and won ($1.67) with thre=
+e of a kind, Fours
+Seat 3: MMAKSIMM13 folded on the Turn
+Seat 4: Urij2014 mucked [Kh 9h]
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes (button) folded before Flop (didn't bet)
+
+
+*********** # 72 **************
+PokerStars Hand #169394503383:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:47:55 CUST [2017/04/22 8:47:55 ET]
+Table 'Thusnelda' 9-max Seat #8 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.93 in chips)=20
+Seat 3: MMAKSIMM13 ($4.11 in chips)=20
+Seat 4: Urij2014 ($2.07 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($1.44 in chips)=20
+Seat 8: PAMEGERA ($2.35 in chips)=20
+Seat 9: nkvdes ($2.81 in chips)=20
+nkvdes: posts small blind $0.01
+tetro54: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc 8h]
+42SILVER42: folds=20
+MMAKSIMM13: raises $0.02 to $0.04
+Urij2014: calls $0.04
+slonik1000: folds=20
+the_wickstar: calls $0.04
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+*** FLOP *** [3s Js 4s]
+MMAKSIMM13: checks=20
+Urij2014: checks=20
+the_wickstar: bets $0.10
+MMAKSIMM13: folds=20
+Urij2014: folds=20
+Uncalled bet ($0.10) returned to the_wickstar
+the_wickstar collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01=20
+Board [3s Js 4s]
+Seat 1: tetro54 (big blind) folded before Flop
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded on the Flop
+Seat 4: Urij2014 folded on the Flop
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.14)
+Seat 8: PAMEGERA (button) folded before Flop (didn't bet)
+Seat 9: nkvdes (small blind) folded before Flop
+
+
+*********** # 73 **************
+PokerStars Hand #169394480783:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:47:15 CUST [2017/04/22 8:47:15 ET]
+Table 'Thusnelda' 9-max Seat #6 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.90 in chips)=20
+Seat 3: MMAKSIMM13 ($4.11 in chips)=20
+Seat 4: Urij2014 ($2.07 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($1.44 in chips)=20
+Seat 8: PAMEGERA ($2.36 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+PAMEGERA: posts small blind $0.01
+nkvdes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9c Th]
+tetro54: folds=20
+42SILVER42: raises $0.05 to $0.07
+MMAKSIMM13: folds=20
+Urij2014: folds=20
+slonik1000: folds=20
+the_wickstar: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+Uncalled bet ($0.05) returned to 42SILVER42
+42SILVER42 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 collected ($0.05)
+Seat 3: MMAKSIMM13 folded before Flop (didn't bet)
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) folded before Flop (didn't bet)
+Seat 8: PAMEGERA (small blind) folded before Flop
+Seat 9: nkvdes (big blind) folded before Flop
+
+
+*********** # 74 **************
+PokerStars Hand #169394453850:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:46:29 CUST [2017/04/22 8:46:29 ET]
+Table 'Thusnelda' 9-max Seat #5 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.90 in chips)=20
+Seat 3: MMAKSIMM13 ($4.11 in chips)=20
+Seat 4: Urij2014 ($2.04 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($1.45 in chips)=20
+Seat 8: PAMEGERA ($2.38 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+the_wickstar: posts small blind $0.01
+PAMEGERA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kd 6h]
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+Urij2014: raises $0.02 to $0.04
+slonik1000: folds=20
+the_wickstar: folds=20
+PAMEGERA: folds=20
+Uncalled bet ($0.02) returned to Urij2014
+Urij2014 collected $0.05 from pot
+Urij2014: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded before Flop (didn't bet)
+Seat 4: Urij2014 collected ($0.05)
+Seat 5: slonik1000 (button) folded before Flop (didn't bet)
+Seat 6: the_wickstar (small blind) folded before Flop
+Seat 8: PAMEGERA (big blind) folded before Flop
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 75 **************
+PokerStars Hand #169394435051:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:45:56 CUST [2017/04/22 8:45:56 ET]
+Table 'Thusnelda' 9-max Seat #4 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.90 in chips)=20
+Seat 3: MMAKSIMM13 ($4.11 in chips)=20
+Seat 4: Urij2014 ($2.04 in chips)=20
+Seat 5: slonik1000 ($1.44 in chips)=20
+Seat 6: the_wickstar ($1.47 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.38 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+slonik1000: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 6s]
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+Urij2014: folds=20
+slonik1000: raises $0.02 to $0.04
+the_wickstar: folds=20
+Uncalled bet ($0.02) returned to slonik1000
+slonik1000 collected $0.04 from pot
+slonik1000: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.04 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 folded before Flop (didn't bet)
+Seat 4: Urij2014 (button) folded before Flop (didn't bet)
+Seat 5: slonik1000 (small blind) collected ($0.04)
+Seat 6: the_wickstar (big blind) folded before Flop
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 76 **************
+PokerStars Hand #169394385691:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:44:29 CUST [2017/04/22 8:44:29 ET]
+Table 'Thusnelda' 9-max Seat #3 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.96 in chips)=20
+Seat 3: MMAKSIMM13 ($4.08 in chips)=20
+Seat 4: Urij2014 ($2 in chips)=20
+Seat 5: slonik1000 ($1.46 in chips)=20
+Seat 6: the_wickstar ($1.47 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.38 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+Urij2014: posts small blind $0.01
+slonik1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [9d Qd]
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: raises $0.04 to $0.06
+MMAKSIMM13: calls $0.06
+Urij2014: calls $0.05
+slonik1000: folds=20
+*** FLOP *** [9s Jd 8c]
+Urij2014: checks=20
+42SILVER42: checks=20
+MMAKSIMM13: checks=20
+*** TURN *** [9s Jd 8c] [Td]
+Urij2014: checks=20
+42SILVER42: checks=20
+MMAKSIMM13: bets $0.10
+Urij2014: calls $0.10
+42SILVER42: folds=20
+*** RIVER *** [9s Jd 8c Td] [Qs]
+Urij2014: checks=20
+MMAKSIMM13: checks=20
+*** SHOW DOWN ***
+Urij2014: shows [7h 8h] (a straight, Eight to Queen)
+MMAKSIMM13: shows [Qh Ts] (a straight, Eight to Queen)
+Urij2014 collected $0.20 from pot
+MMAKSIMM13 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01=20
+Board [9s Jd 8c Td Qs]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 folded on the Turn
+Seat 3: MMAKSIMM13 (button) showed [Qh Ts] and won ($0.19) with a strai=
+ght, Eight to Queen
+Seat 4: Urij2014 (small blind) showed [7h 8h] and won ($0.20) with a st=
+raight, Eight to Queen
+Seat 5: slonik1000 (big blind) folded before Flop
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 77 **************
+PokerStars Hand #169394344216:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:43:17 CUST [2017/04/22 8:43:17 ET]
+Table 'Thusnelda' 9-max Seat #2 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.96 in chips)=20
+Seat 3: MMAKSIMM13 ($3.80 in chips)=20
+Seat 4: Urij2014 ($2 in chips)=20
+Seat 5: slonik1000 ($1.74 in chips)=20
+Seat 6: the_wickstar ($1.47 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.38 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+MMAKSIMM13: posts small blind $0.01
+Urij2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 7s]
+slonik1000: calls $0.02
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+MMAKSIMM13: raises $0.04 to $0.06
+Urij2014: folds=20
+slonik1000: calls $0.04
+*** FLOP *** [Qc Ad 4d]
+MMAKSIMM13: bets $0.06
+slonik1000: calls $0.06
+*** TURN *** [Qc Ad 4d] [6h]
+MMAKSIMM13: bets $0.08
+slonik1000: raises $0.08 to $0.16
+MMAKSIMM13: calls $0.08
+*** RIVER *** [Qc Ad 4d 6h] [5c]
+MMAKSIMM13: checks=20
+slonik1000: checks=20
+*** SHOW DOWN ***
+MMAKSIMM13: shows [Ah Jc] (a pair of Aces)
+slonik1000: mucks hand=20
+MMAKSIMM13 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02=20
+Board [Qc Ad 4d 6h 5c]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (button) folded before Flop (didn't bet)
+Seat 3: MMAKSIMM13 (small blind) showed [Ah Jc] and won ($0.56) with a =
+pair of Aces
+Seat 4: Urij2014 (big blind) folded before Flop
+Seat 5: slonik1000 mucked [Ac 3s]
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #169394315195:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:42:26 CUST [2017/04/22 8:42:26 ET]
+Table 'Thusnelda' 9-max Seat #1 is the button
+Seat 1: tetro54 ($2.08 in chips)=20
+Seat 2: 42SILVER42 ($1.98 in chips)=20
+Seat 3: MMAKSIMM13 ($3.82 in chips)=20
+Seat 4: Urij2014 ($2 in chips)=20
+Seat 5: slonik1000 ($1.74 in chips)=20
+Seat 6: the_wickstar ($1.43 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.38 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+42SILVER42: posts small blind $0.01
+MMAKSIMM13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th Kc]
+Urij2014: folds=20
+slonik1000: folds=20
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: calls $0.01
+MMAKSIMM13: checks=20
+*** FLOP *** [Ts 4d 9d]
+42SILVER42: checks=20
+MMAKSIMM13: checks=20
+the_wickstar: bets $0.06
+42SILVER42: folds=20
+MMAKSIMM13: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0=20
+Board [Ts 4d 9d]
+Seat 1: tetro54 (button) folded before Flop (didn't bet)
+Seat 2: 42SILVER42 (small blind) folded on the Flop
+Seat 3: MMAKSIMM13 (big blind) folded on the Flop
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar collected ($0.06)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 79 **************
+PokerStars Hand #169394286974:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:41:37 CUST [2017/04/22 8:41:37 ET]
+Table 'Thusnelda' 9-max Seat #9 is the button
+Seat 1: tetro54 ($2.09 in chips)=20
+Seat 2: 42SILVER42 ($2 in chips)=20
+Seat 4: Urij2014 ($2.09 in chips)=20
+Seat 5: slonik1000 ($1.78 in chips)=20
+Seat 6: the_wickstar ($1.47 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.02 in chips)=20
+Seat 9: nkvdes ($2.83 in chips)=20
+tetro54: posts small blind $0.01
+42SILVER42: posts big blind $0.02
+MMAKSIMM13: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 9c]
+Urij2014: raises $0.02 to $0.04
+slonik1000: calls $0.04
+the_wickstar: calls $0.04
+LLLLLeo: folds=20
+PAMEGERA: raises $0.23 to $0.27
+nkvdes: folds=20
+tetro54: folds=20
+42SILVER42: folds=20
+Urij2014: calls $0.23
+slonik1000: folds=20
+the_wickstar: folds=20
+*** FLOP *** [3c Kd Js]
+Urij2014: checks=20
+PAMEGERA: bets $0.49
+Urij2014: folds=20
+Uncalled bet ($0.49) returned to PAMEGERA
+PAMEGERA collected $0.63 from pot
+PAMEGERA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02=20
+Board [3c Kd Js]
+Seat 1: tetro54 (small blind) folded before Flop
+Seat 2: 42SILVER42 (big blind) folded before Flop
+Seat 4: Urij2014 folded on the Flop
+Seat 5: slonik1000 folded before Flop
+Seat 6: the_wickstar folded before Flop
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA collected ($0.63)
+Seat 9: nkvdes (button) folded before Flop (didn't bet)
+
+
+*********** # 80 **************
+PokerStars Hand #169394238529:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:40:12 CUST [2017/04/22 8:40:12 ET]
+Table 'Thusnelda' 9-max Seat #8 is the button
+Seat 1: tetro54 ($2.11 in chips)=20
+Seat 4: Urij2014 ($2.09 in chips)=20
+Seat 5: slonik1000 ($2.24 in chips)=20
+Seat 6: the_wickstar ($1.01 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.02 in chips)=20
+Seat 9: nkvdes ($2.84 in chips)=20
+nkvdes: posts small blind $0.01
+tetro54: posts big blind $0.02
+42SILVER42: sits out=20
+MMAKSIMM13: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h Ks]
+Urij2014: folds=20
+slonik1000: calls $0.02
+the_wickstar: raises $0.04 to $0.06
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+tetro54: folds=20
+slonik1000: calls $0.04
+*** FLOP *** [4d Kh Qh]
+slonik1000: bets $0.07
+the_wickstar: raises $0.07 to $0.14
+slonik1000: calls $0.07
+*** TURN *** [4d Kh Qh] [7h]
+slonik1000: bets $0.10
+the_wickstar: calls $0.10
+*** RIVER *** [4d Kh Qh 7h] [2s]
+slonik1000: bets $0.16
+the_wickstar: raises $0.55 to $0.71 and is all-in
+slonik1000: folds=20
+Uncalled bet ($0.55) returned to the_wickstar
+the_wickstar collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03=20
+Board [4d Kh Qh 7h 2s]
+Seat 1: tetro54 (big blind) folded before Flop
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 5: slonik1000 folded on the River
+Seat 6: the_wickstar collected ($0.92)
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA (button) folded before Flop (didn't bet)
+Seat 9: nkvdes (small blind) folded before Flop
+
+
+*********** # 81 **************
+PokerStars Hand #169394209759:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:39:21 CUST [2017/04/22 8:39:21 ET]
+Table 'Thusnelda' 9-max Seat #7 is the button
+Seat 1: tetro54 ($2.01 in chips)=20
+Seat 4: Urij2014 ($2.17 in chips)=20
+Seat 5: slonik1000 ($2.24 in chips)=20
+Seat 6: the_wickstar ($1.01 in chips)=20
+Seat 7: LLLLLeo ($1.97 in chips)=20
+Seat 8: PAMEGERA ($2.03 in chips)=20
+Seat 9: nkvdes ($2.86 in chips)=20
+PAMEGERA: posts small blind $0.01
+nkvdes: posts big blind $0.02
+42SILVER42: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5d 9d]
+tetro54: raises $0.06 to $0.08
+Urij2014: calls $0.08
+slonik1000: folds=20
+the_wickstar: folds=20
+LLLLLeo: folds=20
+PAMEGERA: folds=20
+nkvdes: folds=20
+*** FLOP *** [6s 3d 2h]
+tetro54: bets $0.12
+Urij2014: folds=20
+Uncalled bet ($0.12) returned to tetro54
+tetro54 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01=20
+Board [6s 3d 2h]
+Seat 1: tetro54 collected ($0.18)
+Seat 4: Urij2014 folded on the Flop
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar folded before Flop (didn't bet)
+Seat 7: LLLLLeo (button) folded before Flop (didn't bet)
+Seat 8: PAMEGERA (small blind) folded before Flop
+Seat 9: nkvdes (big blind) folded before Flop
+
+
+*********** # 82 **************
+PokerStars Hand #169394188132:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:38:43 CUST [2017/04/22 8:38:43 ET]
+Table 'Thusnelda' 9-max Seat #6 is the button
+Seat 1: tetro54 ($2.01 in chips)=20
+Seat 4: Urij2014 ($2.17 in chips)=20
+Seat 5: slonik1000 ($2.24 in chips)=20
+Seat 6: the_wickstar ($1.03 in chips)=20
+Seat 7: LLLLLeo ($1.98 in chips)=20
+Seat 8: PAMEGERA ($2 in chips)=20
+Seat 9: nkvdes ($2.86 in chips)=20
+LLLLLeo: posts small blind $0.01
+PAMEGERA: posts big blind $0.02
+42SILVER42: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [5c Ts]
+nkvdes: folds=20
+tetro54: folds=20
+Urij2014: folds=20
+slonik1000: folds=20
+the_wickstar: calls $0.02
+LLLLLeo: folds=20
+PAMEGERA: raises $0.08 to $0.10
+the_wickstar: folds=20
+Uncalled bet ($0.08) returned to PAMEGERA
+PAMEGERA collected $0.05 from pot
+PAMEGERA: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.05 | Rake $0=20
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 5: slonik1000 folded before Flop (didn't bet)
+Seat 6: the_wickstar (button) folded before Flop
+Seat 7: LLLLLeo (small blind) folded before Flop
+Seat 8: PAMEGERA (big blind) collected ($0.05)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 83 **************
+PokerStars Hand #169394168657:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:38:09 CUST [2017/04/22 8:38:09 ET]
+Table 'Thusnelda' 9-max Seat #5 is the button
+Seat 1: tetro54 ($2.07 in chips)=20
+Seat 4: Urij2014 ($2.17 in chips)=20
+Seat 5: slonik1000 ($2.16 in chips)=20
+Seat 6: the_wickstar ($1.04 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2 in chips)=20
+Seat 9: nkvdes ($2.86 in chips)=20
+the_wickstar: posts small blind $0.01
+LLLLLeo: posts big blind $0.02
+42SILVER42: sits out=20
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 3h]
+PAMEGERA: folds=20
+nkvdes: folds=20
+MMAKSIMM13 is disconnected=20
+tetro54: raises $0.04 to $0.06
+Urij2014: folds=20
+slonik1000: calls $0.06
+the_wickstar: folds=20
+LLLLLeo: folds=20
+*** FLOP *** [5h 8c 7c]
+tetro54: checks=20
+slonik1000: bets $0.07
+tetro54: folds=20
+Uncalled bet ($0.07) returned to slonik1000
+slonik1000 collected $0.14 from pot
+slonik1000: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01=20
+Board [5h 8c 7c]
+Seat 1: tetro54 folded on the Flop
+Seat 4: Urij2014 folded before Flop (didn't bet)
+Seat 5: slonik1000 (button) collected ($0.14)
+Seat 6: the_wickstar (small blind) folded before Flop
+Seat 7: LLLLLeo (big blind) folded before Flop
+Seat 8: PAMEGERA folded before Flop (didn't bet)
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 84 **************
+PokerStars Hand #169394140270:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:37:19 CUST [2017/04/22 8:37:19 ET]
+Table 'Thusnelda' 9-max Seat #4 is the button
+Seat 1: tetro54 ($2.07 in chips)=20
+Seat 4: Urij2014 ($2.17 in chips)=20
+Seat 5: slonik1000 ($1.11 in chips)=20
+Seat 6: the_wickstar ($1.06 in chips)=20
+Seat 7: LLLLLeo ($2 in chips)=20
+Seat 8: PAMEGERA ($2.27 in chips)=20
+Seat 9: nkvdes ($2.86 in chips)=20
+slonik1000: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to the_wickstar [3s 5h]
+LLLLLeo: folds=20
+PAMEGERA: raises $0.04 to $0.06
+nkvdes: folds=20
+tetro54: folds=20
+Urij2014: folds=20
+slonik1000: calls $0.05
+the_wickstar: folds=20
+*** FLOP *** [Ad 9d 3h]
+slonik1000: checks=20
+42SILVER42 joins the table at seat #2=20
+PAMEGERA: bets $0.18
+slonik1000: calls $0.18
+*** TURN *** [Ad 9d 3h] [2s]
+slonik1000: checks=20
+PAMEGERA: bets $0.61
+slonik1000: raises $0.26 to $0.87 and is all-in
+PAMEGERA: calls $0.26
+*** RIVER *** [Ad 9d 3h 2s] [Td]
+*** SHOW DOWN ***
+slonik1000: shows [9c Ac] (two pair, Aces and Nines)
+PAMEGERA: shows [Qs Ah] (a pair of Aces)
+slonik1000 collected $2.16 from pot
+*** SUMMARY ***
+Total pot $2.24 | Rake $0.08=20
+Board [Ad 9d 3h 2s Td]
+Seat 1: tetro54 folded before Flop (didn't bet)
+Seat 4: Urij2014 (button) folded before Flop (didn't bet)
+Seat 5: slonik1000 (small blind) showed [9c Ac] and won ($2.16) with tw=
+o pair, Aces and Nines
+Seat 6: the_wickstar (big blind) folded before Flop
+Seat 7: LLLLLeo folded before Flop (didn't bet)
+Seat 8: PAMEGERA showed [Qs Ah] and lost with a pair of Aces
+Seat 9: nkvdes folded before Flop (didn't bet)
+
+
+*********** # 85 **************
+PokerStars Hand #169394028910:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:34:01 CUST [2017/04/22 8:34:01 ET]
+Table 'Chryseis II' 9-max Seat #1 is the button
+Seat 1: the_wickstar ($0.66 in chips)=20
+Seat 2: Oliveira1455 ($1.90 in chips)=20
+Seat 3: N0$tradamu$ ($5.27 in chips)=20
+Seat 5: Dusch799 ($1.94 in chips)=20
+Seat 6: KykkaBR ($3.67 in chips)=20
+Seat 7: Hollywoody R ($5.07 in chips)=20
+Seat 8: Raimundo434 ($2 in chips)=20
+Seat 9: r2122 ($4.01 in chips)=20
+Oliveira1455: posts small blind $0.01
+N0$tradamu$: posts big blind $0.02
+melan01: sits out=20
+the_wickstar: posts the ante $0.01
+Oliveira1455: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [8h 6h]
+Dusch799: folds=20
+KykkaBR: raises $0.04 to $0.06
+Hollywoody R: folds=20
+Raimundo434: calls $0.06
+r2122: calls $0.06
+the_wickstar: calls $0.06
+Oliveira1455: folds=20
+N0$tradamu$: folds=20
+*** FLOP *** [4d Qd Ts]
+KykkaBR: checks=20
+Raimundo434: checks=20
+r2122: bets $0.20
+the_wickstar: raises $0.39 to $0.59 and is all-in
+KykkaBR: folds=20
+Raimundo434: folds=20
+r2122: calls $0.39
+*** TURN *** [4d Qd Ts] [2s]
+*** RIVER *** [4d Qd Ts 2s] [2c]
+*** SHOW DOWN ***
+r2122: shows [Qh 4h] (two pair, Queens and Fours)
+the_wickstar: shows [8h 6h] (a pair of Deuces)
+r2122 collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05=20
+Board [4d Qd Ts 2s 2c]
+Seat 1: the_wickstar (button) showed [8h 6h] and lost with a pair of De=
+uces
+Seat 2: Oliveira1455 (small blind) folded before Flop
+Seat 3: N0$tradamu$ (big blind) folded before Flop
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded on the Flop
+Seat 7: Hollywoody R folded before Flop (didn't bet)
+Seat 8: Raimundo434 folded on the Flop
+Seat 9: r2122 showed [Qh 4h] and won ($1.48) with two pair, Queens and =
+Fours
+
+
+*********** # 86 **************
+PokerStars Hand #169393991782:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:32:55 CUST [2017/04/22 8:32:55 ET]
+Table 'Chryseis II' 9-max Seat #9 is the button
+Seat 1: the_wickstar ($0.69 in chips)=20
+Seat 2: Oliveira1455 ($2 in chips)=20
+Seat 3: N0$tradamu$ ($5.28 in chips)=20
+Seat 5: Dusch799 ($1.95 in chips)=20
+Seat 6: KykkaBR ($3.68 in chips)=20
+Seat 7: Hollywoody R ($5.01 in chips)=20
+Seat 9: r2122 ($3.95 in chips)=20
+the_wickstar: posts small blind $0.01
+Oliveira1455: posts big blind $0.02
+melan01: sits out=20
+the_wickstar: posts the ante $0.01
+Oliveira1455: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Td 2s]
+N0$tradamu$: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+Hollywoody R: calls $0.02
+r2122: calls $0.02
+the_wickstar: calls $0.01
+Oliveira1455: checks=20
+*** FLOP *** [3d 5d Ks]
+the_wickstar: checks=20
+Oliveira1455: checks=20
+Hollywoody R: bets $0.07
+r2122: calls $0.07
+the_wickstar: folds=20
+Oliveira1455: calls $0.07
+*** TURN *** [3d 5d Ks] [5s]
+Oliveira1455: checks=20
+Hollywoody R: bets $0.18
+r2122: calls $0.18
+Oliveira1455: folds=20
+*** RIVER *** [3d 5d Ks 5s] [As]
+Hollywoody R: bets $0.16
+r2122: calls $0.16
+*** SHOW DOWN ***
+Hollywoody R: shows [Kd Tc] (two pair, Kings and Fives)
+r2122: shows [Kh Qs] (two pair, Kings and Fives)
+Hollywoody R collected $0.50 from pot
+r2122 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04=20
+Board [3d 5d Ks 5s As]
+Seat 1: the_wickstar (small blind) folded on the Flop
+Seat 2: Oliveira1455 (big blind) folded on the Turn
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: Hollywoody R showed [Kd Tc] and won ($0.50) with two pair, King=
+s and Fives
+Seat 9: r2122 (button) showed [Kh Qs] and won ($0.50) with two pair, Ki=
+ngs and Fives
+
+
+*********** # 87 **************
+PokerStars Hand #169393952722:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:31:46 CUST [2017/04/22 8:31:46 ET]
+Table 'Chryseis II' 9-max Seat #7 is the button
+Seat 1: the_wickstar ($0.70 in chips)=20
+Seat 3: N0$tradamu$ ($5.29 in chips)=20
+Seat 5: Dusch799 ($1.96 in chips)=20
+Seat 6: KykkaBR ($2.84 in chips)=20
+Seat 7: Hollywoody R ($5.02 in chips)=20
+Seat 8: Raimundo434 ($0.83 in chips)=20
+Seat 9: r2122 ($3.98 in chips)=20
+Raimundo434: posts small blind $0.01
+r2122: posts big blind $0.02
+melan01: sits out=20
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [2d Jh]
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+Dusch799: folds=20
+KykkaBR: raises $0.04 to $0.06
+Hollywoody R: folds=20
+Raimundo434: calls $0.05
+r2122: folds=20
+*** FLOP *** [Jc 6h 9s]
+Raimundo434: checks=20
+KykkaBR: bets $0.14
+Raimundo434: calls $0.14
+*** TURN *** [Jc 6h 9s] [7h]
+Raimundo434: checks=20
+Oliveira1455 joins the table at seat #2=20
+KykkaBR: bets $0.24
+Raimundo434: raises $0.38 to $0.62 and is all-in
+KykkaBR: calls $0.38
+*** RIVER *** [Jc 6h 9s 7h] [5s]
+*** SHOW DOWN ***
+Raimundo434: shows [Qs Th] (high card Queen)
+KykkaBR: shows [Kc Kh] (a pair of Kings)
+KykkaBR collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.06=20
+Board [Jc 6h 9s 7h 5s]
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR showed [Kc Kh] and won ($1.67) with a pair of Kings
+Seat 7: Hollywoody R (button) folded before Flop (didn't bet)
+Seat 8: Raimundo434 (small blind) showed [Qs Th] and lost with high car=
+d Queen
+Seat 9: r2122 (big blind) folded before Flop
+
+
+*********** # 88 **************
+PokerStars Hand #169393925021:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:30:57 CUST [2017/04/22 8:30:57 ET]
+Table 'Chryseis II' 9-max Seat #6 is the button
+Seat 1: the_wickstar ($0.71 in chips)=20
+Seat 3: N0$tradamu$ ($5.30 in chips)=20
+Seat 5: Dusch799 ($1.97 in chips)=20
+Seat 6: KykkaBR ($2.62 in chips)=20
+Seat 7: Hollywoody R ($5.04 in chips)=20
+Seat 8: Raimundo434 ($1 in chips)=20
+Seat 9: r2122 ($3.99 in chips)=20
+Hollywoody R: posts small blind $0.01
+Raimundo434: posts big blind $0.02
+melan01: sits out=20
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s 2d]
+r2122: folds=20
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+Dusch799: folds=20
+KykkaBR: raises $0.04 to $0.06
+Hollywoody R: folds=20
+Raimundo434: calls $0.04
+*** FLOP *** [Qc Jh 8c]
+Raimundo434: checks=20
+KykkaBR: checks=20
+*** TURN *** [Qc Jh 8c] [4d]
+Raimundo434: checks=20
+KykkaBR: bets $0.10
+Raimundo434: calls $0.10
+*** RIVER *** [Qc Jh 8c 4d] [3h]
+Raimundo434: checks=20
+KykkaBR: bets $0.18
+Raimundo434: folds=20
+Uncalled bet ($0.18) returned to KykkaBR
+KykkaBR collected $0.39 from pot
+KykkaBR: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01=20
+Board [Qc Jh 8c 4d 3h]
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR (button) collected ($0.39)
+Seat 7: Hollywoody R (small blind) folded before Flop
+Seat 8: Raimundo434 (big blind) folded on the River
+Seat 9: r2122 folded before Flop (didn't bet)
+
+
+*********** # 89 **************
+PokerStars Hand #169393881753:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:29:40 CUST [2017/04/22 8:29:40 ET]
+Table 'Chryseis II' 9-max Seat #5 is the button
+Seat 1: the_wickstar ($0.72 in chips)=20
+Seat 2: filltourt ($0.06 in chips)=20
+Seat 3: N0$tradamu$ ($5.39 in chips)=20
+Seat 5: Dusch799 ($1.98 in chips)=20
+Seat 6: KykkaBR ($2.64 in chips)=20
+Seat 7: Hollywoody R ($4.76 in chips)=20
+Seat 8: Raimundo434 ($1.15 in chips)=20
+Seat 9: r2122 ($4 in chips)=20
+KykkaBR: posts small blind $0.01
+Hollywoody R: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+filltourt: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qc 4d]
+Raimundo434: calls $0.02
+r2122: folds=20
+the_wickstar: folds=20
+filltourt: folds=20
+filltourt leaves the table
+N0$tradamu$: raises $0.06 to $0.08
+melan01 joins the table at seat #4=20
+Dusch799: folds=20
+KykkaBR: folds=20
+Hollywoody R: calls $0.06
+Raimundo434: calls $0.06
+*** FLOP *** [4h 8s Kh]
+Hollywoody R: checks=20
+Raimundo434: checks=20
+N0$tradamu$: checks=20
+*** TURN *** [4h 8s Kh] [9s]
+Hollywoody R: bets $0.06
+Raimundo434: calls $0.06
+N0$tradamu$: folds=20
+*** RIVER *** [4h 8s Kh 9s] [As]
+Hollywoody R: bets $0.22
+Raimundo434: folds=20
+Uncalled bet ($0.22) returned to Hollywoody R
+Hollywoody R collected $0.43 from pot
+Hollywoody R: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02=20
+Board [4h 8s Kh 9s As]
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 2: filltourt folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded on the Turn
+Seat 5: Dusch799 (button) folded before Flop (didn't bet)
+Seat 6: KykkaBR (small blind) folded before Flop
+Seat 7: Hollywoody R (big blind) collected ($0.43)
+Seat 8: Raimundo434 folded on the River
+Seat 9: r2122 folded before Flop (didn't bet)
+
+
+*********** # 90 **************
+PokerStars Hand #169393831145:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:28:09 CUST [2017/04/22 8:28:09 ET]
+Table 'Chryseis II' 9-max Seat #4 is the button
+Seat 1: the_wickstar ($0.73 in chips)=20
+Seat 2: filltourt ($2.05 in chips)=20
+Seat 3: N0$tradamu$ ($5.40 in chips)=20
+Seat 4: evgenij2125 ($2.10 in chips)=20
+Seat 5: Dusch799 ($2 in chips)=20
+Seat 6: KykkaBR ($2.67 in chips)=20
+Seat 7: Hollywoody R ($4.77 in chips)=20
+Seat 8: Raimundo434 ($1.22 in chips)=20
+Seat 9: r2122 ($1.99 in chips)=20
+Dusch799: posts small blind $0.01
+KykkaBR: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+filltourt: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Jd 8d]
+Hollywoody R: folds=20
+Raimundo434: calls $0.02
+r2122: raises $0.04 to $0.06
+the_wickstar: folds=20
+filltourt: calls $0.06
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+Raimundo434: calls $0.04
+*** FLOP *** [Ac 7d 6d]
+Raimundo434: checks=20
+r2122: bets $0.16
+filltourt: raises $0.16 to $0.32
+Raimundo434: folds=20
+evgenij2125 leaves the table
+r2122: calls $0.16
+*** TURN *** [Ac 7d 6d] [3s]
+r2122: checks=20
+filltourt: bets $0.46
+r2122: raises $1.14 to $1.60 and is all-in
+filltourt: calls $1.14
+*** RIVER *** [Ac 7d 6d 3s] [7h]
+*** SHOW DOWN ***
+r2122: shows [5s 4h] (a straight, Three to Seven)
+filltourt: shows [Ah Qs] (two pair, Aces and Sevens)
+r2122 collected $4 from pot
+*** SUMMARY ***
+Total pot $4.14 | Rake $0.14=20
+Board [Ac 7d 6d 3s 7h]
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 2: filltourt showed [Ah Qs] and lost with two pair, Aces and Sevens
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 (button) folded before Flop (didn't bet)
+Seat 5: Dusch799 (small blind) folded before Flop
+Seat 6: KykkaBR (big blind) folded before Flop
+Seat 7: Hollywoody R folded before Flop (didn't bet)
+Seat 8: Raimundo434 folded on the Flop
+Seat 9: r2122 showed [5s 4h] and won ($4) with a straight, Three to Sev=
+en
+
+
+*********** # 91 **************
+PokerStars Hand #169393747112:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:25:38 CUST [2017/04/22 8:25:38 ET]
+Table 'Chryseis II' 9-max Seat #3 is the button
+Seat 1: the_wickstar ($1.86 in chips)=20
+Seat 2: filltourt ($2.09 in chips)=20
+Seat 3: N0$tradamu$ ($5.41 in chips)=20
+Seat 4: evgenij2125 ($2.12 in chips)=20
+Seat 5: Dusch799 ($1.72 in chips)=20
+Seat 6: KykkaBR ($2.80 in chips)=20
+Seat 7: Hollywoody R ($2.88 in chips)=20
+Seat 8: Raimundo434 ($1.55 in chips)=20
+Seat 9: r2122 ($2 in chips)=20
+evgenij2125: posts small blind $0.01
+Dusch799: posts big blind $0.02
+filltourt: posts small & big blinds $0.03
+the_wickstar: posts the ante $0.01
+filltourt: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Qc Kc]
+KykkaBR: raises $0.04 to $0.06
+Hollywoody R: calls $0.06
+Raimundo434: calls $0.06
+r2122: folds=20
+the_wickstar: raises $0.06 to $0.12
+filltourt: folds=20
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: calls $0.10
+KykkaBR: calls $0.06
+Hollywoody R: calls $0.06
+Raimundo434: calls $0.06
+*** FLOP *** [8c 2h Ts]
+Dusch799: checks=20
+KykkaBR: checks=20
+Hollywoody R: bets $0.12
+Raimundo434: calls $0.12
+the_wickstar: calls $0.12
+Dusch799: calls $0.12
+KykkaBR: folds=20
+*** TURN *** [8c 2h Ts] [As]
+Dusch799: checks=20
+Hollywoody R: bets $0.08
+Raimundo434: calls $0.08
+the_wickstar: calls $0.08
+Dusch799: calls $0.08
+*** RIVER *** [8c 2h Ts As] [Qh]
+Dusch799: checks=20
+Hollywoody R: bets $0.80
+Raimundo434: folds=20
+the_wickstar: calls $0.80
+Dusch799: folds=20
+*** SHOW DOWN ***
+Hollywoody R: shows [9s Jh] (a straight, Eight to Queen)
+the_wickstar: mucks hand=20
+Hollywoody R collected $3.02 from pot
+*** SUMMARY ***
+Total pot $3.13 | Rake $0.11=20
+Board [8c 2h Ts As Qh]
+Seat 1: the_wickstar mucked [Qc Kc]
+Seat 2: filltourt folded before Flop
+Seat 3: N0$tradamu$ (button) folded before Flop (didn't bet)
+Seat 4: evgenij2125 (small blind) folded before Flop
+Seat 5: Dusch799 (big blind) folded on the River
+Seat 6: KykkaBR folded on the Flop
+Seat 7: Hollywoody R showed [9s Jh] and won ($3.02) with a straight, Ei=
+ght to Queen
+Seat 8: Raimundo434 folded on the River
+Seat 9: r2122 folded before Flop (didn't bet)
+
+
+*********** # 92 **************
+PokerStars Hand #169393695171:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:24:05 CUST [2017/04/22 8:24:05 ET]
+Table 'Chryseis II' 9-max Seat #1 is the button
+Seat 1: the_wickstar ($1.89 in chips)=20
+Seat 3: N0$tradamu$ ($5.52 in chips)=20
+Seat 4: evgenij2125 ($2.15 in chips)=20
+Seat 5: Dusch799 ($1.73 in chips)=20
+Seat 6: KykkaBR ($2.81 in chips)=20
+Seat 7: Hollywoody R ($2.91 in chips)=20
+Seat 8: Raimundo434 ($1.33 in chips)=20
+Seat 9: r2122 ($0.58 in chips)=20
+filltourt will be allowed to play after the button
+N0$tradamu$: posts small blind $0.01
+evgenij2125: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 8h]
+Dusch799: folds=20
+KykkaBR: folds=20
+Hollywoody R: calls $0.02
+Raimundo434: calls $0.02
+r2122: folds=20
+the_wickstar: calls $0.02
+N0$tradamu$: raises $0.08 to $0.10
+evgenij2125: folds=20
+Hollywoody R: folds=20
+Raimundo434: calls $0.08
+the_wickstar: folds=20
+*** FLOP *** [2d 8d 6c]
+N0$tradamu$: checks=20
+Raimundo434: checks=20
+*** TURN *** [2d 8d 6c] [5d]
+N0$tradamu$: checks=20
+Raimundo434: bets $0.08
+N0$tradamu$: folds=20
+Uncalled bet ($0.08) returned to Raimundo434
+Raimundo434 collected $0.33 from pot
+Raimundo434: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01=20
+Board [2d 8d 6c 5d]
+Seat 1: the_wickstar (button) folded before Flop
+Seat 3: N0$tradamu$ (small blind) folded on the Turn
+Seat 4: evgenij2125 (big blind) folded before Flop
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: Hollywoody R folded before Flop
+Seat 8: Raimundo434 collected ($0.33)
+Seat 9: r2122 folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #169393647935:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:22:40 CUST [2017/04/22 8:22:40 ET]
+Table 'Chryseis II' 9-max Seat #9 is the button
+Seat 1: the_wickstar ($1.91 in chips)=20
+Seat 3: N0$tradamu$ ($5.55 in chips)=20
+Seat 4: evgenij2125 ($2.16 in chips)=20
+Seat 5: Dusch799 ($1.74 in chips)=20
+Seat 6: KykkaBR ($2.82 in chips)=20
+Seat 7: Hollywoody R ($1.87 in chips)=20
+Seat 8: Raimundo434 ($1.60 in chips)=20
+Seat 9: r2122 ($1.33 in chips)=20
+the_wickstar: posts small blind $0.01
+N0$tradamu$: posts big blind $0.02
+Raimundo434: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+Raimundo434: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Th 4c]
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+Hollywoody R: calls $0.02
+Raimundo434: raises $0.04 to $0.06
+r2122: calls $0.06
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+Hollywoody R: calls $0.04
+*** FLOP *** [9c 3s 5c]
+Hollywoody R: bets $0.06
+Raimundo434: calls $0.06
+r2122: calls $0.06
+*** TURN *** [9c 3s 5c] [Ks]
+Hollywoody R: checks=20
+Raimundo434: checks=20
+r2122: checks=20
+*** RIVER *** [9c 3s 5c Ks] [8d]
+Hollywoody R: checks=20
+Raimundo434: bets $0.14
+r2122: calls $0.14
+Hollywoody R: raises $0.48 to $0.62
+Raimundo434: folds=20
+r2122: calls $0.48
+*** SHOW DOWN ***
+Hollywoody R: shows [6c 7h] (a straight, Five to Nine)
+r2122: mucks hand=20
+Hollywoody R collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.06=20
+Board [9c 3s 5c Ks 8d]
+Seat 1: the_wickstar (small blind) folded before Flop
+Seat 3: N0$tradamu$ (big blind) folded before Flop
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: Hollywoody R showed [6c 7h] and won ($1.79) with a straight, Fi=
+ve to Nine
+Seat 8: Raimundo434 folded on the River
+Seat 9: r2122 (button) mucked [9h Tc]
+
+
+*********** # 94 **************
+PokerStars Hand #169393605403:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:21:23 CUST [2017/04/22 8:21:23 ET]
+Table 'Chryseis II' 9-max Seat #7 is the button
+Seat 1: the_wickstar ($1.63 in chips)=20
+Seat 3: N0$tradamu$ ($5.56 in chips)=20
+Seat 4: evgenij2125 ($2.17 in chips)=20
+Seat 5: Dusch799 ($1.75 in chips)=20
+Seat 6: KykkaBR ($2.83 in chips)=20
+Seat 7: Hollywoody R ($2 in chips)=20
+Seat 9: r2122 ($1.46 in chips)=20
+r2122: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Ad Ks]
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+Hollywoody R: raises $0.04 to $0.06
+r2122: calls $0.05
+Raimundo434 joins the table at seat #8=20
+the_wickstar: raises $0.06 to $0.12
+Hollywoody R: calls $0.06
+r2122: calls $0.06
+*** FLOP *** [2s 7d 5c]
+r2122: checks=20
+the_wickstar: bets $0.41
+Hollywoody R: folds=20
+r2122: folds=20
+Uncalled bet ($0.41) returned to the_wickstar
+the_wickstar collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02=20
+Board [2s 7d 5c]
+Seat 1: the_wickstar (big blind) collected ($0.41)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: Hollywoody R (button) folded on the Flop
+Seat 9: r2122 (small blind) folded on the Flop
+
+
+*********** # 95 **************
+PokerStars Hand #169393590662:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:20:56 CUST [2017/04/22 8:20:56 ET]
+Table 'Chryseis II' 9-max Seat #6 is the button
+Seat 1: the_wickstar ($1.64 in chips)=20
+Seat 3: N0$tradamu$ ($5.57 in chips)=20
+Seat 4: evgenij2125 ($2.18 in chips)=20
+Seat 5: Dusch799 ($1.66 in chips)=20
+Seat 6: KykkaBR ($2.84 in chips)=20
+Seat 7: Hollywoody R ($2.02 in chips)=20
+Seat 9: r2122 ($1.49 in chips)=20
+Hollywoody R: posts small blind $0.01
+Cafe.Life was removed from the table for failing to post
+r2122: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [2c 5s]
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: raises $0.12 to $0.14
+KykkaBR: folds=20
+Hollywoody R: folds=20
+r2122: folds=20
+Uncalled bet ($0.12) returned to Dusch799
+Dusch799 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0=20
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 collected ($0.12)
+Seat 6: KykkaBR (button) folded before Flop (didn't bet)
+Seat 7: Hollywoody R (small blind) folded before Flop
+Seat 9: r2122 (big blind) folded before Flop
+
+
+*********** # 96 **************
+PokerStars Hand #169393559191:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:19:58 CUST [2017/04/22 8:19:58 ET]
+Table 'Chryseis II' 9-max Seat #5 is the button
+Seat 1: the_wickstar ($1.40 in chips)=20
+Seat 3: N0$tradamu$ ($5.58 in chips)=20
+Seat 4: evgenij2125 ($2.25 in chips)=20
+Seat 5: Dusch799 ($1.73 in chips)=20
+Seat 6: KykkaBR ($2.86 in chips)=20
+Seat 7: Hollywoody R ($2.09 in chips)=20
+Seat 9: r2122 ($1.50 in chips)=20
+KykkaBR: posts small blind $0.01
+Hollywoody R: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Td Jh]
+r2122: folds=20
+the_wickstar: raises $0.04 to $0.06
+N0$tradamu$: folds=20
+evgenij2125: calls $0.06
+Dusch799: calls $0.06
+KykkaBR: folds=20
+Hollywoody R: calls $0.04
+*** FLOP *** [Qs Qd 7d]
+Hollywoody R: checks=20
+the_wickstar: bets $0.21
+evgenij2125: folds=20
+Dusch799: folds=20
+Hollywoody R: folds=20
+Uncalled bet ($0.21) returned to the_wickstar
+the_wickstar collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01=20
+Board [Qs Qd 7d]
+Seat 1: the_wickstar collected ($0.31)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded on the Flop
+Seat 5: Dusch799 (button) folded on the Flop
+Seat 6: KykkaBR (small blind) folded before Flop
+Seat 7: Hollywoody R (big blind) folded on the Flop
+Seat 9: r2122 folded before Flop (didn't bet)
+
+
+*********** # 97 **************
+PokerStars Hand #169393530711:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:19:06 CUST [2017/04/22 8:19:06 ET]
+Table 'Chryseis II' 9-max Seat #4 is the button
+Seat 1: the_wickstar ($1.41 in chips)=20
+Seat 3: N0$tradamu$ ($5.59 in chips)=20
+Seat 4: evgenij2125 ($2.26 in chips)=20
+Seat 5: Dusch799 ($1.75 in chips)=20
+Seat 6: KykkaBR ($2.89 in chips)=20
+Seat 7: Hollywoody R ($1.95 in chips)=20
+Seat 9: r2122 ($1.57 in chips)=20
+Dusch799: posts small blind $0.01
+KykkaBR: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s 4h]
+Hollywoody R: raises $0.04 to $0.06
+r2122: calls $0.06
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+*** FLOP *** [5d 8h Ah]
+Hollywoody R: bets $0.04
+r2122: folds=20
+Uncalled bet ($0.04) returned to Hollywoody R
+Hollywoody R collected $0.21 from pot
+Hollywoody R: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01=20
+Board [5d 8h Ah]
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 (button) folded before Flop (didn't bet)
+Seat 5: Dusch799 (small blind) folded before Flop
+Seat 6: KykkaBR (big blind) folded before Flop
+Seat 7: Hollywoody R collected ($0.21)
+Seat 9: r2122 folded on the Flop
+
+
+*********** # 98 **************
+PokerStars Hand #169393502653:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:18:14 CUST [2017/04/22 8:18:14 ET]
+Table 'Chryseis II' 9-max Seat #3 is the button
+Seat 1: the_wickstar ($1.44 in chips)=20
+Seat 3: N0$tradamu$ ($5.60 in chips)=20
+Seat 4: evgenij2125 ($2.03 in chips)=20
+Seat 5: Dusch799 ($1.78 in chips)=20
+Seat 6: KykkaBR ($3 in chips)=20
+Seat 7: Hollywoody R ($1.18 in chips)=20
+Seat 9: r2122 ($1.60 in chips)=20
+evgenij2125: posts small blind $0.01
+Dusch799: posts big blind $0.02
+r2122: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+r2122: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [4d Td]
+KykkaBR: calls $0.02
+Hollywoody R: calls $0.02
+r2122: checks=20
+the_wickstar: calls $0.02
+N0$tradamu$: folds=20
+evgenij2125: calls $0.01
+Dusch799: checks=20
+*** FLOP *** [3c As 3s]
+evgenij2125: checks=20
+Dusch799: checks=20
+KykkaBR: bets $0.08
+Hollywoody R: folds=20
+r2122: folds=20
+the_wickstar: folds=20
+evgenij2125: raises $0.16 to $0.24
+Dusch799: folds=20
+KykkaBR: folds=20
+Uncalled bet ($0.16) returned to evgenij2125
+evgenij2125 collected $0.34 from pot
+evgenij2125: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01=20
+Board [3c As 3s]
+Seat 1: the_wickstar folded on the Flop
+Seat 3: N0$tradamu$ (button) folded before Flop (didn't bet)
+Seat 4: evgenij2125 (small blind) collected ($0.34)
+Seat 5: Dusch799 (big blind) folded on the Flop
+Seat 6: KykkaBR folded on the Flop
+Seat 7: Hollywoody R folded on the Flop
+Seat 9: r2122 folded on the Flop
+
+
+*********** # 99 **************
+PokerStars Hand #169393438716:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:16:17 CUST [2017/04/22 8:16:17 ET]
+Table 'Chryseis II' 9-max Seat #1 is the button
+Seat 1: the_wickstar ($1.31 in chips)=20
+Seat 2: filltourt ($2.11 in chips)=20
+Seat 3: N0$tradamu$ ($5.63 in chips)=20
+Seat 4: evgenij2125 ($2.04 in chips)=20
+Seat 5: Dusch799 ($1.79 in chips)=20
+Seat 6: KykkaBR ($3.03 in chips)=20
+Seat 7: Hollywoody R ($1.21 in chips)=20
+filltourt: posts small blind $0.01
+N0$tradamu$: posts big blind $0.02
+Hollywoody R: posts big blind $0.02
+r2122: sits out=20
+the_wickstar: posts the ante $0.01
+filltourt: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+Hollywoody R: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc Th]
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: calls $0.02
+Hollywoody R: checks=20
+the_wickstar: raises $0.06 to $0.08
+filltourt is disconnected=20
+filltourt has timed out while disconnected
+filltourt: folds=20
+N0$tradamu$: folds=20
+KykkaBR: folds=20
+Hollywoody R: folds=20
+Uncalled bet ($0.06) returned to the_wickstar
+the_wickstar collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0=20
+Seat 1: the_wickstar (button) collected ($0.16)
+Seat 2: filltourt (small blind) folded before Flop
+Seat 3: N0$tradamu$ (big blind) folded before Flop
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop
+Seat 7: Hollywoody R folded before Flop
+
+
+*********** # 100 **************
+PokerStars Hand #169393346172:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:13:36 CUST [2017/04/22 8:13:36 ET]
+Table 'Chryseis II' 9-max Seat #6 is the button
+Seat 1: the_wickstar ($1.39 in chips)=20
+Seat 2: filltourt ($2 in chips)=20
+Seat 3: N0$tradamu$ ($5.64 in chips)=20
+Seat 4: evgenij2125 ($2.05 in chips)=20
+Seat 5: Dusch799 ($1.80 in chips)=20
+Seat 6: KykkaBR ($3.04 in chips)=20
+Hollywoody R will be allowed to play after the button
+r2122 will be allowed to play after the button
+the_wickstar: posts small blind $0.01
+filltourt: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+filltourt: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d Jc]
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: folds=20
+KykkaBR: folds=20
+the_wickstar: calls $0.01
+filltourt is disconnected=20
+filltourt has timed out while disconnected
+filltourt: checks=20
+*** FLOP *** [Kd 2d 2h]
+the_wickstar: checks=20
+filltourt is connected=20
+filltourt has timed out while being disconnected
+filltourt: checks=20
+*** TURN *** [Kd 2d 2h] [7h]
+filltourt is disconnected=20
+the_wickstar: bets $0.05
+filltourt is connected=20
+filltourt: calls $0.05
+*** RIVER *** [Kd 2d 2h 7h] [5h]
+the_wickstar: checks=20
+filltourt: checks=20
+*** SHOW DOWN ***
+the_wickstar: shows [7d Jc] (two pair, Sevens and Deuces)
+filltourt: shows [8s 8c] (two pair, Eights and Deuces)
+filltourt collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01=20
+Board [Kd 2d 2h 7h 5h]
+Seat 1: the_wickstar (small blind) showed [7d Jc] and lost with two pai=
+r, Sevens and Deuces
+Seat 2: filltourt (big blind) showed [8s 8c] and won ($0.19) with two p=
+air, Eights and Deuces
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR (button) folded before Flop (didn't bet)
+
+
+*********** # 101 **************
+PokerStars Hand #169393312116:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:12:33 CUST [2017/04/22 8:12:33 ET]
+Table 'Chryseis II' 9-max Seat #5 is the button
+Seat 1: the_wickstar ($1.42 in chips)=20
+Seat 3: N0$tradamu$ ($5.65 in chips)=20
+Seat 4: evgenij2125 ($2.08 in chips)=20
+Seat 5: Dusch799 ($1.81 in chips)=20
+Seat 6: KykkaBR ($2.93 in chips)=20
+Seat 7: tantusi ($3.04 in chips)=20
+KykkaBR: posts small blind $0.01
+tantusi: posts big blind $0.02
+r2122: sits out=20
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [7d 9d]
+the_wickstar: calls $0.02
+N0$tradamu$: folds=20
+evgenij2125: calls $0.02
+Dusch799: folds=20
+KykkaBR: calls $0.01
+tantusi: checks=20
+*** FLOP *** [4c 8d 5h]
+KykkaBR: bets $0.08
+tantusi: folds=20
+tantusi leaves the table
+Hollywoody R joins the table at seat #7=20
+the_wickstar: folds=20
+evgenij2125: folds=20
+Uncalled bet ($0.08) returned to KykkaBR
+KykkaBR collected $0.14 from pot
+KykkaBR: doesn't show hand=20
+filltourt joins the table at seat #2=20
+*** SUMMARY ***
+Total pot $0.14 | Rake $0=20
+Board [4c 8d 5h]
+Seat 1: the_wickstar folded on the Flop
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded on the Flop
+Seat 5: Dusch799 (button) folded before Flop (didn't bet)
+Seat 6: KykkaBR (small blind) collected ($0.14)
+Seat 7: tantusi (big blind) folded on the Flop
+
+
+*********** # 102 **************
+PokerStars Hand #169393300288:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:12:11 CUST [2017/04/22 8:12:11 ET]
+Table 'Chryseis II' 9-max Seat #4 is the button
+Seat 1: the_wickstar ($1.43 in chips)=20
+Seat 3: N0$tradamu$ ($5.66 in chips)=20
+Seat 4: evgenij2125 ($2 in chips)=20
+Seat 5: Dusch799 ($1.83 in chips)=20
+Seat 6: KykkaBR ($2.96 in chips)=20
+Seat 7: tantusi ($3.05 in chips)=20
+Dusch799: posts small blind $0.01
+KykkaBR: posts big blind $0.02
+r2122: sits out=20
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [8s 4c]
+tantusi: folds=20
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+evgenij2125: raises $0.04 to $0.06
+Dusch799: folds=20
+KykkaBR: folds=20
+Uncalled bet ($0.04) returned to evgenij2125
+evgenij2125 collected $0.11 from pot
+evgenij2125: doesn't show hand=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 (button) collected ($0.11)
+Seat 5: Dusch799 (small blind) folded before Flop
+Seat 6: KykkaBR (big blind) folded before Flop
+Seat 7: tantusi folded before Flop (didn't bet)
+
+
+*********** # 103 **************
+PokerStars Hand #169393282573:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:11:38 CUST [2017/04/22 8:11:38 ET]
+Table 'Chryseis II' 9-max Seat #3 is the button
+Seat 1: the_wickstar ($1.44 in chips)=20
+Seat 3: N0$tradamu$ ($5.67 in chips)=20
+Seat 4: evgenij2125 ($2 in chips)=20
+Seat 5: Dusch799 ($1.86 in chips)=20
+Seat 6: KykkaBR ($2.97 in chips)=20
+Seat 7: tantusi ($2.97 in chips)=20
+evgenij2125: posts small blind $0.01
+Dusch799: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Tc 3d]
+KykkaBR: folds=20
+tantusi: raises $0.14 to $0.16
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: folds=20
+Uncalled bet ($0.14) returned to tantusi
+tantusi collected $0.11 from pot
+r2122 joins the table at seat #9=20
+*** SUMMARY ***
+Total pot $0.11 | Rake $0=20
+Seat 1: the_wickstar folded before Flop (didn't bet)
+Seat 3: N0$tradamu$ (button) folded before Flop (didn't bet)
+Seat 4: evgenij2125 (small blind) folded before Flop
+Seat 5: Dusch799 (big blind) folded before Flop
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: tantusi collected ($0.11)
+
+
+*********** # 104 **************
+PokerStars Hand #169393247697:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:10:33 CUST [2017/04/22 8:10:33 ET]
+Table 'Chryseis II' 9-max Seat #1 is the button
+Seat 1: the_wickstar ($1.47 in chips)=20
+Seat 3: N0$tradamu$ ($5.70 in chips)=20
+Seat 4: evgenij2125 ($2.10 in chips)=20
+Seat 5: Dusch799 ($1.87 in chips)=20
+Seat 6: KykkaBR ($2.98 in chips)=20
+Seat 7: tantusi ($1.83 in chips)=20
+N0$tradamu$: posts small blind $0.01
+evgenij2125: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [6d 3h]
+Dusch799: folds=20
+KykkaBR: folds=20
+tantusi: calls $0.02
+the_wickstar: calls $0.02
+N0$tradamu$: calls $0.01
+evgenij2125: raises $0.18 to $0.20
+tantusi: calls $0.18
+the_wickstar: folds=20
+N0$tradamu$: folds=20
+*** FLOP *** [Kh Ks Tc]
+evgenij2125: bets $0.29
+tantusi: calls $0.29
+*** TURN *** [Kh Ks Tc] [3d]
+evgenij2125: bets $0.62
+tantusi: calls $0.62
+*** RIVER *** [Kh Ks Tc 3d] [Th]
+evgenij2125: bets $0.02
+tantusi: raises $0.69 to $0.71 and is all-in
+evgenij2125: folds=20
+Uncalled bet ($0.69) returned to tantusi
+tantusi collected $2.28 from pot
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.08=20
+Board [Kh Ks Tc 3d Th]
+Seat 1: the_wickstar (button) folded before Flop
+Seat 3: N0$tradamu$ (small blind) folded before Flop
+Seat 4: evgenij2125 (big blind) folded on the River
+Seat 5: Dusch799 folded before Flop (didn't bet)
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: tantusi collected ($2.28)
+
+
+*********** # 105 **************
+PokerStars Hand #169393217137:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:09:36 CUST [2017/04/22 8:09:36 ET]
+Table 'Chryseis II' 9-max Seat #9 is the button
+Seat 1: the_wickstar ($1.34 in chips)=20
+Seat 3: N0$tradamu$ ($5.73 in chips)=20
+Seat 4: evgenij2125 ($2.11 in chips)=20
+Seat 5: Dusch799 ($1.94 in chips)=20
+Seat 6: KykkaBR ($2.99 in chips)=20
+Seat 7: tantusi ($1.84 in chips)=20
+Seat 9: Roobkaa ($1.70 in chips)=20
+the_wickstar: posts small blind $0.01
+N0$tradamu$: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+Roobkaa: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [5s 6s]
+evgenij2125: folds=20
+Dusch799: raises $0.04 to $0.06
+KykkaBR: folds=20
+tantusi: folds=20
+Roobkaa: folds=20
+Roobkaa leaves the table
+the_wickstar: calls $0.05
+N0$tradamu$: folds=20
+*** FLOP *** [9s 9h Th]
+the_wickstar: checks=20
+Dusch799: checks=20
+*** TURN *** [9s 9h Th] [Ts]
+the_wickstar: checks=20
+Dusch799: checks=20
+*** RIVER *** [9s 9h Th Ts] [Ah]
+the_wickstar: bets $0.20
+Dusch799: folds=20
+Uncalled bet ($0.20) returned to the_wickstar
+the_wickstar collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01=20
+Board [9s 9h Th Ts Ah]
+Seat 1: the_wickstar (small blind) collected ($0.20)
+Seat 3: N0$tradamu$ (big blind) folded before Flop
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 folded on the River
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: tantusi folded before Flop (didn't bet)
+Seat 9: Roobkaa (button) folded before Flop (didn't bet)
+
+
+*********** # 106 **************
+PokerStars Hand #169393188558:  Hold'em No Limit ($0.01/$0.02 USD) - 20=
+17/04/22 22:08:42 CUST [2017/04/22 8:08:42 ET]
+Table 'Chryseis II' 9-max Seat #7 is the button
+Seat 1: the_wickstar ($1.20 in chips)=20
+Seat 3: N0$tradamu$ ($5.74 in chips)=20
+Seat 4: evgenij2125 ($2.12 in chips)=20
+Seat 5: Dusch799 ($2.03 in chips)=20
+Seat 6: KykkaBR ($3 in chips)=20
+Seat 7: tantusi ($1.85 in chips)=20
+Seat 9: Roobkaa ($1.72 in chips)=20
+Roobkaa: posts small blind $0.01
+the_wickstar: posts big blind $0.02
+the_wickstar: posts the ante $0.01
+N0$tradamu$: posts the ante $0.01
+evgenij2125: posts the ante $0.01
+Dusch799: posts the ante $0.01
+KykkaBR: posts the ante $0.01
+tantusi: posts the ante $0.01
+Roobkaa: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to the_wickstar [Kc 3c]
+N0$tradamu$: folds=20
+evgenij2125: folds=20
+Dusch799: calls $0.02
+KykkaBR: folds=20
+tantusi: folds=20
+Roobkaa: folds=20
+the_wickstar: checks=20
+*** FLOP *** [3s Js 5d]
+the_wickstar: checks=20
+Dusch799: checks=20
+*** TURN *** [3s Js 5d] [9c]
+the_wickstar: bets $0.06
+Dusch799: calls $0.06
+*** RIVER *** [3s Js 5d 9c] [2d]
+the_wickstar: checks=20
+Dusch799: checks=20
+*** SHOW DOWN ***
+the_wickstar: shows [Kc 3c] (a pair of Threes)
+Dusch799: mucks hand=20
+the_wickstar collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01=20
+Board [3s Js 5d 9c 2d]
+Seat 1: the_wickstar (big blind) showed [Kc 3c] and won ($0.23) with a =
+pair of Threes
+Seat 3: N0$tradamu$ folded before Flop (didn't bet)
+Seat 4: evgenij2125 folded before Flop (didn't bet)
+Seat 5: Dusch799 mucked [7s 8s]
+Seat 6: KykkaBR folded before Flop (didn't bet)
+Seat 7: tantusi (button) folded before Flop (didn't bet)
+Seat 9: Roobkaa (small blind) folded before Flop
+
+
+
+If you have any questions, please contact us at "PokerStars Support" <s=
+upport@pokerstars.com>
+
+
