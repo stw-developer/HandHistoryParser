@@ -19,7 +19,7 @@ performance and profitability analytics
 # Date  : 30/04/2017
 # Ver   : 0.1
 
-
+#################################################################
 # hh_parser.r - poker hand history parser
 # hand history parsing script for PokerStars
 # parses handhistory text file from pokerstars and
