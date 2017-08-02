@@ -41,6 +41,7 @@ Notes:
 - Analysis only for cash games. Aim to support tournaments in the near future. 
 
 #################################################################
+
 hh_analysis.r - poker hand history analyser
 hand history analyzer for PokerStars
 analyzes handhistory text file from pokerstars and
@@ -57,6 +58,7 @@ Calculates the following:
  Ver   : 0.1
 
 #################################################################
+ 
  hh_parser.r - poker hand history parser
  hand history parsing script for PokerStars
  parses handhistory text file from pokerstars and
