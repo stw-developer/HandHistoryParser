@@ -6,7 +6,7 @@ Typical Poker tracking software is heavy in nature providing the user with a lar
 
 The HandHistoryParser suite aims to provide a light-weight altnernative that provides the player with only the fundamental stats widely used for measuring poker performance. For this reason HandHistoryParser would be aimed at the casual or novice player who would be interested in getting a top-level gauge of their performance; or for players who just want a simple and easy to use poker tracker.
 
-These are:
+The fundamental stats produced by HandHistoryParser are:
 
 bb/100 [big blinds per 100 hands]
 profit expressed as number of big blinds (standard bets) per 100 hands.
@@ -16,6 +16,13 @@ VPIP [Voluntary put $ in pot]
 
 PFR  [Pre Flop Raise]
 % of time you are making pre-flop raises. Measure of player aggressiveness.
+
+In addition to the fundamentals, a few other high level stats are produced. These are
+
+- hands (dealt, played, won) in absolute and % terms 
+- net profit
+- average profit
+- 100-hand average profit 
 
 Output consists of 
 - Statistics (performance, profitability and per hand) printed to screen.
@@ -29,7 +36,9 @@ The suite consists of three main files:
 3. hh_parser_config.r - config file allowing user to specify program behaviour (input/output dirs, read/write options, etc)
 
 Notes:
-02/08/2017 - Currently only analysis of PokerStars.com hand histories are supported.  
+02/08/2017 
+- Currently only analysis of PokerStars.com hand histories are supported.
+- Analysis only for cash games. Aim to support tournaments in the near future. 
 
 #################################################################
 # hh_analysis.r - poker hand history analyser
@@ -40,7 +49,7 @@ Notes:
 #
 # Calculates the following:
 # - Hand statistics (hands (dealt, played, won) in absolute and % terms)
-# - Performance (bb/100, VPIP, PFR)
+# - Fundamental (bb/100, VPIP, PFR)
 # - Profitability (net profit, average profit, 100-hand average) 
 #
 # Author: sherhan wicky
